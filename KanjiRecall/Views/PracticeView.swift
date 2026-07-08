@@ -198,6 +198,9 @@ struct PracticeView: View {
                 }
             }
             .animation(.easeOut(duration: 0.18), value: showMasteryPicker)
+            .onAppear {
+                store.lockCurrentCardIfNeeded()
+            }
         }
     }
 
@@ -237,6 +240,9 @@ struct PracticeView: View {
             HStack(alignment: .top, spacing: 8) {
                 QuestionTextView(card: card)
                     .font(.title2)
+                    .lineLimit(nil)
+                    .fixedSize(horizontal: false, vertical: true)
+                    .layoutPriority(2)
                     .frame(maxWidth: .infinity, alignment: .leading)
 
                 Button {
@@ -250,6 +256,8 @@ struct PracticeView: View {
             }
             .padding()
             .frame(maxWidth: .infinity, alignment: .leading)
+            .fixedSize(horizontal: false, vertical: true)
+            .layoutPriority(2)
             .background(.thinMaterial)
             .clipShape(RoundedRectangle(cornerRadius: 14))
         }
@@ -272,9 +280,7 @@ struct PracticeView: View {
         showAnswer = false
         showPartsHint = false
         clearSignal += 1
-        if store.currentIndex >= store.activeCards.count {
-            store.currentIndex = 0
-        }
+        store.lockCurrentCardIfNeeded()
     }
 }
 

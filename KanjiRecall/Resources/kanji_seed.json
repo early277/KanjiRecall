@@ -12,7 +12,7 @@
   },
   {
     "id": "J10001",
-    "level": "J1",
+    "level": "J",
     "kanji": "唖",
     "question": "口を開けたまま、亜紀は{target}然として立ちつくした。",
     "targetText": "あ",
@@ -23,7 +23,7 @@
   },
   {
     "id": "J10002",
-    "level": "J1",
+    "level": "J",
     "kanji": "娃",
     "question": "女の子が圭さんの庭で、{target}しい人形に見とれた。",
     "targetText": "うつく",
@@ -34,7 +34,7 @@
   },
   {
     "id": "X0045",
-    "level": "J1",
+    "level": "J",
     "kanji": "阿",
     "question": "丘のふもとで可否をはっきり告げ、強い相手にも{target}ることはなかった。",
     "targetText": "おもね",
@@ -80,7 +80,7 @@
   },
   {
     "id": "J10003",
-    "level": "J1",
+    "level": "J",
     "kanji": "姶",
     "question": "女の子たちは合唱の帰り、{target}良の坂道を歩いた。",
     "targetText": "あい",
@@ -91,7 +91,7 @@
   },
   {
     "id": "J10004",
-    "level": "J1",
+    "level": "J",
     "kanji": "逢",
     "question": "道の先で、峰に向かう友とまた{target}う約束をした。",
     "targetText": "あ",
@@ -102,7 +102,7 @@
   },
   {
     "id": "J10005",
-    "level": "J1",
+    "level": "J",
     "kanji": "葵",
     "question": "草の庭で、天へ向くように{target}の葉が開いた。",
     "targetText": "あおい",
@@ -114,7 +114,7 @@
   },
   {
     "id": "J10006",
-    "level": "J1",
+    "level": "J",
     "kanji": "茜",
     "question": "西の空が赤く染まり、草むらに{target}色が広がった。",
     "targetText": "あかね",
@@ -125,7 +125,7 @@
   },
   {
     "id": "J10007",
-    "level": "J1",
+    "level": "J",
     "kanji": "穐",
     "question": "稲穂の田で亀が首を出すころ、{target}の風が吹いた。",
     "targetText": "あき",
@@ -158,7 +158,7 @@
   },
   {
     "id": "J10008",
-    "level": "J1",
+    "level": "J",
     "kanji": "渥",
     "question": "水のしずくが屋根から落ち、{target}美の浜は朝日に光った。",
     "targetText": "あつ",
@@ -169,7 +169,7 @@
   },
   {
     "id": "X0060",
-    "level": "J1",
+    "level": "J",
     "kanji": "旭",
     "question": "九つの窓に日差しが入り、{target}が町を金色にした。",
     "targetText": "あさひ",
@@ -180,7 +180,7 @@
   },
   {
     "id": "J10009",
-    "level": "J1",
+    "level": "J",
     "kanji": "葦",
     "question": "川辺の草むらで、韋駄天の子が走る横を{target}が揺れた。",
     "targetText": "あし",
@@ -191,7 +191,7 @@
   },
   {
     "id": "X0042",
-    "level": "J1",
+    "level": "J",
     "kanji": "芦",
     "question": "戸口のそばの草むらで、風に{target}が揺れた。",
     "targetText": "あし",
@@ -202,7 +202,7 @@
   },
   {
     "id": "X0100",
-    "level": "J1",
+    "level": "J",
     "kanji": "鯵",
     "question": "魚市場に参った朝、父が新鮮な{target}を焼いた。",
     "targetText": "あじ",
@@ -213,7 +213,7 @@
   },
   {
     "id": "J10010",
-    "level": "J1",
+    "level": "J",
     "kanji": "梓",
     "question": "木の香るホームで、辛い別れを胸に{target}は列車に乗った。",
     "targetText": "あずさ",
@@ -235,7 +235,7 @@
   },
   {
     "id": "J10011",
-    "level": "J1",
+    "level": "J",
     "kanji": "斡",
     "question": "朝の市場で斗の米を量り、店主は{target}旋の話をまとめた。",
     "targetText": "あっ",
@@ -269,7 +269,7 @@
   },
   {
     "id": "J10012",
-    "level": "J1",
+    "level": "J",
     "kanji": "姐",
     "question": "女の子は祭りの台のそばで、頼もしい{target}の手を握った。",
     "targetText": "あね",
@@ -280,7 +280,7 @@
   },
   {
     "id": "J10013",
-    "level": "J1",
+    "level": "J",
     "kanji": "虻",
     "question": "亡くなった祖父の畑で、虫取り網に{target}が飛びこんだ。",
     "targetText": "あぶ",
@@ -291,7 +291,7 @@
   },
   {
     "id": "J10014",
-    "level": "J1",
+    "level": "J",
     "kanji": "飴",
     "question": "台所で甘いものを食べながら、祖母が{target}をくれた。",
     "targetText": "あめ",
@@ -302,7 +302,7 @@
   },
   {
     "id": "J10015",
-    "level": "J1",
+    "level": "J",
     "kanji": "絢",
     "question": "旬の花を糸で結び、祭りの灯りは{target}爛と輝いた。",
     "targetText": "けん",
@@ -313,7 +313,7 @@
   },
   {
     "id": "X0021",
-    "level": "J1",
+    "level": "J",
     "kanji": "綾",
     "question": "糸をたどると、小さな土山を越えた先に美しい{target}が浮かんだ。",
     "targetText": "あや",
@@ -326,7 +326,7 @@
   },
   {
     "id": "J10016",
-    "level": "J1",
+    "level": "J",
     "kanji": "鮎",
     "question": "川で魚影を占うように見つめ、父は{target}を釣った。",
     "targetText": "あゆ",
@@ -337,7 +337,7 @@
   },
   {
     "id": "J10017",
-    "level": "J1",
+    "level": "J",
     "kanji": "或",
     "question": "口に出せない一つの秘密を、戈を持つ兵は{target}夜まで守った。",
     "targetText": "ある",
@@ -349,7 +349,7 @@
   },
   {
     "id": "X0040",
-    "level": "J1",
+    "level": "J",
     "kanji": "粟",
     "question": "西の蔵で、米粒より小さな{target}を一つまみもらった。",
     "targetText": "あわ",
@@ -360,7 +360,7 @@
   },
   {
     "id": "J10018",
-    "level": "J1",
+    "level": "J",
     "kanji": "袷",
     "question": "衣替えの日、母は合いそうな帯を選び、{target}の着物を出した。",
     "targetText": "あわせ",
@@ -382,7 +382,7 @@
   },
   {
     "id": "J10019",
-    "level": "J1",
+    "level": "J",
     "kanji": "庵",
     "question": "広い屋根の下、奄美から来た旅人が小さな{target}で休んだ。",
     "targetText": "いおり",
@@ -393,7 +393,7 @@
   },
   {
     "id": "X0030",
-    "level": "J1",
+    "level": "J",
     "kanji": "按",
     "question": "手の温かな人が、安らかな部屋で{target}摩をしてくれた。",
     "targetText": "あん",
@@ -437,7 +437,7 @@
   },
   {
     "id": "J10020",
-    "level": "J1",
+    "level": "J",
     "kanji": "鞍",
     "question": "革のにおいがする小屋で、安らかな馬に{target}をのせた。",
     "targetText": "くら",
@@ -448,7 +448,7 @@
   },
   {
     "id": "J10021",
-    "level": "J1",
+    "level": "J",
     "kanji": "杏",
     "question": "木の下で、子どもが口いっぱいに甘い{target}をほおばった。",
     "targetText": "あんず",
@@ -470,7 +470,7 @@
   },
   {
     "id": "X0025",
-    "level": "J1",
+    "level": "J",
     "kanji": "伊",
     "question": "{target}藤さんは、人ごみの中で手を振った。",
     "targetText": "い",
@@ -494,8 +494,8 @@
     "id": "1035",
     "level": "CH1",
     "kanji": "依",
-    "question": "旅人はぬれた衣を抱え、親切な人に{target}ことにした。",
-    "targetText": "たよる",
+    "question": "青い衣をまとった人に、旅人は道案内を{target}頼した。",
+    "targetText": "い",
     "parts": [
       "人",
       "衣"
@@ -525,7 +525,7 @@
   },
   {
     "id": "J10022",
-    "level": "J1",
+    "level": "J",
     "kanji": "夷",
     "question": "大きな弓を背負った{target}が、浜の市でにこりと笑った。",
     "targetText": "えびす",
@@ -570,7 +570,7 @@
   },
   {
     "id": "J10023",
-    "level": "J1",
+    "level": "J",
     "kanji": "惟",
     "question": "心の中で小さな鳥の声を聞きながら、少年は未来を{target}う。",
     "targetText": "おも",
@@ -724,7 +724,7 @@
   },
   {
     "id": "J10024",
-    "level": "J1",
+    "level": "J",
     "kanji": "謂",
     "question": "田んぼの月夜に聞いた言葉を、祖父は静かに{target}う。",
     "targetText": "い",
@@ -780,7 +780,7 @@
   },
   {
     "id": "J10025",
-    "level": "J1",
+    "level": "J",
     "kanji": "亥",
     "question": "屋根の下をくぐる人に、祖母が十二支の最後の{target}を教えた。",
     "targetText": "い",
@@ -815,7 +815,7 @@
   },
   {
     "id": "J10026",
-    "level": "J1",
+    "level": "J",
     "kanji": "郁",
     "question": "月の有る村で、花の香りが{target}しい夜になった。",
     "targetText": "かぐわ",
@@ -826,7 +826,7 @@
   },
   {
     "id": "J10027",
-    "level": "J1",
+    "level": "J",
     "kanji": "磯",
     "question": "石だらけの{target}で、幾すじもの糸のような波が光った。",
     "targetText": "いそ",
@@ -859,7 +859,7 @@
   },
   {
     "id": "J10028",
-    "level": "J1",
+    "level": "J",
     "kanji": "溢",
     "question": "皿の水が{target}れ、台所の床まできらきら光った。",
     "targetText": "あふ",
@@ -915,7 +915,7 @@
   },
   {
     "id": "J10029",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰯",
     "question": "弱い波にも銀の魚が揺れ、{target}の群れが港へ来た。",
     "targetText": "いわし",
@@ -926,7 +926,7 @@
   },
   {
     "id": "J10030",
-    "level": "J1",
+    "level": "J",
     "kanji": "允",
     "question": "私の前で人がうなずき、門に入ることを{target}す。",
     "targetText": "ゆる",
@@ -1026,7 +1026,7 @@
   },
   {
     "id": "J10031",
-    "level": "J1",
+    "level": "J",
     "kanji": "胤",
     "question": "月明かりに細い糸を結び、人々は家に伝わる命の{target}を守った。",
     "targetText": "たね",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": "J10032",
-    "level": "J1",
+    "level": "J",
     "kanji": "蔭",
     "question": "草の茂る丘で、今にも雲が出そうな木の{target}に座った。",
     "targetText": "かげ",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": "J10033",
-    "level": "J1",
+    "level": "J",
     "kanji": "吋",
     "question": "大工は口に釘をくわえ、板の寸法を一{target}だけ短くした。",
     "targetText": "いんち",
@@ -1130,7 +1130,7 @@
   },
   {
     "id": "J10034",
-    "level": "J1",
+    "level": "J",
     "kanji": "烏",
     "question": "夕焼けの空で、一羽の黒い鳥のように{target}が鳴いた。",
     "targetText": "からす",
@@ -1151,7 +1151,7 @@
   },
   {
     "id": "J10035",
-    "level": "J1",
+    "level": "J",
     "kanji": "迂",
     "question": "干した布をよけて、旅人は道を大きく{target}回した。",
     "targetText": "う",
@@ -1174,7 +1174,7 @@
   },
   {
     "id": "J10036",
-    "level": "J1",
+    "level": "J",
     "kanji": "卯",
     "question": "朝の門が二つ開き、十二支の四番目の{target}の札が揺れた。",
     "targetText": "う",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "J10037",
-    "level": "J1",
+    "level": "J",
     "kanji": "鵜",
     "question": "弟が川で鳥をあやつり、{target}が魚をくわえて戻った。",
     "targetText": "う",
@@ -1196,7 +1196,7 @@
   },
   {
     "id": "J10038",
-    "level": "J1",
+    "level": "J",
     "kanji": "窺",
     "question": "穴のそばで夫が目を細め、門の中をそっと{target}う。",
     "targetText": "うかが",
@@ -1208,7 +1208,7 @@
   },
   {
     "id": "J10039",
-    "level": "J1",
+    "level": "J",
     "kanji": "丑",
     "question": "十二支の二番目、夜明け前に{target}の札が牛小屋で揺れた。",
     "targetText": "うし",
@@ -1219,7 +1219,7 @@
   },
   {
     "id": "J10040",
-    "level": "J1",
+    "level": "J",
     "kanji": "碓",
     "question": "石のそばで小鳥が跳ね、米をつく{target}が静かに鳴った。",
     "targetText": "うす",
@@ -1253,7 +1253,7 @@
   },
   {
     "id": "J10041",
-    "level": "J1",
+    "level": "J",
     "kanji": "嘘",
     "question": "口元だけ笑い、虚しい声で{target}をついた。",
     "targetText": "うそ",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "J10042",
-    "level": "J1",
+    "level": "J",
     "kanji": "欝",
     "question": "林の奥で缶にふたをし、長い影の中で心が{target}な気分になった。",
     "targetText": "うつ",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "J10043",
-    "level": "J1",
+    "level": "J",
     "kanji": "蔚",
     "question": "草原の見張りの尉官も道を失うほど、若葉が{target}る。",
     "targetText": "しげ",
@@ -1300,7 +1300,7 @@
   },
   {
     "id": "J10044",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰻",
     "question": "魚屋の朝日を浴び、網をまたいで長い{target}が跳ねた。",
     "targetText": "うなぎ",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "J10045",
-    "level": "J1",
+    "level": "J",
     "kanji": "姥",
     "question": "村の女たちは、老いた{target}の昔話を囲炉裏ばたで聞いた。",
     "targetText": "うば",
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "J10046",
-    "level": "J1",
+    "level": "J",
     "kanji": "厩",
     "question": "崖のそばで、馬たちは既に{target}へ戻っていた。",
     "targetText": "うまや",
@@ -1346,7 +1346,7 @@
   },
   {
     "id": "J10047",
-    "level": "J1",
+    "level": "J",
     "kanji": "瓜",
     "question": "爪で皮に小さな点をつけ、冷えた{target}を川で洗った。",
     "targetText": "うり",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": "J10048",
-    "level": "J1",
+    "level": "J",
     "kanji": "閏",
     "question": "門の前で王さまが、余った一日を{target}年の祭りにした。",
     "targetText": "うるう",
@@ -1368,7 +1368,7 @@
   },
   {
     "id": "J10049",
-    "level": "J1",
+    "level": "J",
     "kanji": "噂",
     "question": "口元を寄せ、尊い宝の{target}が町じゅうに広がった。",
     "targetText": "うわさ",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "J10050",
-    "level": "J1",
+    "level": "J",
     "kanji": "云",
     "question": "二人だけの秘密を、むっとした顔で{target}のはやめた。",
     "targetText": "いう",
@@ -1412,7 +1412,7 @@
   },
   {
     "id": "J10051",
-    "level": "J1",
+    "level": "J",
     "kanji": "荏",
     "question": "草むらで任された畑に、{target}ごまの白い花が揺れた。",
     "targetText": "え",
@@ -1434,7 +1434,7 @@
   },
   {
     "id": "J10052",
-    "level": "J1",
+    "level": "J",
     "kanji": "叡",
     "question": "占い師が布のふたを取り、少年の目にまた{target}知の光が宿った。",
     "targetText": "えい",
@@ -1459,7 +1459,7 @@
   },
   {
     "id": "J10053",
-    "level": "J1",
+    "level": "J",
     "kanji": "嬰",
     "question": "女の人が二つの貝殻を鳴らすと、{target}児が静かに眠った。",
     "targetText": "えい",
@@ -1494,7 +1494,7 @@
   },
   {
     "id": "J10054",
-    "level": "J1",
+    "level": "J",
     "kanji": "曳",
     "question": "日暮れの道で、乙な飾りのついた荷車を父が{target}く。",
     "targetText": "ひ",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": "J10055",
-    "level": "J1",
+    "level": "J",
     "kanji": "洩",
     "question": "水たまりに日が差し、戸のすき間から明かりが{target}る。",
     "targetText": "もれ",
@@ -1552,7 +1552,7 @@
   },
   {
     "id": "J10056",
-    "level": "J1",
+    "level": "J",
     "kanji": "瑛",
     "question": "玉座のそばで英気を放つ宝石を、王は{target}と呼んだ。",
     "targetText": "えい",
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "J10057",
-    "level": "J1",
+    "level": "J",
     "kanji": "盈",
     "question": "乃木さんがまた皿に水を注ぎ、月の光が部屋に{target}る。",
     "targetText": "みち",
@@ -1575,7 +1575,7 @@
   },
   {
     "id": "J10058",
-    "level": "J1",
+    "level": "J",
     "kanji": "穎",
     "question": "匙で稲をすくうと、古いページの上に{target}がこぼれた。",
     "targetText": "ほさき",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "J10059",
-    "level": "J1",
+    "level": "J",
     "kanji": "頴",
     "question": "祭りの台で匙が転がり、ページの絵に稲の{target}が描かれた。",
     "targetText": "ほさき",
@@ -1735,7 +1735,7 @@
   },
   {
     "id": "J10060",
-    "level": "J1",
+    "level": "J",
     "kanji": "榎",
     "question": "夏の木陰で、白い{target}だけが涼しげに伸びた。",
     "targetText": "えのき",
@@ -1746,7 +1746,7 @@
   },
   {
     "id": "J10061",
-    "level": "J1",
+    "level": "J",
     "kanji": "厭",
     "question": "崖の下で、日なたの犬が月を見上げても{target}そうな顔をした。",
     "targetText": "いや",
@@ -1784,7 +1784,7 @@
   },
   {
     "id": "J10062",
-    "level": "J1",
+    "level": "J",
     "kanji": "堰",
     "question": "土手のかげで、日に照らされた女の子が川の{target}を見つめた。",
     "targetText": "せき",
@@ -1797,7 +1797,7 @@
   },
   {
     "id": "X0017",
-    "level": "J1",
+    "level": "J",
     "kanji": "奄",
     "question": "大きな雲が日差しの町を{target}い、稲妻が遠くで光った。",
     "targetText": "おお",
@@ -1844,7 +1844,7 @@
   },
   {
     "id": "J10063",
-    "level": "J1",
+    "level": "J",
     "kanji": "掩",
     "question": "手にした大きな布が、日差しの庭を{target}う。",
     "targetText": "おお",
@@ -1870,8 +1870,8 @@
     "id": "0843",
     "level": "S6",
     "kanji": "沿",
-    "question": "川の水音を聞きながら、八つの口が並ぶ屋台に{target}歩いた。",
-    "targetText": "そって",
+    "question": "川の水音を聞きながら、八つの口が並ぶ屋台に{target}って歩いた。",
+    "targetText": "そ",
     "parts": [
       "水",
       "八",
@@ -1903,7 +1903,7 @@
   },
   {
     "id": "J10064",
-    "level": "J1",
+    "level": "J",
     "kanji": "焔",
     "question": "火鉢のそばで、古い灯の{target}が夕闇に赤くゆれた。",
     "targetText": "ほのお",
@@ -1927,7 +1927,7 @@
   },
   {
     "id": "J10065",
-    "level": "J1",
+    "level": "J",
     "kanji": "燕",
     "question": "北の軒先で、口いっぱいに草をくわえた{target}が夕焼けを切った。",
     "targetText": "つばめ",
@@ -1976,7 +1976,7 @@
   },
   {
     "id": "J10066",
-    "level": "J1",
+    "level": "J",
     "kanji": "苑",
     "question": "夕暮れ、草の香る花の{target}で、旅人はひざを休めた。",
     "targetText": "その",
@@ -1988,7 +1988,7 @@
   },
   {
     "id": "J10067",
-    "level": "J1",
+    "level": "J",
     "kanji": "薗",
     "question": "草に囲まれた菜{target}で、土の上に衣を広げ、口笛を聞いた。",
     "targetText": "えん",
@@ -2027,7 +2027,7 @@
   },
   {
     "id": "J10068",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴛",
     "question": "夕暮れの池で、鳥影を寄せた{target}のつがいが、ひざを並べるように泳いだ。",
     "targetText": "おしどり",
@@ -2051,7 +2051,7 @@
   },
   {
     "id": "J10069",
-    "level": "J1",
+    "level": "J",
     "kanji": "於",
     "question": "旅先に{target}いて、方角をたずねた人に礼を言った。",
     "targetText": "お",
@@ -2074,7 +2074,7 @@
   },
   {
     "id": "J10070",
-    "level": "J1",
+    "level": "J",
     "kanji": "甥",
     "question": "姉に生まれた男の子、私の{target}が田んぼで力いっぱい走った。",
     "targetText": "おい",
@@ -2220,7 +2220,7 @@
   },
   {
     "id": "J10071",
-    "level": "J1",
+    "level": "J",
     "kanji": "襖",
     "question": "奥の大部屋で、米袋を運ぶ衣のすそが{target}にそっとふれた。",
     "targetText": "ふすま",
@@ -2233,7 +2233,7 @@
   },
   {
     "id": "J10072",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴬",
     "question": "屋根の下で小さな鳥、{target}が春の朝に声を響かせた。",
     "targetText": "うぐいす",
@@ -2245,7 +2245,7 @@
   },
   {
     "id": "J10073",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴎",
     "question": "港の区画を越えて、白い鳥の{target}が波の上を飛んだ。",
     "targetText": "かもめ",
@@ -2290,7 +2290,7 @@
   },
   {
     "id": "J10074",
-    "level": "J1",
+    "level": "J",
     "kanji": "荻",
     "question": "秋の川辺で、犬が火のそばの草、{target}をそっと揺らした。",
     "targetText": "おぎ",
@@ -2346,7 +2346,7 @@
   },
   {
     "id": "J10075",
-    "level": "J1",
+    "level": "J",
     "kanji": "桶",
     "question": "木陰で、水くみに用いる{target}をまた肩にかついだ。",
     "targetText": "おけ",
@@ -2358,7 +2358,7 @@
   },
   {
     "id": "J10076",
-    "level": "J1",
+    "level": "J",
     "kanji": "牡",
     "question": "土けむりの中で、若い牛の{target}が力強く歩いた。",
     "targetText": "おす",
@@ -2494,7 +2494,7 @@
   },
   {
     "id": "J10077",
-    "level": "J1",
+    "level": "J",
     "kanji": "伽",
     "question": "夜、人の口から力のあるお{target}話が始まった。",
     "targetText": "とぎ",
@@ -2550,7 +2550,7 @@
   },
   {
     "id": "J10078",
-    "level": "J1",
+    "level": "J",
     "kanji": "嘉",
     "question": "太鼓のそばで、口々に力をこめ、村人は友の善い行いを{target}する。",
     "targetText": "よみ",
@@ -2686,7 +2686,7 @@
   },
   {
     "id": "J10079",
-    "level": "J1",
+    "level": "J",
     "kanji": "珂",
     "question": "玉のように白い{target}が、可愛い箱の中で月明かりを返した。",
     "targetText": "か",
@@ -2709,7 +2709,7 @@
   },
   {
     "id": "J10080",
-    "level": "J1",
+    "level": "J",
     "kanji": "禾",
     "question": "秋の田で、木のように伸びた穂の{target}が、風にきらりと光った。",
     "targetText": "のぎ",
@@ -2764,7 +2764,7 @@
   },
   {
     "id": "J10081",
-    "level": "J1",
+    "level": "J",
     "kanji": "茄",
     "question": "草むらの畑で、母が味を加えて{target}を焼いた。",
     "targetText": "なす",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": "J10082",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝦",
     "question": "暇な昼下がり、川辺で虫を見ていると{target}が跳ねた。",
     "targetText": "えび",
@@ -2831,7 +2831,7 @@
   },
   {
     "id": "J10083",
-    "level": "J1",
+    "level": "J",
     "kanji": "嘩",
     "question": "祭りの口笛と華やかな太鼓の中で、兄弟のけん{target}が始まった。",
     "targetText": "か",
@@ -2853,7 +2853,7 @@
   },
   {
     "id": "J10084",
-    "level": "J1",
+    "level": "J",
     "kanji": "迦",
     "question": "長い道を歩き、村人はおしゃ{target}さまに花を加えた。",
     "targetText": "か",
@@ -2875,7 +2875,7 @@
   },
   {
     "id": "X0098",
-    "level": "J1",
+    "level": "J",
     "kanji": "霞",
     "question": "雨上がり、仮の宿から見る山に朝の{target}が広がった。",
     "targetText": "かすみ",
@@ -2897,7 +2897,7 @@
   },
   {
     "id": "J10085",
-    "level": "J1",
+    "level": "J",
     "kanji": "俄",
     "question": "人ごみの中、我を忘れるほどの{target}雨が降った。",
     "targetText": "にわか",
@@ -2908,7 +2908,7 @@
   },
   {
     "id": "J10086",
-    "level": "J1",
+    "level": "J",
     "kanji": "峨",
     "question": "山の向こうで、我らはさ{target}の寺に着いた。",
     "targetText": "が",
@@ -2954,7 +2954,7 @@
   },
   {
     "id": "J10087",
-    "level": "J1",
+    "level": "J",
     "kanji": "臥",
     "question": "臣下の人は、病の夜に静かに{target}っていた。",
     "targetText": "ふせ",
@@ -2976,7 +2976,7 @@
   },
   {
     "id": "J10088",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛾",
     "question": "小さな虫たちに交じって、我先にと{target}が灯りへ飛んだ。",
     "targetText": "が",
@@ -3021,7 +3021,7 @@
   },
   {
     "id": "J10089",
-    "level": "J1",
+    "level": "J",
     "kanji": "駕",
     "question": "馬の鈴を聞きながら、旅人は{target}ごに荷を加えた。",
     "targetText": "か",
@@ -3100,7 +3100,7 @@
   },
   {
     "id": "J10090",
-    "level": "J1",
+    "level": "J",
     "kanji": "廻",
     "question": "長い道を回る影を追って、犬が庭を{target}った。",
     "targetText": "まわ",
@@ -3145,7 +3145,7 @@
   },
   {
     "id": "J10091",
-    "level": "J1",
+    "level": "J",
     "kanji": "恢",
     "question": "灰色の朝、友の言葉で心がゆっくり{target}ふくしていった。",
     "targetText": "かい",
@@ -3202,7 +3202,7 @@
   },
   {
     "id": "J10092",
-    "level": "J1",
+    "level": "J",
     "kanji": "魁",
     "question": "鬼の面をかぶり、北斗の星を見上げた若者が{target}となった。",
     "targetText": "さきがけ",
@@ -3213,7 +3213,7 @@
   },
   {
     "id": "J10093",
-    "level": "J1",
+    "level": "J",
     "kanji": "晦",
     "question": "毎月最後の日、町は{target}の静けさに包まれた。",
     "targetText": "みそか",
@@ -3290,7 +3290,7 @@
   },
   {
     "id": "J10094",
-    "level": "J1",
+    "level": "J",
     "kanji": "芥",
     "question": "草むらで介抱を待つ鳥のそばに、{target}が風に舞った。",
     "targetText": "あくた",
@@ -3301,7 +3301,7 @@
   },
   {
     "id": "J10095",
-    "level": "J1",
+    "level": "J",
     "kanji": "蟹",
     "question": "虫の声がする浜で、網を解くと{target}が歩き出した。",
     "targetText": "かに",
@@ -3345,7 +3345,7 @@
   },
   {
     "id": "J10096",
-    "level": "J1",
+    "level": "J",
     "kanji": "凱",
     "question": "山を越え、豆の煮える村へ、兵士たちは{target}せんした。",
     "targetText": "がい",
@@ -3379,7 +3379,7 @@
   },
   {
     "id": "J10097",
-    "level": "J1",
+    "level": "J",
     "kanji": "咳",
     "question": "口を押さえた子が、亥の年の絵馬の前で{target}をした。",
     "targetText": "せき",
@@ -3446,7 +3446,7 @@
   },
   {
     "id": "J10098",
-    "level": "J1",
+    "level": "J",
     "kanji": "碍",
     "question": "日なたの石につまずき、一寸先の道にも障{target}を感じた。",
     "targetText": "がい",
@@ -3493,7 +3493,7 @@
   },
   {
     "id": "J10099",
-    "level": "J1",
+    "level": "J",
     "kanji": "鎧",
     "question": "山の城で豆を煮る火のそば、金色の{target}が光った。",
     "targetText": "よろい",
@@ -3516,7 +3516,7 @@
   },
   {
     "id": "J10100",
-    "level": "J1",
+    "level": "J",
     "kanji": "浬",
     "question": "水の青い里を離れ、船は一{target}先へ進んだ。",
     "targetText": "かいり",
@@ -3527,7 +3527,7 @@
   },
   {
     "id": "J10101",
-    "level": "J1",
+    "level": "J",
     "kanji": "馨",
     "question": "杖をつく音と声のあと、香炉から{target}が庭へ流れた。",
     "targetText": "かおり",
@@ -3539,7 +3539,7 @@
   },
   {
     "id": "J10102",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛙",
     "question": "雨上がりの土の道で、小さな虫を見ながら{target}が跳ねた。",
     "targetText": "かえる",
@@ -3573,7 +3573,7 @@
   },
   {
     "id": "J10103",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛎",
     "question": "崖下の浜で、虫の声を聞きながら、一万の泡をまとった{target}を焼いた。",
     "targetText": "かき",
@@ -3585,7 +3585,7 @@
   },
   {
     "id": "J10104",
-    "level": "J1",
+    "level": "J",
     "kanji": "鈎",
     "question": "金色に光る曲がった{target}で、船の綱を引いた。",
     "targetText": "かぎ",
@@ -3596,7 +3596,7 @@
   },
   {
     "id": "J10105",
-    "level": "J1",
+    "level": "J",
     "kanji": "劃",
     "question": "畑を{target}るため、刀のような小枝で区画の線を引いた。",
     "targetText": "くぎ",
@@ -3630,7 +3630,7 @@
   },
   {
     "id": "J10106",
-    "level": "J1",
+    "level": "J",
     "kanji": "廓",
     "question": "城郭の外、広い屋根の店が並ぶ{target}に灯がともった。",
     "targetText": "くるわ",
@@ -3643,8 +3643,8 @@
     "id": "0847",
     "level": "S6",
     "kanji": "拡",
-    "question": "手で布を{target}と、広い空が見えた。",
-    "targetText": "ひろげる",
+    "question": "手で布を{target}げると、広い空が見えた。",
+    "targetText": "ひろ",
     "parts": [
       "手",
       "広"
@@ -3652,7 +3652,7 @@
   },
   {
     "id": "J10107",
-    "level": "J1",
+    "level": "J",
     "kanji": "撹",
     "question": "眠い朝、手で桶の水を{target}乱すると、目が覚めた魚が散った。",
     "targetText": "かく",
@@ -3757,7 +3757,7 @@
   },
   {
     "id": "J10108",
-    "level": "J1",
+    "level": "J",
     "kanji": "赫",
     "question": "夕日が赤く赤く燃え、空が{target}いた。",
     "targetText": "かがや",
@@ -3805,10 +3805,10 @@
     "id": "1137",
     "level": "CH1",
     "kanji": "隔",
-    "question": "丘の上の店では、古い鍋を囲む客と通りを一枚の壁が{target}てていた。",
+    "question": "丘の上の古い店で、鬲という古い鍋を囲む客と通りを、一枚の壁が{target}てていた。",
     "targetText": "へだ",
     "parts": [
-      "阝",
+      "丘",
       "鬲"
     ]
   },
@@ -3896,7 +3896,7 @@
   },
   {
     "id": "X0005",
-    "level": "J1",
+    "level": "J",
     "kanji": "笠",
     "question": "竹林で夕立にあい、祖父の{target}をかぶった。",
     "targetText": "かさ",
@@ -3907,7 +3907,7 @@
   },
   {
     "id": "X0072",
-    "level": "J1",
+    "level": "J",
     "kanji": "樫",
     "question": "堅い木でできた杖は、{target}の森から来た。",
     "targetText": "かし",
@@ -3918,7 +3918,7 @@
   },
   {
     "id": "J10109",
-    "level": "J1",
+    "level": "J",
     "kanji": "橿",
     "question": "境の野に田が二つ並び、そのそばの{target}の木陰で休んだ。",
     "targetText": "かし",
@@ -3930,7 +3930,7 @@
   },
   {
     "id": "J10110",
-    "level": "J1",
+    "level": "J",
     "kanji": "梶",
     "question": "舟の尾のほうで、木の{target}を握って川を渡った。",
     "targetText": "かじ",
@@ -3941,7 +3941,7 @@
   },
   {
     "id": "J10111",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰍",
     "question": "秋の川で、魚影の中から{target}が石の下へ消えた。",
     "targetText": "かじか",
@@ -3988,7 +3988,7 @@
   },
   {
     "id": "J10112",
-    "level": "J1",
+    "level": "J",
     "kanji": "恰",
     "question": "心がぴたりと合い、二人は{target}も昔からの友のように笑った。",
     "targetText": "あたか",
@@ -4090,7 +4090,7 @@
   },
   {
     "id": "J10113",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰹",
     "question": "魚屋で、身の堅い{target}を一本選んだ。",
     "targetText": "かつお",
@@ -4101,7 +4101,7 @@
   },
   {
     "id": "J10114",
-    "level": "J1",
+    "level": "J",
     "kanji": "叶",
     "question": "十回も口にした願いが、夜明けに{target}った。",
     "targetText": "かな",
@@ -4112,7 +4112,7 @@
   },
   {
     "id": "J10115",
-    "level": "J1",
+    "level": "J",
     "kanji": "椛",
     "question": "山の木に花のような赤が広がり、{target}が風に舞った。",
     "targetText": "もみじ",
@@ -4123,7 +4123,7 @@
   },
   {
     "id": "X0073",
-    "level": "J1",
+    "level": "J",
     "kanji": "樺",
     "question": "華やかな雪国の祭りで、{target}の木皮が赤く燃えた。",
     "targetText": "かば",
@@ -4134,7 +4134,7 @@
   },
   {
     "id": "J10116",
-    "level": "J1",
+    "level": "J",
     "kanji": "鞄",
     "question": "革で包んだような{target}に、旅の手紙をしまった。",
     "targetText": "かばん",
@@ -4156,7 +4156,7 @@
   },
   {
     "id": "J10117",
-    "level": "J1",
+    "level": "J",
     "kanji": "兜",
     "question": "白い息を吐き、足をふんばった武者が{target}をかぶった。",
     "targetText": "かぶと",
@@ -4167,7 +4167,7 @@
   },
   {
     "id": "J10118",
-    "level": "J1",
+    "level": "J",
     "kanji": "竃",
     "question": "土間の穴の奥で火がゆれ、亀の甲羅みたいな古い{target}が温まった。",
     "targetText": "かまど",
@@ -4179,7 +4179,7 @@
   },
   {
     "id": "J10119",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒲",
     "question": "水辺の草むらで、浦風に揺れる{target}の穂を見つけた。",
     "targetText": "がま",
@@ -4212,7 +4212,7 @@
   },
   {
     "id": "J10120",
-    "level": "J1",
+    "level": "J",
     "kanji": "噛",
     "question": "口を開け、歯でりんごを{target}んだ。",
     "targetText": "か",
@@ -4223,7 +4223,7 @@
   },
   {
     "id": "J10121",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴨",
     "question": "甲羅みたいな背を光らせ、鳥の群れから{target}が池へ泳ぎ出た。",
     "targetText": "かも",
@@ -4234,7 +4234,7 @@
   },
   {
     "id": "J10122",
-    "level": "J1",
+    "level": "J",
     "kanji": "栢",
     "question": "木のそばで白い餅を包む{target}の葉が、祭りの朝に香った。",
     "targetText": "かしわ",
@@ -4245,7 +4245,7 @@
   },
   {
     "id": "J10123",
-    "level": "J1",
+    "level": "J",
     "kanji": "茅",
     "question": "草むらで、矛の先みたいに細い{target}が風に鳴った。",
     "targetText": "かや",
@@ -4256,7 +4256,7 @@
   },
   {
     "id": "J10124",
-    "level": "J1",
+    "level": "J",
     "kanji": "萱",
     "question": "草原の祭りを宣伝する旗の下で、{target}が夕風に揺れた。",
     "targetText": "かや",
@@ -4267,7 +4267,7 @@
   },
   {
     "id": "J10125",
-    "level": "J1",
+    "level": "J",
     "kanji": "粥",
     "question": "弓の稽古を終えた朝、米をやわらかく煮た{target}で体を温めた。",
     "targetText": "かゆ",
@@ -4290,7 +4290,7 @@
   },
   {
     "id": "J10126",
-    "level": "J1",
+    "level": "J",
     "kanji": "苅",
     "question": "草の背を刃でそろえ、父は朝から{target}り続けた。",
     "targetText": "か",
@@ -4325,7 +4325,7 @@
   },
   {
     "id": "J10127",
-    "level": "J1",
+    "level": "J",
     "kanji": "侃",
     "question": "人々の口から川のように声が押し寄せても、兄は{target}いまなざしで立っていた。",
     "targetText": "つよ",
@@ -4429,7 +4429,7 @@
   },
   {
     "id": "J10128",
-    "level": "J1",
+    "level": "J",
     "kanji": "姦",
     "question": "三人の女が台所で笑い合い、昼の家は{target}しいほどにぎやかだった。",
     "targetText": "かしま",
@@ -4568,7 +4568,7 @@
   },
   {
     "id": "J10129",
-    "level": "J1",
+    "level": "J",
     "kanji": "柑",
     "question": "木の下で甘いみ{target}をむき、冬の日を分け合った。",
     "targetText": "かん",
@@ -4579,7 +4579,7 @@
   },
   {
     "id": "J10130",
-    "level": "J1",
+    "level": "J",
     "kanji": "桓",
     "question": "木の廊下を風が亘り、先生は{target}武天皇の都を語った。",
     "targetText": "かん",
@@ -4648,7 +4648,7 @@
   },
   {
     "id": "J10131",
-    "level": "J1",
+    "level": "J",
     "kanji": "澗",
     "question": "山の間を走る水の音を追って、旅人は深い{target}へ下りた。",
     "targetText": "たに",
@@ -4659,7 +4659,7 @@
   },
   {
     "id": "J10132",
-    "level": "J1",
+    "level": "J",
     "kanji": "潅",
     "question": "一羽の鳥が見守る庭に、祖母は朝の水を{target}ぎ続けた。",
     "targetText": "そそ",
@@ -4716,7 +4716,7 @@
   },
   {
     "id": "J10133",
-    "level": "J1",
+    "level": "J",
     "kanji": "竿",
     "question": "竹の先で洗濯物が干され、古い{target}が風に鳴った。",
     "targetText": "さお",
@@ -4772,7 +4772,7 @@
   },
   {
     "id": "J10134",
-    "level": "J1",
+    "level": "J",
     "kanji": "翰",
     "question": "十日ぶりの朝日を受けた羽の絵の封筒に、父からの{target}が入っていた。",
     "targetText": "ふみ",
@@ -4807,7 +4807,7 @@
   },
   {
     "id": "J10135",
-    "level": "J1",
+    "level": "J",
     "kanji": "莞",
     "question": "草の茂る水辺で、完全に乾いたござに使う{target}を束ねた。",
     "targetText": "い",
@@ -4831,7 +4831,7 @@
   },
   {
     "id": "J10136",
-    "level": "J1",
+    "level": "J",
     "kanji": "諌",
     "question": "東の空が明るむころ、母は強い言葉で弟を{target}めた。",
     "targetText": "いさ",
@@ -4943,7 +4943,7 @@
   },
   {
     "id": "X0011",
-    "level": "J1",
+    "level": "J",
     "kanji": "舘",
     "question": "官吏が古い宿舎に泊まり、丘の{target}に灯をともした。",
     "targetText": "やかた",
@@ -4988,7 +4988,7 @@
   },
   {
     "id": "J10137",
-    "level": "J1",
+    "level": "J",
     "kanji": "巌",
     "question": "山寺の厳かな庭で、旅人は大きな{target}に腰かけて朝を待った。",
     "targetText": "いわお",
@@ -5010,7 +5010,7 @@
   },
   {
     "id": "J10138",
-    "level": "J1",
+    "level": "J",
     "kanji": "癌",
     "question": "病院で、山ほどの心配を口にした父は{target}の検査を受けた。",
     "targetText": "がん",
@@ -5044,7 +5044,7 @@
   },
   {
     "id": "J10139",
-    "level": "J1",
+    "level": "J",
     "kanji": "翫",
     "question": "白い羽を拾った元日の朝、子どもは宝物を{target}んだ。",
     "targetText": "もてあそ",
@@ -5056,7 +5056,7 @@
   },
   {
     "id": "J10140",
-    "level": "J1",
+    "level": "J",
     "kanji": "贋",
     "question": "崖の店で人が鳥の絵と貝の飾りを売り、それが{target}物だと後で知った。",
     "targetText": "にせ",
@@ -5069,7 +5069,7 @@
   },
   {
     "id": "J10141",
-    "level": "J1",
+    "level": "J",
     "kanji": "雁",
     "question": "崖の下で人を追う鳥の群れが、{target}の声で北へ飛んだ。",
     "targetText": "かり",
@@ -5192,7 +5192,7 @@
   },
   {
     "id": "J10142",
-    "level": "J1",
+    "level": "J",
     "kanji": "嬉",
     "question": "女の子は喜びで口元をゆるめ、{target}しい知らせを抱きしめた。",
     "targetText": "うれ",
@@ -5362,7 +5362,7 @@
   },
   {
     "id": "J10143",
-    "level": "J1",
+    "level": "J",
     "kanji": "毅",
     "question": "立っていた豚小屋のそばで、棒を打つ音にも少年は{target}ぜんとしていた。",
     "targetText": "き",
@@ -5431,7 +5431,7 @@
   },
   {
     "id": "J10144",
-    "level": "J1",
+    "level": "J",
     "kanji": "稀",
     "question": "稲穂の村で、その希望がかなうのは{target}なことだった。",
     "targetText": "まれ",
@@ -5453,7 +5453,7 @@
   },
   {
     "id": "J10145",
-    "level": "J1",
+    "level": "J",
     "kanji": "徽",
     "question": "山道を歩く隊長の胸で、糸でぬった{target}しょうが光った。",
     "targetText": "き",
@@ -5602,7 +5602,7 @@
   },
   {
     "id": "J10146",
-    "level": "J1",
+    "level": "J",
     "kanji": "妓",
     "question": "女の人は枝飾りの扇を持ち、座敷でげい{target}として舞った。",
     "targetText": "ぎ",
@@ -5691,7 +5691,7 @@
   },
   {
     "id": "J10147",
-    "level": "J1",
+    "level": "J",
     "kanji": "祇",
     "question": "祭りの日、氏神の前で灯をともして{target}おんへ向かった。",
     "targetText": "ぎ",
@@ -5713,7 +5713,7 @@
   },
   {
     "id": "X0022",
-    "level": "J1",
+    "level": "J",
     "kanji": "蟻",
     "question": "虫たちの列で、義理堅い{target}が砂糖を分けていた。",
     "targetText": "あり",
@@ -5724,7 +5724,7 @@
   },
   {
     "id": "J10148",
-    "level": "J1",
+    "level": "J",
     "kanji": "誼",
     "question": "古い友と言葉を交わし、よい縁にふさわしい{target}を結んだ。",
     "targetText": "よしみ",
@@ -5746,7 +5746,7 @@
   },
   {
     "id": "J10149",
-    "level": "J1",
+    "level": "J",
     "kanji": "掬",
     "question": "手で丸く囲った水に米粒が浮かび、そっと{target}った。",
     "targetText": "すく",
@@ -5770,7 +5770,7 @@
   },
   {
     "id": "J10150",
-    "level": "J1",
+    "level": "J",
     "kanji": "鞠",
     "question": "革の袋に米を詰めたような{target}が、庭でころんだ。",
     "targetText": "まり",
@@ -5793,7 +5793,7 @@
   },
   {
     "id": "J10151",
-    "level": "J1",
+    "level": "J",
     "kanji": "吃",
     "question": "口ごもりながら乞うような声で、少年は{target}った。",
     "targetText": "ども",
@@ -5815,7 +5815,7 @@
   },
   {
     "id": "J10152",
-    "level": "J1",
+    "level": "J",
     "kanji": "桔",
     "question": "吉日の木陰に、紫の{target}きょうが一輪咲いた。",
     "targetText": "き",
@@ -5826,7 +5826,7 @@
   },
   {
     "id": "J10153",
-    "level": "J1",
+    "level": "J",
     "kanji": "橘",
     "question": "木陰で矛の飾りを見上げ、口にした{target}の実が甘く香った。",
     "targetText": "たちばな",
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "J10154",
-    "level": "J1",
+    "level": "J",
     "kanji": "砧",
     "question": "石の台で布を占うようにたたき、夜の{target}が響いた。",
     "targetText": "きぬた",
@@ -5862,7 +5862,7 @@
   },
   {
     "id": "J10155",
-    "level": "J1",
+    "level": "J",
     "kanji": "杵",
     "question": "昼の午に、木の臼へ{target}を振り下ろした。",
     "targetText": "きね",
@@ -5873,7 +5873,7 @@
   },
   {
     "id": "J10156",
-    "level": "J1",
+    "level": "J",
     "kanji": "黍",
     "question": "稲穂の下で人が水を飲み、黄色い{target}を刈った。",
     "targetText": "きび",
@@ -5963,7 +5963,7 @@
   },
   {
     "id": "J10157",
-    "level": "J1",
+    "level": "J",
     "kanji": "仇",
     "question": "九つの夜を越えても、その人への{target}は消えなかった。",
     "targetText": "あだ",
@@ -6075,7 +6075,7 @@
   },
   {
     "id": "J10158",
-    "level": "J1",
+    "level": "J",
     "kanji": "汲",
     "question": "水場で縄を底まで及ばせ、井戸から桶いっぱいに{target}んだ。",
     "targetText": "く",
@@ -6097,7 +6097,7 @@
   },
   {
     "id": "J10159",
-    "level": "J1",
+    "level": "J",
     "kanji": "灸",
     "question": "久しい痛みに、祖母は小さな火で{target}をすえた。",
     "targetText": "きゅう",
@@ -6142,7 +6142,7 @@
   },
   {
     "id": "J10160",
-    "level": "J1",
+    "level": "J",
     "kanji": "笈",
     "question": "竹の道具が背まで及ぶほど重く、旅人は{target}を背負った。",
     "targetText": "おい",
@@ -6274,7 +6274,7 @@
   },
   {
     "id": "J10161",
-    "level": "J1",
+    "level": "J",
     "kanji": "渠",
     "question": "巨人が木のそばで、水を流す{target}を掘った。",
     "targetText": "みぞ",
@@ -6319,7 +6319,7 @@
   },
   {
     "id": "J10162",
-    "level": "J1",
+    "level": "J",
     "kanji": "鋸",
     "question": "金色の刃を持って、居間の古い板を{target}で切った。",
     "targetText": "のこぎり",
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "J10163",
-    "level": "J1",
+    "level": "J",
     "kanji": "禦",
     "question": "祭壇で御守りを握り、村人は山から来る風を{target}いだ。",
     "targetText": "ふせ",
@@ -6364,7 +6364,7 @@
   },
   {
     "id": "J10164",
-    "level": "J1",
+    "level": "J",
     "kanji": "亨",
     "question": "ふたをした水筒を口に当てると、旅人の声は谷の終わりまで{target}った。",
     "targetText": "とお",
@@ -6411,7 +6411,7 @@
   },
   {
     "id": "J10165",
-    "level": "J1",
+    "level": "J",
     "kanji": "侠",
     "question": "狭い路地で人にはさまれても、{target}は弱い子を助けた。",
     "targetText": "おとこだて",
@@ -6422,7 +6422,7 @@
   },
   {
     "id": "J10166",
-    "level": "J1",
+    "level": "J",
     "kanji": "僑",
     "question": "海の向こうの町で、人々は高い橋を渡り、華{target}の店に集まった。",
     "targetText": "きょう",
@@ -6433,7 +6433,7 @@
   },
   {
     "id": "J10167",
-    "level": "J1",
+    "level": "J",
     "kanji": "兇",
     "question": "穴のそばで子どもが、{target}悪な足音に震えた。",
     "targetText": "きょう",
@@ -6489,7 +6489,7 @@
   },
   {
     "id": "J10168",
-    "level": "J1",
+    "level": "J",
     "kanji": "匡",
     "question": "箱の中で王が、曲がった冠を{target}した。",
     "targetText": "ただ",
@@ -6500,7 +6500,7 @@
   },
   {
     "id": "J10169",
-    "level": "J1",
+    "level": "J",
     "kanji": "卿",
     "question": "卯年の宴で、良い香りの酒を{target}は静かに受け取った。",
     "targetText": "けい",
@@ -6522,7 +6522,7 @@
   },
   {
     "id": "J10170",
-    "level": "J1",
+    "level": "J",
     "kanji": "喬",
     "question": "若い旅人が口笛を吹き、遠い丘の木は空へ{target}く伸びた。",
     "targetText": "たか",
@@ -6569,7 +6569,7 @@
   },
   {
     "id": "J10171",
-    "level": "J1",
+    "level": "J",
     "kanji": "彊",
     "question": "弓を引く兵が、田を守る境で{target}い風に立った。",
     "targetText": "つよ",
@@ -6581,7 +6581,7 @@
   },
   {
     "id": "J10172",
-    "level": "J1",
+    "level": "J",
     "kanji": "怯",
     "question": "心が遠くへ去るように、子犬は雷に{target}えた。",
     "targetText": "おび",
@@ -6727,7 +6727,7 @@
   },
   {
     "id": "J10173",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕎",
     "question": "草の香る畑で、高く伸びた{target}の白い花が揺れた。",
     "targetText": "そば",
@@ -6773,7 +6773,7 @@
   },
   {
     "id": "J10174",
-    "level": "J1",
+    "level": "J",
     "kanji": "饗",
     "question": "ふるさとの食卓で、村人は旅の客を{target}した。",
     "targetText": "もてな",
@@ -6817,7 +6817,7 @@
   },
   {
     "id": "J10175",
-    "level": "J1",
+    "level": "J",
     "kanji": "尭",
     "question": "十人の友だちが土の丘に集まり、{target}くんは足を投げ出して笑った。",
     "targetText": "たかし",
@@ -6896,7 +6896,7 @@
   },
   {
     "id": "X0066",
-    "level": "J1",
+    "level": "J",
     "kanji": "桐",
     "question": "同じ木箱の中に、軽い{target}の香りが残っていた。",
     "targetText": "きり",
@@ -6907,7 +6907,7 @@
   },
   {
     "id": "J10176",
-    "level": "J1",
+    "level": "J",
     "kanji": "粁",
     "question": "千の米袋を積んだ車は、村まで一{target}走った。",
     "targetText": "きろめえとる",
@@ -6984,7 +6984,7 @@
   },
   {
     "id": "J10177",
-    "level": "J1",
+    "level": "J",
     "kanji": "欣",
     "question": "斧で薪を割り、欠けた椀を直した祖父は春の知らせに{target}んだ。",
     "targetText": "よろこ",
@@ -6995,7 +6995,7 @@
   },
   {
     "id": "J10178",
-    "level": "J1",
+    "level": "J",
     "kanji": "欽",
     "question": "金の杯を前に、欠けた月を見上げて客は{target}んで頭を下げた。",
     "targetText": "つつし",
@@ -7029,7 +7029,7 @@
   },
   {
     "id": "X0087",
-    "level": "J1",
+    "level": "J",
     "kanji": "禽",
     "question": "人の気配が去った森で、{target}が網を逃れて高く飛んだ。",
     "targetText": "とり",
@@ -7065,7 +7065,7 @@
   },
   {
     "id": "J10179",
-    "level": "J1",
+    "level": "J",
     "kanji": "芹",
     "question": "春の草むらで、斧の音を遠くに聞きながら{target}を摘んだ。",
     "targetText": "せり",
@@ -7087,7 +7087,7 @@
   },
   {
     "id": "J10180",
-    "level": "J1",
+    "level": "J",
     "kanji": "衿",
     "question": "今朝、母は白い衣の{target}をそっと直した。",
     "targetText": "えり",
@@ -7176,7 +7176,7 @@
   },
   {
     "id": "J10181",
-    "level": "J1",
+    "level": "J",
     "kanji": "倶",
     "question": "人々が道具を持って、{target}に山の祭りへ向かった。",
     "targetText": "とも",
@@ -7209,7 +7209,7 @@
   },
   {
     "id": "X0079",
-    "level": "J1",
+    "level": "J",
     "kanji": "狗",
     "question": "月明かりの庭で、一句読む声に{target}がしっぽを振った。",
     "targetText": "いぬ",
@@ -7220,7 +7220,7 @@
   },
   {
     "id": "J10182",
-    "level": "J1",
+    "level": "J",
     "kanji": "玖",
     "question": "黒い玉を祖母は{target}と呼び、久しく箱にしまっていた。",
     "targetText": "きゅう",
@@ -7231,7 +7231,7 @@
   },
   {
     "id": "J10183",
-    "level": "J1",
+    "level": "J",
     "kanji": "矩",
     "question": "大工は矢のようにまっすぐな大板へ、{target}を当てた。",
     "targetText": "かね",
@@ -7253,7 +7253,7 @@
   },
   {
     "id": "J10184",
-    "level": "J1",
+    "level": "J",
     "kanji": "躯",
     "question": "身をひそめた区画の影で、兵士の{target}が小さく震えた。",
     "targetText": "からだ",
@@ -7275,7 +7275,7 @@
   },
   {
     "id": "J10185",
-    "level": "J1",
+    "level": "J",
     "kanji": "駈",
     "question": "馬が区切りの柵を越え、朝の野原を{target}ていった。",
     "targetText": "かけ",
@@ -7330,7 +7330,7 @@
   },
   {
     "id": "J10186",
-    "level": "J1",
+    "level": "J",
     "kanji": "喰",
     "question": "腹をすかせた犬は口を大きく開け、夕食を{target}った。",
     "targetText": "く",
@@ -7363,7 +7363,7 @@
   },
   {
     "id": "J10187",
-    "level": "J1",
+    "level": "J",
     "kanji": "寓",
     "question": "屋根のある宿で、偶然出会った老人から{target}話を聞いた。",
     "targetText": "ぐう",
@@ -7408,7 +7408,7 @@
   },
   {
     "id": "J10188",
-    "level": "J1",
+    "level": "J",
     "kanji": "櫛",
     "question": "木の箱から、祭りの季節に母の{target}を取り出した。",
     "targetText": "くし",
@@ -7419,7 +7419,7 @@
   },
   {
     "id": "X0096",
-    "level": "J1",
+    "level": "J",
     "kanji": "釧",
     "question": "金色の川が光る町で、祖母の{target}を腕にはめた。",
     "targetText": "くしろ",
@@ -7430,7 +7430,7 @@
   },
   {
     "id": "J10189",
-    "level": "J1",
+    "level": "J",
     "kanji": "屑",
     "question": "小さな月明かりの下で、古い紙の{target}を静かに掃いた。",
     "targetText": "くず",
@@ -7476,7 +7476,7 @@
   },
   {
     "id": "J10190",
-    "level": "J1",
+    "level": "J",
     "kanji": "沓",
     "question": "水たまりのそばで、日なたに濡れた{target}を干した。",
     "targetText": "くつ",
@@ -7498,7 +7498,7 @@
   },
   {
     "id": "J10191",
-    "level": "J1",
+    "level": "J",
     "kanji": "轡",
     "question": "糸で飾った馬車の前で、馬の口に{target}をかけた。",
     "targetText": "くつわ",
@@ -7510,7 +7510,7 @@
   },
   {
     "id": "J10192",
-    "level": "J1",
+    "level": "J",
     "kanji": "窪",
     "question": "雨水が穴にたまり、土の道の{target}みが夕日に光った。",
     "targetText": "くぼ",
@@ -7534,7 +7534,7 @@
   },
   {
     "id": "X0097",
-    "level": "J1",
+    "level": "J",
     "kanji": "隈",
     "question": "丘の道のすみ、田のかげの{target}に子ぎつねが隠れた。",
     "targetText": "くま",
@@ -7546,7 +7546,7 @@
   },
   {
     "id": "J10193",
-    "level": "J1",
+    "level": "J",
     "kanji": "粂",
     "question": "久しい米蔵のそばに住む{target}さんが、朝から門を開けた。",
     "targetText": "くめ",
@@ -7557,7 +7557,7 @@
   },
   {
     "id": "X0034",
-    "level": "J1",
+    "level": "J",
     "kanji": "栗",
     "question": "西日の当たる木の下で、茶色い{target}がころんと落ちた。",
     "targetText": "くり",
@@ -7593,7 +7593,7 @@
   },
   {
     "id": "J10194",
-    "level": "J1",
+    "level": "J",
     "kanji": "鍬",
     "question": "秋の畑で、父は金色に光る{target}を肩にかついだ。",
     "targetText": "くわ",
@@ -7683,7 +7683,7 @@
   },
   {
     "id": "J10195",
-    "level": "J1",
+    "level": "J",
     "kanji": "卦",
     "question": "土を二つ盛った庭で、占い師は静かに{target}を読んだ。",
     "targetText": "け",
@@ -7695,7 +7695,7 @@
   },
   {
     "id": "J10196",
-    "level": "J1",
+    "level": "J",
     "kanji": "袈",
     "question": "僧は衣をまとい、加持の声の中で{target}さを直した。",
     "targetText": "け",
@@ -7706,7 +7706,7 @@
   },
   {
     "id": "J10197",
-    "level": "J1",
+    "level": "J",
     "kanji": "祁",
     "question": "神社のある町で、旅人は{target}さんに道を聞いた。",
     "targetText": "き",
@@ -7774,7 +7774,7 @@
   },
   {
     "id": "J10198",
-    "level": "J1",
+    "level": "J",
     "kanji": "圭",
     "question": "土の丘を二つ越えた先で、王は古い玉を{target}と呼んだ。",
     "targetText": "けい",
@@ -7785,7 +7785,7 @@
   },
   {
     "id": "J10199",
-    "level": "J1",
+    "level": "J",
     "kanji": "珪",
     "question": "王の庭で、土色の玉が{target}石のように白く光った。",
     "targetText": "けい",
@@ -7869,7 +7869,7 @@
   },
   {
     "id": "J10200",
-    "level": "J1",
+    "level": "J",
     "kanji": "慧",
     "question": "ほうきで庭を清めたあと、少女は心まで{target}い返事をした。",
     "targetText": "さと",
@@ -7940,7 +7940,7 @@
   },
   {
     "id": "X0035",
-    "level": "J1",
+    "level": "J",
     "kanji": "桂",
     "question": "木陰の土を二度踏みしめると、庭の{target}が甘く香った。",
     "targetText": "かつら",
@@ -7965,7 +7965,7 @@
   },
   {
     "id": "J10201",
-    "level": "J1",
+    "level": "J",
     "kanji": "畦",
     "question": "田んぼの土手で、蛙が{target}を越えて小さな土の穴へ跳んだ。",
     "targetText": "あぜ",
@@ -8024,7 +8024,7 @@
   },
   {
     "id": "J10202",
-    "level": "J1",
+    "level": "J",
     "kanji": "繋",
     "question": "車の荷台から糸がのび、少年は犬を木に{target}いだ。",
     "targetText": "つな",
@@ -8036,7 +8036,7 @@
   },
   {
     "id": "J10203",
-    "level": "J1",
+    "level": "J",
     "kanji": "罫",
     "question": "網目のノートに、土の庭を占うような{target}線をまっすぐ引いた。",
     "targetText": "けい",
@@ -8060,7 +8060,7 @@
   },
   {
     "id": "J10204",
-    "level": "J1",
+    "level": "J",
     "kanji": "荊",
     "question": "草むらで、刀のようなとげを持つ{target}が旅人の袖を止めた。",
     "targetText": "いばら",
@@ -8130,7 +8130,7 @@
   },
   {
     "id": "J10205",
-    "level": "J1",
+    "level": "J",
     "kanji": "頚",
     "question": "また土の坂で転んだ少年は、頭をかばって{target}をさすった。",
     "targetText": "くび",
@@ -8200,7 +8200,7 @@
   },
   {
     "id": "J10206",
-    "level": "J1",
+    "level": "J",
     "kanji": "戟",
     "question": "朝日がのぼる門で、十本の古い{target}を兵たちがかかげた。",
     "targetText": "ほこ",
@@ -8341,7 +8341,7 @@
   },
   {
     "id": "J10207",
-    "level": "J1",
+    "level": "J",
     "kanji": "訣",
     "question": "言葉少なに手を振り、親友と{target}別の朝を迎えた。",
     "targetText": "けつ",
@@ -8386,7 +8386,7 @@
   },
   {
     "id": "J10208",
-    "level": "J1",
+    "level": "J",
     "kanji": "倦",
     "question": "長い旅で人々は{target}んで、古い券を握ったまま駅に座りこんだ。",
     "targetText": "う",
@@ -8446,7 +8446,7 @@
   },
   {
     "id": "J10209",
-    "level": "J1",
+    "level": "J",
     "kanji": "喧",
     "question": "家の前で口々に勝利を宣言し、夜まで{target}騒が続いた。",
     "targetText": "けん",
@@ -8537,7 +8537,7 @@
   },
   {
     "id": "J10210",
-    "level": "J1",
+    "level": "J",
     "kanji": "捲",
     "question": "手で袖を{target}くると、隠していた券がひらりと落ちた。",
     "targetText": "ま",
@@ -8571,7 +8571,7 @@
   },
   {
     "id": "X0037",
-    "level": "J1",
+    "level": "J",
     "kanji": "牽",
     "question": "黒い糸を手にした子が、牛の荷車を{target}引した。",
     "targetText": "けん",
@@ -8615,7 +8615,7 @@
   },
   {
     "id": "J10211",
-    "level": "J1",
+    "level": "J",
     "kanji": "硯",
     "question": "石の机に月明かりがさし、師匠は{target}を見つめて墨をすった。",
     "targetText": "すずり",
@@ -8764,7 +8764,7 @@
   },
   {
     "id": "J10212",
-    "level": "J1",
+    "level": "J",
     "kanji": "鹸",
     "question": "白い石{target}の泡で手を洗うと、塩のにおいもみんな消えた。",
     "targetText": "けん",
@@ -8879,7 +8879,7 @@
   },
   {
     "id": "J10213",
-    "level": "J1",
+    "level": "J",
     "kanji": "絃",
     "question": "玄関に置いた琴から、細い糸のような{target}の音が震えた。",
     "targetText": "げん",
@@ -8912,7 +8912,7 @@
   },
   {
     "id": "J10214",
-    "level": "J1",
+    "level": "J",
     "kanji": "諺",
     "question": "村の彦じいが囲炉裏のそばで、昔の言葉のような{target}を教えた。",
     "targetText": "ことわざ",
@@ -8934,7 +8934,7 @@
   },
   {
     "id": "J10215",
-    "level": "J1",
+    "level": "J",
     "kanji": "乎",
     "question": "平らな池のほとりで、鳥は「春は来た{target}」と小さく鳴いた。",
     "targetText": "か",
@@ -8990,7 +8990,7 @@
   },
   {
     "id": "J10216",
-    "level": "J1",
+    "level": "J",
     "kanji": "姑",
     "question": "古い家の台所で、女たちを見守る{target}が味噌汁をよそった。",
     "targetText": "しゅうとめ",
@@ -9090,7 +9090,7 @@
   },
   {
     "id": "J10217",
-    "level": "J1",
+    "level": "J",
     "kanji": "狐",
     "question": "犬に似た足音を残し、瓜畑の月明かりに{target}が現れた。",
     "targetText": "きつね",
@@ -9101,7 +9101,7 @@
   },
   {
     "id": "J10218",
-    "level": "J1",
+    "level": "J",
     "kanji": "糊",
     "question": "古い月夜の机で、米から作った{target}を紙の端に塗った。",
     "targetText": "のり",
@@ -9113,7 +9113,7 @@
   },
   {
     "id": "J10219",
-    "level": "J1",
+    "level": "J",
     "kanji": "袴",
     "question": "祭りの朝、大きな衣を二本の足に通し、父は{target}のひもを締めた。",
     "targetText": "はかま",
@@ -9135,7 +9135,7 @@
   },
   {
     "id": "J10220",
-    "level": "J1",
+    "level": "J",
     "kanji": "胡",
     "question": "古い月夜の台所で、{target}しょうの香りが鍋からふわりと立った。",
     "targetText": "こ",
@@ -9146,7 +9146,7 @@
   },
   {
     "id": "J10221",
-    "level": "J1",
+    "level": "J",
     "kanji": "菰",
     "question": "草むらでひとり、{target}の葉が風に鳴った。",
     "targetText": "まこも",
@@ -9179,7 +9179,7 @@
   },
   {
     "id": "J10222",
-    "level": "J1",
+    "level": "J",
     "kanji": "跨",
     "question": "大きな水たまりを、足を上げて{target}いだ。",
     "targetText": "また",
@@ -9191,7 +9191,7 @@
   },
   {
     "id": "J10223",
-    "level": "J1",
+    "level": "J",
     "kanji": "鈷",
     "question": "寺の宝箱で、金色に古びた五{target}の法具が光った。",
     "targetText": "こ",
@@ -9260,7 +9260,7 @@
   },
   {
     "id": "J10224",
-    "level": "J1",
+    "level": "J",
     "kanji": "伍",
     "question": "五人の仲間が並び、夜警の{target}が門へ向かった。",
     "targetText": "くみ",
@@ -9293,7 +9293,7 @@
   },
   {
     "id": "X0050",
-    "level": "J1",
+    "level": "J",
     "kanji": "吾",
     "question": "五つの口が笑っても、{target}は静かにうなずいた。",
     "targetText": "われ",
@@ -9349,7 +9349,7 @@
   },
   {
     "id": "J10225",
-    "level": "J1",
+    "level": "J",
     "kanji": "梧",
     "question": "木陰で吾が名を呼ぶ声を聞き、{target}の葉が揺れた。",
     "targetText": "あおぎり",
@@ -9360,7 +9360,7 @@
   },
   {
     "id": "J10226",
-    "level": "J1",
+    "level": "J",
     "kanji": "檎",
     "question": "林の木で鳥が鳴き、赤いりん{target}をかじった。",
     "targetText": "ご",
@@ -9371,7 +9371,7 @@
   },
   {
     "id": "J10227",
-    "level": "J1",
+    "level": "J",
     "kanji": "瑚",
     "question": "古い海の王国みたいに、赤いさん{target}が光った。",
     "targetText": "ご",
@@ -9428,7 +9428,7 @@
   },
   {
     "id": "J10228",
-    "level": "J1",
+    "level": "J",
     "kanji": "醐",
     "question": "酒蔵の窓から古い月を眺め、だい{target}味を知った。",
     "targetText": "ご",
@@ -9451,7 +9451,7 @@
   },
   {
     "id": "J10229",
-    "level": "J1",
+    "level": "J",
     "kanji": "鯉",
     "question": "魚が里の池で跳ね、{target}のぼりを待つ子が笑った。",
     "targetText": "こい",
@@ -9473,7 +9473,7 @@
   },
   {
     "id": "J10230",
-    "level": "J1",
+    "level": "J",
     "kanji": "佼",
     "question": "人が交わる広場で、{target}しい笑顔が灯りに映えた。",
     "targetText": "うつく",
@@ -9507,7 +9507,7 @@
   },
   {
     "id": "J10231",
-    "level": "J1",
+    "level": "J",
     "kanji": "倖",
     "question": "幸せを運ぶ人に会い、旅の{target}いを静かに感じた。",
     "targetText": "さいわ",
@@ -9642,7 +9642,7 @@
   },
   {
     "id": "X0052",
-    "level": "J1",
+    "level": "J",
     "kanji": "垢",
     "question": "土の庭で遊んだあと、白い袖に{target}が残った。",
     "targetText": "あか",
@@ -9686,7 +9686,7 @@
   },
   {
     "id": "X0018",
-    "level": "J1",
+    "level": "J",
     "kanji": "宏",
     "question": "屋根の下でナツメとむぎ茶を分け合い、少年は{target}世界を夢見た。",
     "targetText": "ひろい",
@@ -9721,7 +9721,7 @@
   },
   {
     "id": "J10232",
-    "level": "J1",
+    "level": "J",
     "kanji": "巷",
     "question": "皆と共に蛇の旗を追ううち、{target}は朝からにぎわった。",
     "targetText": "ちまた",
@@ -9755,7 +9755,7 @@
   },
   {
     "id": "J10233",
-    "level": "J1",
+    "level": "J",
     "kanji": "庚",
     "question": "広い屋根の下で手帳を開き、暦の{target}に丸をつけた。",
     "targetText": "かのえ",
@@ -9779,7 +9779,7 @@
   },
   {
     "id": "X0058",
-    "level": "J1",
+    "level": "J",
     "kanji": "弘",
     "question": "弓をかかえた少年は、むこうの{target}い草原へ走った。",
     "targetText": "ひろ",
@@ -9856,7 +9856,7 @@
   },
   {
     "id": "J10234",
-    "level": "J1",
+    "level": "J",
     "kanji": "昂",
     "question": "朝日を浴びて胸が{target}ぶり、卯の刻の太鼓が響いた。",
     "targetText": "たか",
@@ -9867,7 +9867,7 @@
   },
   {
     "id": "J10235",
-    "level": "J1",
+    "level": "J",
     "kanji": "晃",
     "question": "日差しと光の中で、湖面が{target}るように揺れた。",
     "targetText": "ひか",
@@ -9890,7 +9890,7 @@
   },
   {
     "id": "X0064",
-    "level": "J1",
+    "level": "J",
     "kanji": "杭",
     "question": "木の橋のたもとで、川風に負けぬよう{target}を打った。",
     "targetText": "くい",
@@ -9957,7 +9957,7 @@
   },
   {
     "id": "J10236",
-    "level": "J1",
+    "level": "J",
     "kanji": "浩",
     "question": "水辺で知らせを告げる鐘が鳴り、川は{target}く流れた。",
     "targetText": "ひろ",
@@ -10036,7 +10036,7 @@
   },
   {
     "id": "J10237",
-    "level": "J1",
+    "level": "J",
     "kanji": "糠",
     "question": "米蔵のそばで、健やかに育った野菜を{target}床へ沈めた。",
     "targetText": "ぬか",
@@ -10058,7 +10058,7 @@
   },
   {
     "id": "J10238",
-    "level": "J1",
+    "level": "J",
     "kanji": "紘",
     "question": "広い幕を支える糸の{target}を、右手でそっと結んだ。",
     "targetText": "ひも",
@@ -10093,8 +10093,8 @@
     "id": "0702",
     "level": "S5",
     "kanji": "耕",
-    "question": "春の朝、井戸の水を飲んでから畑を{target}。",
-    "targetText": "たがやした",
+    "question": "春の朝、井戸の水を飲んでから畑を{target}した。",
+    "targetText": "たがや",
     "parts": [
       "すき",
       "井"
@@ -10124,7 +10124,7 @@
   },
   {
     "id": "J10239",
-    "level": "J1",
+    "level": "J",
     "kanji": "肱",
     "question": "月明かりの下、広い机に{target}をついて考えた。",
     "targetText": "ひじ",
@@ -10135,7 +10135,7 @@
   },
   {
     "id": "J10240",
-    "level": "J1",
+    "level": "J",
     "kanji": "腔",
     "question": "月夜の診察室で、空気の通る体{target}を医師が調べた。",
     "targetText": "こう",
@@ -10146,7 +10146,7 @@
   },
   {
     "id": "X0090",
-    "level": "J1",
+    "level": "J",
     "kanji": "膏",
     "question": "月の高い夜、ランプの{target}が甘くにおった。",
     "targetText": "あぶら",
@@ -10271,7 +10271,7 @@
   },
   {
     "id": "J10241",
-    "level": "J1",
+    "level": "J",
     "kanji": "砿",
     "question": "石山の広い坑道で、父は{target}石を見つけた。",
     "targetText": "こう",
@@ -10293,7 +10293,7 @@
   },
   {
     "id": "J10242",
-    "level": "J1",
+    "level": "J",
     "kanji": "閤",
     "question": "大きな門の内で皆が合図を待ち、{target}門が静かに開いた。",
     "targetText": "こう",
@@ -10349,7 +10349,7 @@
   },
   {
     "id": "J10243",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴻",
     "question": "川辺の工場の上を、{target}が鳥の影のように渡った。",
     "targetText": "おおとり",
@@ -10372,7 +10372,7 @@
   },
   {
     "id": "J10244",
-    "level": "J1",
+    "level": "J",
     "kanji": "劫",
     "question": "去った星を追う力も尽き、旅人は永{target}の夜を歩いた。",
     "targetText": "ごう",
@@ -10406,7 +10406,7 @@
   },
   {
     "id": "J10245",
-    "level": "J1",
+    "level": "J",
     "kanji": "壕",
     "question": "土の壁のそばで、豪雨の水が{target}にたまった。",
     "targetText": "ほり",
@@ -10428,7 +10428,7 @@
   },
   {
     "id": "J10246",
-    "level": "J1",
+    "level": "J",
     "kanji": "濠",
     "question": "水鳥が遊び、豪華な城の{target}が朝日に光った。",
     "targetText": "ほり",
@@ -10452,7 +10452,7 @@
   },
   {
     "id": "J10247",
-    "level": "J1",
+    "level": "J",
     "kanji": "轟",
     "question": "三台の車が山道を走り、谷に音が{target}いた。",
     "targetText": "とどろ",
@@ -10464,7 +10464,7 @@
   },
   {
     "id": "J10248",
-    "level": "J1",
+    "level": "J",
     "kanji": "麹",
     "question": "麦畑のそばで、包んだ米から甘い{target}の香りがした。",
     "targetText": "こうじ",
@@ -10500,8 +10500,8 @@
     "id": "0708",
     "level": "S5",
     "kanji": "告",
-    "question": "牛小屋の前で、少年は口を開いて秘密を{target}。",
-    "targetText": "つげた",
+    "question": "牛小屋の前で、少年は口を開いて秘密を{target}げた。",
+    "targetText": "つ",
     "parts": [
       "牛",
       "口"
@@ -10544,7 +10544,7 @@
   },
   {
     "id": "J10249",
-    "level": "J1",
+    "level": "J",
     "kanji": "鵠",
     "question": "白い鳥が湖で声を告げるように鳴き、{target}が朝霧へ進んだ。",
     "targetText": "くぐい",
@@ -10578,7 +10578,7 @@
   },
   {
     "id": "J10250",
-    "level": "J1",
+    "level": "J",
     "kanji": "漉",
     "question": "鹿の来る沢でくんだ水を布に通し、母は豆乳を{target}した。",
     "targetText": "こ",
@@ -10600,7 +10600,7 @@
   },
   {
     "id": "J10251",
-    "level": "J1",
+    "level": "J",
     "kanji": "甑",
     "question": "昔の台所で、曾祖母は瓦屋根の下、米を{target}で蒸した。",
     "targetText": "こしき",
@@ -10611,7 +10611,7 @@
   },
   {
     "id": "J10252",
-    "level": "J1",
+    "level": "J",
     "kanji": "忽",
     "question": "心配する間もなく、勿忘草の花は{target}散った。",
     "targetText": "たちまち",
@@ -10622,7 +10622,7 @@
   },
   {
     "id": "J10253",
-    "level": "J1",
+    "level": "J",
     "kanji": "惚",
     "question": "勿忘草をくれた人のやさしい心に、少年は{target}れた。",
     "targetText": "ほ",
@@ -10645,7 +10645,7 @@
   },
   {
     "id": "J10254",
-    "level": "J1",
+    "level": "J",
     "kanji": "狛",
     "question": "白い犬のような{target}犬が、神社の石段で客を見ていた。",
     "targetText": "こま",
@@ -10667,7 +10667,7 @@
   },
   {
     "id": "J10255",
-    "level": "J1",
+    "level": "J",
     "kanji": "此",
     "question": "{target}の道で足を止めると、匙のような小枝が落ちていた。",
     "targetText": "こ",
@@ -10712,7 +10712,7 @@
   },
   {
     "id": "J10256",
-    "level": "J1",
+    "level": "J",
     "kanji": "坤",
     "question": "土の地図で申の少し手前を、祖父は{target}の方角だと言った。",
     "targetText": "ひつじさる",
@@ -10770,7 +10770,7 @@
   },
   {
     "id": "J10257",
-    "level": "J1",
+    "level": "J",
     "kanji": "昏",
     "question": "夕日が氏神の森に沈み、道が{target}くなった。",
     "targetText": "くら",
@@ -10803,7 +10803,7 @@
   },
   {
     "id": "J10258",
-    "level": "J1",
+    "level": "J",
     "kanji": "梱",
     "question": "木箱に困るほど荷を詰め、店員は{target}包を急いだ。",
     "targetText": "こん",
@@ -10816,8 +10816,8 @@
     "id": "0709",
     "level": "S5",
     "kanji": "混",
-    "question": "日差しの川で、比べられないほど多くの色が{target}。",
-    "targetText": "まざった",
+    "question": "日差しの川で、比べられないほど多くの色が{target}ざった。",
+    "targetText": "ま",
     "parts": [
       "水",
       "日",
@@ -10848,7 +10848,7 @@
   },
   {
     "id": "J10259",
-    "level": "J1",
+    "level": "J",
     "kanji": "艮",
     "question": "良い朝、牛と虎の間の方角に、旅人は{target}の山を見た。",
     "targetText": "うしとら",
@@ -10870,7 +10870,7 @@
   },
   {
     "id": "J10260",
-    "level": "J1",
+    "level": "J",
     "kanji": "些",
     "question": "この道で足を止め、二つの小石を拾って{target}か笑った。",
     "targetText": "いささ",
@@ -10892,7 +10892,7 @@
   },
   {
     "id": "J10261",
-    "level": "J1",
+    "level": "J",
     "kanji": "叉",
     "question": "友だちが手に小さな点をつけ、木の枝の{target}を示した。",
     "targetText": "また",
@@ -10916,7 +10916,7 @@
   },
   {
     "id": "J10262",
-    "level": "J1",
+    "level": "J",
     "kanji": "嵯",
     "question": "山の上で羊の群れが分かれ道に迷い、{target}峨の景色に息をのんだ。",
     "targetText": "さ",
@@ -10971,7 +10971,7 @@
   },
   {
     "id": "J10263",
-    "level": "J1",
+    "level": "J",
     "kanji": "瑳",
     "question": "王家の玉に朝日が差し、職人はそれを白く{target}く。",
     "targetText": "みが",
@@ -11016,7 +11016,7 @@
   },
   {
     "id": "J10264",
-    "level": "J1",
+    "level": "J",
     "kanji": "裟",
     "question": "衣を着た僧が、砂浜を少し歩き、け{target}のすそを払った。",
     "targetText": "さ",
@@ -11027,7 +11027,7 @@
   },
   {
     "id": "J10265",
-    "level": "J1",
+    "level": "J",
     "kanji": "坐",
     "question": "二人が土の広場で、夕日を見ながら静かに{target}る。",
     "targetText": "すわ",
@@ -11110,7 +11110,7 @@
   },
   {
     "id": "J10266",
-    "level": "J1",
+    "level": "J",
     "kanji": "哉",
     "question": "口元で歌い、ほこをかついだ旅人が、春{target}と笑った。",
     "targetText": "かな",
@@ -11182,8 +11182,8 @@
     "id": "0714",
     "level": "S5",
     "kanji": "採",
-    "question": "木の上の実を、爪を立てないよう手でそっと{target}。",
-    "targetText": "とった",
+    "question": "木の上の実を、爪を立てないよう手でそっと{target}った。",
+    "targetText": "と",
     "parts": [
       "手",
       "爪",
@@ -11249,7 +11249,7 @@
   },
   {
     "id": "J10267",
-    "level": "J1",
+    "level": "J",
     "kanji": "犀",
     "question": "小屋の屋根から水が落ち、牛より強そうな{target}がぬかるみを進んだ。",
     "targetText": "さい",
@@ -11273,7 +11273,7 @@
   },
   {
     "id": "J10268",
-    "level": "J1",
+    "level": "J",
     "kanji": "砦",
     "question": "この石の丘に、村人たちは小さな{target}を築いた。",
     "targetText": "とりで",
@@ -11420,7 +11420,7 @@
   },
   {
     "id": "J10269",
-    "level": "J1",
+    "level": "J",
     "kanji": "冴",
     "question": "氷のような月夜、白い牙の獣を見て目が{target}える。",
     "targetText": "さ",
@@ -11453,7 +11453,7 @@
   },
   {
     "id": "J10270",
-    "level": "J1",
+    "level": "J",
     "kanji": "堺",
     "question": "田んぼと土の道の{target}で、介さんが手を振った。",
     "targetText": "さかい",
@@ -11465,7 +11465,7 @@
   },
   {
     "id": "J10271",
-    "level": "J1",
+    "level": "J",
     "kanji": "榊",
     "question": "神社の木陰で、巫女が{target}の枝を静かに供えた。",
     "targetText": "さかき",
@@ -11476,7 +11476,7 @@
   },
   {
     "id": "J10272",
-    "level": "J1",
+    "level": "J",
     "kanji": "肴",
     "question": "月夜に友と酒を酌み、交わる火のそばで{target}をつまんだ。",
     "targetText": "さかな",
@@ -11523,7 +11523,7 @@
   },
   {
     "id": "J10273",
-    "level": "J1",
+    "level": "J",
     "kanji": "碕",
     "question": "奇妙な石が並ぶ海の{target}に、白い鳥が立っていた。",
     "targetText": "さき",
@@ -11534,7 +11534,7 @@
   },
   {
     "id": "J10274",
-    "level": "J1",
+    "level": "J",
     "kanji": "鷺",
     "question": "水辺へ続く路で、白い鳥の{target}が静かに舞い上がった。",
     "targetText": "さぎ",
@@ -11568,7 +11568,7 @@
   },
   {
     "id": "J10275",
-    "level": "J1",
+    "level": "J",
     "kanji": "咋",
     "question": "歩きながら、口いっぱいの干し肉をゆっくり{target}む。",
     "targetText": "か",
@@ -11602,7 +11602,7 @@
   },
   {
     "id": "J10276",
-    "level": "J1",
+    "level": "J",
     "kanji": "朔",
     "question": "逆さに沈む細い月を見て、旅人は{target}の朝を待った。",
     "targetText": "ついたち",
@@ -11624,7 +11624,7 @@
   },
   {
     "id": "J10277",
-    "level": "J1",
+    "level": "J",
     "kanji": "窄",
     "question": "穴の入口で待ちながら、子猫は体を小さく{target}める。",
     "targetText": "すぼ",
@@ -11680,7 +11680,7 @@
   },
   {
     "id": "J10278",
-    "level": "J1",
+    "level": "J",
     "kanji": "鮭",
     "question": "川をのぼる魚の{target}が、土色の岸に大きく跳ねた。",
     "targetText": "さけ",
@@ -11691,7 +11691,7 @@
   },
   {
     "id": "J10279",
-    "level": "J1",
+    "level": "J",
     "kanji": "笹",
     "question": "竹やぶで世話になった村人が、{target}の葉に団子を包んだ。",
     "targetText": "ささ",
@@ -11702,7 +11702,7 @@
   },
   {
     "id": "J10280",
-    "level": "J1",
+    "level": "J",
     "kanji": "匙",
     "question": "日が昇るころ、正しい量を量って小さな{target}で薬をすくった。",
     "targetText": "さじ",
@@ -11808,7 +11808,7 @@
   },
   {
     "id": "J10281",
-    "level": "J1",
+    "level": "J",
     "kanji": "薩",
     "question": "草の丘に産声が響くころ、{target}まの港へ船が着いた。",
     "targetText": "さつ",
@@ -11832,7 +11832,7 @@
   },
   {
     "id": "J10282",
-    "level": "J1",
+    "level": "J",
     "kanji": "皐",
     "question": "白い朝、大きな十字路のそばで{target}の花が揺れた。",
     "targetText": "さつき",
@@ -11844,7 +11844,7 @@
   },
   {
     "id": "J10283",
-    "level": "J1",
+    "level": "J",
     "kanji": "鯖",
     "question": "青い背の魚、{target}を夕市で買った。",
     "targetText": "さば",
@@ -11855,7 +11855,7 @@
   },
   {
     "id": "J10284",
-    "level": "J1",
+    "level": "J",
     "kanji": "捌",
     "question": "板前は手早く、魚を別々の切り身に{target}いた。",
     "targetText": "さば",
@@ -11866,7 +11866,7 @@
   },
   {
     "id": "J10285",
-    "level": "J1",
+    "level": "J",
     "kanji": "錆",
     "question": "青い雨のあと、古い金具に{target}が浮いた。",
     "targetText": "さび",
@@ -11877,7 +11877,7 @@
   },
   {
     "id": "J10286",
-    "level": "J1",
+    "level": "J",
     "kanji": "鮫",
     "question": "魚の群れが交わる沖で、{target}の影がすっと動いた。",
     "targetText": "さめ",
@@ -11900,7 +11900,7 @@
   },
   {
     "id": "J10287",
-    "level": "J1",
+    "level": "J",
     "kanji": "晒",
     "question": "西日が強い午後、白い布を庭に{target}した。",
     "targetText": "さら",
@@ -11967,7 +11967,7 @@
   },
   {
     "id": "J10288",
-    "level": "J1",
+    "level": "J",
     "kanji": "撒",
     "question": "手のひらから種を散らすように、畑へ{target}いた。",
     "targetText": "ま",
@@ -12002,7 +12002,7 @@
   },
   {
     "id": "J10289",
-    "level": "J1",
+    "level": "J",
     "kanji": "燦",
     "question": "火の粉が米粒のようにまた舞い、夜空で星が{target}く。",
     "targetText": "きらめ",
@@ -12014,7 +12014,7 @@
   },
   {
     "id": "J10290",
-    "level": "J1",
+    "level": "J",
     "kanji": "珊",
     "question": "海底で、王さまの宝玉を冊に並べたような赤い{target}ごを見つけた。",
     "targetText": "さん",
@@ -12049,7 +12049,7 @@
   },
   {
     "id": "J10291",
-    "level": "J1",
+    "level": "J",
     "kanji": "纂",
     "question": "大きな竹の机で目録と糸綴じの本を広げ、祖父の史料を編{target}した。",
     "targetText": "さん",
@@ -12073,7 +12073,7 @@
   },
   {
     "id": "J10292",
-    "level": "J1",
+    "level": "J",
     "kanji": "讃",
     "question": "言葉を尽くし、貝の首飾りをくれた二人の夫を村中で{target}る。",
     "targetText": "たたえ",
@@ -12109,7 +12109,7 @@
   },
   {
     "id": "J10293",
-    "level": "J1",
+    "level": "J",
     "kanji": "餐",
     "question": "夕べ、また骨付き肉を分け合い、食卓で晩{target}を楽しんだ。",
     "targetText": "さん",
@@ -12167,7 +12167,7 @@
   },
   {
     "id": "J10294",
-    "level": "J1",
+    "level": "J",
     "kanji": "仔",
     "question": "人になついた小さな{target}犬が、子どもの後を追った。",
     "targetText": "こ",
@@ -12311,7 +12311,7 @@
   },
   {
     "id": "J10295",
-    "level": "J1",
+    "level": "J",
     "kanji": "屍",
     "question": "古い小屋の屋根の下、死んだ獣の{target}に風が触れた。",
     "targetText": "しかばね",
@@ -12388,7 +12388,7 @@
   },
   {
     "id": "J10296",
-    "level": "J1",
+    "level": "J",
     "kanji": "孜",
     "question": "子どもは先生の軽いむちの音にも負けず、朝から学びに{target}る。",
     "targetText": "つとめ",
@@ -12399,7 +12399,7 @@
   },
   {
     "id": "J10297",
-    "level": "J1",
+    "level": "J",
     "kanji": "斯",
     "question": "その斧が木を割ったあと、{target}ほど静かな夜はなかった。",
     "targetText": "これ",
@@ -12477,7 +12477,7 @@
   },
   {
     "id": "J10298",
-    "level": "J1",
+    "level": "J",
     "kanji": "獅",
     "question": "犬のように身を低くした師の前で、{target}子がほえた。",
     "targetText": "し",
@@ -12836,7 +12836,7 @@
   },
   {
     "id": "J10299",
-    "level": "J1",
+    "level": "J",
     "kanji": "爾",
     "question": "一面に八つの小さな光が散る御殿で、王は{target}に告げた。",
     "targetText": "なんじ",
@@ -12859,7 +12859,7 @@
   },
   {
     "id": "J10300",
-    "level": "J1",
+    "level": "J",
     "kanji": "痔",
     "question": "病院の帰り、寺の石段に座れず、{target}の痛みをこらえた。",
     "targetText": "じ",
@@ -12892,7 +12892,7 @@
   },
   {
     "id": "J10301",
-    "level": "J1",
+    "level": "J",
     "kanji": "而",
     "question": "一すじの雲が屋根を離れ、二本の雨だれが落ち、{target}旅は続いた。",
     "targetText": "しかして",
@@ -12927,7 +12927,7 @@
   },
   {
     "id": "J10302",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒔",
     "question": "春の庭で、草の間に時を待つ種を{target}く。",
     "targetText": "ま",
@@ -12940,8 +12940,8 @@
     "id": "0530",
     "level": "S4",
     "kanji": "辞",
-    "question": "舌に辛い理由をのせ、長く働いた店を{target}と告げた。",
-    "targetText": "やめる",
+    "question": "舌に辛い理由をのせ、長く働いた店を{target}めると告げた。",
+    "targetText": "や",
     "parts": [
       "舌",
       "辛"
@@ -12949,7 +12949,7 @@
   },
   {
     "id": "J10303",
-    "level": "J1",
+    "level": "J",
     "kanji": "汐",
     "question": "夕ぐれの水辺で、静かな{target}が満ちてきた。",
     "targetText": "しお",
@@ -12994,7 +12994,7 @@
   },
   {
     "id": "J10304",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴫",
     "question": "田んぼの鳥影を追うと、細い足の{target}が立っていた。",
     "targetText": "しぎ",
@@ -13005,7 +13005,7 @@
   },
   {
     "id": "J10305",
-    "level": "J1",
+    "level": "J",
     "kanji": "竺",
     "question": "旅の僧は、二本の竹杖を鳴らして天{target}を夢見た。",
     "targetText": "じく",
@@ -13027,7 +13027,7 @@
   },
   {
     "id": "X0026",
-    "level": "J1",
+    "level": "J",
     "kanji": "宍",
     "question": "屋根の下で六人の猟師が、山の{target}を焼いた。",
     "targetText": "しし",
@@ -13038,7 +13038,7 @@
   },
   {
     "id": "J10306",
-    "level": "J1",
+    "level": "J",
     "kanji": "雫",
     "question": "雨のあと、葉の下から光る{target}が落ちた。",
     "targetText": "しずく",
@@ -13116,7 +13116,7 @@
   },
   {
     "id": "J10307",
-    "level": "J1",
+    "level": "J",
     "kanji": "悉",
     "question": "旅の夜、こぼれた米粒の数まで心に{target}残った。",
     "targetText": "ことごとく",
@@ -13185,7 +13185,7 @@
   },
   {
     "id": "J10308",
-    "level": "J1",
+    "level": "J",
     "kanji": "蔀",
     "question": "草の庭に面した部屋で、古い{target}をそっと上げた。",
     "targetText": "しとみ",
@@ -13196,7 +13196,7 @@
   },
   {
     "id": "X0015",
-    "level": "J1",
+    "level": "J",
     "kanji": "篠",
     "question": "竹やぶの細い{target}が、人の通る木の小道に影を落とした。",
     "targetText": "しの",
@@ -13208,7 +13208,7 @@
   },
   {
     "id": "J10309",
-    "level": "J1",
+    "level": "J",
     "kanji": "偲",
     "question": "人のやさしさを思い、遠い友を{target}夜だった。",
     "targetText": "しのぶ",
@@ -13219,7 +13219,7 @@
   },
   {
     "id": "J10310",
-    "level": "J1",
+    "level": "J",
     "kanji": "柴",
     "question": "この木の下で集めた{target}が、夕げの火になった。",
     "targetText": "しば",
@@ -13241,7 +13241,7 @@
   },
   {
     "id": "J10311",
-    "level": "J1",
+    "level": "J",
     "kanji": "屡",
     "question": "戸かげで女将が米を炊く宿へ、旅人は{target}戻った。",
     "targetText": "しばしば",
@@ -13253,7 +13253,7 @@
   },
   {
     "id": "J10312",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕊",
     "question": "草花の中心で、小さな心が三つ震えるように{target}が光った。",
     "targetText": "しべ",
@@ -13266,7 +13266,7 @@
   },
   {
     "id": "J10313",
-    "level": "J1",
+    "level": "J",
     "kanji": "縞",
     "question": "高い棚から糸を選び、青い{target}の布を織った。",
     "targetText": "しま",
@@ -13366,7 +13366,7 @@
   },
   {
     "id": "J10314",
-    "level": "J1",
+    "level": "J",
     "kanji": "紗",
     "question": "少し透ける糸の{target}が、朝の風に揺れた。",
     "targetText": "うすぎぬ",
@@ -13456,7 +13456,7 @@
   },
   {
     "id": "J10315",
-    "level": "J1",
+    "level": "J",
     "kanji": "勺",
     "question": "丸い器から一点の水をこぼし、一{target}だけ量った。",
     "targetText": "しゃく",
@@ -13478,7 +13478,7 @@
   },
   {
     "id": "J10316",
-    "level": "J1",
+    "level": "J",
     "kanji": "杓",
     "question": "木の柄の{target}で、一勺の水をくんだ。",
     "targetText": "ひしゃく",
@@ -13489,7 +13489,7 @@
   },
   {
     "id": "J10317",
-    "level": "J1",
+    "level": "J",
     "kanji": "灼",
     "question": "一勺の水もない浜で、火のような日差しが肌を{target}く。",
     "targetText": "や",
@@ -13534,7 +13534,7 @@
   },
   {
     "id": "J10318",
-    "level": "J1",
+    "level": "J",
     "kanji": "錫",
     "question": "金物屋で、扱いやすい白い{target}の杯を見つけた。",
     "targetText": "すず",
@@ -13579,7 +13579,7 @@
   },
   {
     "id": "J10319",
-    "level": "J1",
+    "level": "J",
     "kanji": "惹",
     "question": "若い旅人の歌が、町の人の心を{target}く。",
     "targetText": "ひ",
@@ -13803,7 +13803,7 @@
   },
   {
     "id": "J10320",
-    "level": "J1",
+    "level": "J",
     "kanji": "綬",
     "question": "糸で編んだ飾りを受け取り、勲章の{target}が胸で揺れた。",
     "targetText": "じゅ",
@@ -13926,7 +13926,7 @@
   },
   {
     "id": "X0010",
-    "level": "J1",
+    "level": "J",
     "kanji": "洲",
     "question": "川の水が三筋に分かれ、鳥はなか{target}で休んだ。",
     "targetText": "す",
@@ -13970,7 +13970,7 @@
   },
   {
     "id": "J10321",
-    "level": "J1",
+    "level": "J",
     "kanji": "繍",
     "question": "静かな夜、母は色糸を通し、祭りの衣に刺{target}をほどこした。",
     "targetText": "しゅう",
@@ -14015,7 +14015,7 @@
   },
   {
     "id": "J10322",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒐",
     "question": "草むらで鬼の面まで見つけ、弟は宝物を{target}た。",
     "targetText": "あつめ",
@@ -14048,7 +14048,7 @@
   },
   {
     "id": "J10323",
-    "level": "J1",
+    "level": "J",
     "kanji": "讐",
     "question": "二羽の鳥が言葉もなく飛び去り、武士は父の{target}を討つと誓った。",
     "targetText": "あだ",
@@ -14070,7 +14070,7 @@
   },
   {
     "id": "J10324",
-    "level": "J1",
+    "level": "J",
     "kanji": "輯",
     "question": "車座になって口々に耳を傾け、村の記録を編{target}した。",
     "targetText": "しゅう",
@@ -14093,7 +14093,7 @@
   },
   {
     "id": "J10325",
-    "level": "J1",
+    "level": "J",
     "kanji": "酋",
     "question": "八人が酒つぼを囲み、若い{target}長の話に耳を澄ませた。",
     "targetText": "しゅう",
@@ -14137,7 +14137,7 @@
   },
   {
     "id": "X0006",
-    "level": "J1",
+    "level": "J",
     "kanji": "什",
     "question": "人が十人集まって、古い{target}きを倉庫から運び出した。",
     "targetText": "じゅう",
@@ -14193,7 +14193,7 @@
   },
   {
     "id": "J10326",
-    "level": "J1",
+    "level": "J",
     "kanji": "戎",
     "question": "十人の漁師がほこを飾り、浜で{target}さまに豊漁を祈った。",
     "targetText": "えびす",
@@ -14295,7 +14295,7 @@
   },
   {
     "id": "J10327",
-    "level": "J1",
+    "level": "J",
     "kanji": "夙",
     "question": "夕べの机で本を開く少年は、{target}に努力家として村で知られていた。",
     "targetText": "つと",
@@ -14435,7 +14435,7 @@
   },
   {
     "id": "X0027",
-    "level": "J1",
+    "level": "J",
     "kanji": "峻",
     "question": "八人の旅人が土の尾根を越え、{target}険な山に息をのんだ。",
     "targetText": "しゅん",
@@ -14469,7 +14469,7 @@
   },
   {
     "id": "X0004",
-    "level": "J1",
+    "level": "J",
     "kanji": "竣",
     "question": "八人の職人が立ち上がり、冬の夕方に橋の{target}こうを祝った。",
     "targetText": "しゅん",
@@ -14482,7 +14482,7 @@
   },
   {
     "id": "J10328",
-    "level": "J1",
+    "level": "J",
     "kanji": "舜",
     "question": "夕べ、屋根の下で爪先立ちの舞を見ながら、祖父は堯{target}の世を語った。",
     "targetText": "しゅん",
@@ -14494,7 +14494,7 @@
   },
   {
     "id": "J10329",
-    "level": "J1",
+    "level": "J",
     "kanji": "駿",
     "question": "主人に許され、馬小屋の{target}馬が冬の坂へ駆け出した。",
     "targetText": "しゅん",
@@ -14539,7 +14539,7 @@
   },
   {
     "id": "J10330",
-    "level": "J1",
+    "level": "J",
     "kanji": "楯",
     "question": "木の門と崖の間で、十人の兵が目をこらし、{target}を構えた。",
     "targetText": "たて",
@@ -14563,7 +14563,7 @@
   },
   {
     "id": "J10331",
-    "level": "J1",
+    "level": "J",
     "kanji": "淳",
     "question": "水辺の村で、高い亭に住む青年は{target}朴な人柄で慕われた。",
     "targetText": "じゅん",
@@ -14643,7 +14643,7 @@
   },
   {
     "id": "J10332",
-    "level": "J1",
+    "level": "J",
     "kanji": "醇",
     "question": "酒蔵の亭主は、長く寝かせた{target}酒を客に静かに注いだ。",
     "targetText": "じゅん",
@@ -14709,7 +14709,7 @@
   },
   {
     "id": "J10333",
-    "level": "J1",
+    "level": "J",
     "kanji": "曙",
     "question": "日が昇る前、網をたたむ者たちは{target}の港を歩いた。",
     "targetText": "あけぼの",
@@ -14721,7 +14721,7 @@
   },
   {
     "id": "J10334",
-    "level": "J1",
+    "level": "J",
     "kanji": "渚",
     "question": "水辺で旅の者が貝を拾い、{target}に小さな足跡を残した。",
     "targetText": "なぎさ",
@@ -14777,7 +14777,7 @@
   },
   {
     "id": "J10335",
-    "level": "J1",
+    "level": "J",
     "kanji": "薯",
     "question": "草の畑で網袋を持つ者たちが、土から丸い{target}を掘り出した。",
     "targetText": "いも",
@@ -14789,7 +14789,7 @@
   },
   {
     "id": "J10336",
-    "level": "J1",
+    "level": "J",
     "kanji": "藷",
     "question": "草の畑で祖母の言葉を聞きながら、子どもは赤い{target}を掘った。",
     "targetText": "いも",
@@ -14868,7 +14868,7 @@
   },
   {
     "id": "J10337",
-    "level": "J1",
+    "level": "J",
     "kanji": "恕",
     "question": "女の子の口から謝る声が出ると、父の心に寛{target}が広がった。",
     "targetText": "じょ",
@@ -14880,7 +14880,7 @@
   },
   {
     "id": "J10338",
-    "level": "J1",
+    "level": "J",
     "kanji": "鋤",
     "question": "金色の朝、助け合う父子が畑で{target}を引いた。",
     "targetText": "すき",
@@ -14969,7 +14969,7 @@
   },
   {
     "id": "J10339",
-    "level": "J1",
+    "level": "J",
     "kanji": "哨",
     "question": "小さな月の夜、門番は口笛を吹き、歩{target}に立った。",
     "targetText": "しょう",
@@ -15005,7 +15005,7 @@
   },
   {
     "id": "J10340",
-    "level": "J1",
+    "level": "J",
     "kanji": "嘗",
     "question": "小さな口で旨い蜜を{target}め、昔の夏を思った。",
     "targetText": "な",
@@ -15028,7 +15028,7 @@
   },
   {
     "id": "J10341",
-    "level": "J1",
+    "level": "J",
     "kanji": "妾",
     "question": "{target}は、立派な庭で女の子たちに昔話を聞かせた。",
     "targetText": "わらわ",
@@ -15039,7 +15039,7 @@
   },
   {
     "id": "J10342",
-    "level": "J1",
+    "level": "J",
     "kanji": "娼",
     "question": "夜の町で、{target}婦は女友だちと二日続けて朝日を見た。",
     "targetText": "しょう",
@@ -15109,7 +15109,7 @@
   },
   {
     "id": "X0057",
-    "level": "J1",
+    "level": "J",
     "kanji": "庄",
     "question": "広い屋根の下、土蔵の前で{target}屋が村人を迎えた。",
     "targetText": "しょう",
@@ -15131,7 +15131,7 @@
   },
   {
     "id": "J10343",
-    "level": "J1",
+    "level": "J",
     "kanji": "廠",
     "question": "広い屋根の下の工{target}で、職人が小さく口笛を吹きながら道具を手に働いた。",
     "targetText": "しょう",
@@ -15200,7 +15200,7 @@
   },
   {
     "id": "J10344",
-    "level": "J1",
+    "level": "J",
     "kanji": "捷",
     "question": "敏{target}な猫は、手を伸ばす前に足早に走り去った。",
     "targetText": "しょう",
@@ -15223,7 +15223,7 @@
   },
   {
     "id": "J10345",
-    "level": "J1",
+    "level": "J",
     "kanji": "昌",
     "question": "朝日と夕日を浴びて、商店街は{target}ににぎわった。",
     "targetText": "さかん",
@@ -15268,7 +15268,7 @@
   },
   {
     "id": "J10346",
-    "level": "J1",
+    "level": "J",
     "kanji": "梢",
     "question": "木の{target}で、小鳥が月明かりに小さく羽を休めた。",
     "targetText": "こずえ",
@@ -15280,7 +15280,7 @@
   },
   {
     "id": "J10347",
-    "level": "J1",
+    "level": "J",
     "kanji": "樟",
     "question": "公園の{target}は、木陰に立つ十人の子を日差しから守った。",
     "targetText": "くすのき",
@@ -15293,7 +15293,7 @@
   },
   {
     "id": "J10348",
-    "level": "J1",
+    "level": "J",
     "kanji": "樵",
     "question": "山の{target}は、木のそばで鳥の声を聞き、たき火を見つめた。",
     "targetText": "きこり",
@@ -15340,7 +15340,7 @@
   },
   {
     "id": "J10349",
-    "level": "J1",
+    "level": "J",
     "kanji": "湘",
     "question": "水辺の{target}南で、木の札を目印に友だちを待った。",
     "targetText": "しょう",
@@ -15509,7 +15509,7 @@
   },
   {
     "id": "J10350",
-    "level": "J1",
+    "level": "J",
     "kanji": "菖",
     "question": "草の香る池で、{target}ぶが二日続けて日差しを浴びた。",
     "targetText": "しょう",
@@ -15521,7 +15521,7 @@
   },
   {
     "id": "J10351",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒋",
     "question": "池のほとりで、{target}の草が伸び、将棋帰りの子が足を止めた。",
     "targetText": "まこも",
@@ -15532,7 +15532,7 @@
   },
   {
     "id": "J10352",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕉",
     "question": "庭の芭{target}の葉陰で、草むらの鳥が火照った羽を休めた。",
     "targetText": "しょう",
@@ -15555,7 +15555,7 @@
   },
   {
     "id": "J10353",
-    "level": "J1",
+    "level": "J",
     "kanji": "裳",
     "question": "舞姫の{target}は、小さな口ずさみとともに衣のすそで揺れた。",
     "targetText": "も",
@@ -15633,7 +15633,7 @@
   },
   {
     "id": "J10354",
-    "level": "J1",
+    "level": "J",
     "kanji": "醤",
     "question": "酒蔵の夕食で、将軍は{target}の濃い香りにうなずいた。",
     "targetText": "ひしお",
@@ -15644,7 +15644,7 @@
   },
   {
     "id": "J10355",
-    "level": "J1",
+    "level": "J",
     "kanji": "鉦",
     "question": "祭りで{target}を鳴らすと、金色の正門まで音が響いた。",
     "targetText": "かね",
@@ -15655,7 +15655,7 @@
   },
   {
     "id": "J10356",
-    "level": "J1",
+    "level": "J",
     "kanji": "鍾",
     "question": "金色のしずくが重く光る{target}乳洞で、旅人は息をのんだ。",
     "targetText": "しょう",
@@ -15690,7 +15690,7 @@
   },
   {
     "id": "J10357",
-    "level": "J1",
+    "level": "J",
     "kanji": "鞘",
     "question": "旅人は革ひもの刀の{target}を、小さな月の下で確かめた。",
     "targetText": "さや",
@@ -15726,7 +15726,7 @@
   },
   {
     "id": "J10358",
-    "level": "J1",
+    "level": "J",
     "kanji": "丞",
     "question": "{target}相は、水辺の一段高い席で了承のうなずきを返した。",
     "targetText": "じょう",
@@ -15840,7 +15840,7 @@
   },
   {
     "id": "J10359",
-    "level": "J1",
+    "level": "J",
     "kanji": "擾",
     "question": "夜風が祭りの列を{target}と、手をつないだ子の心に憂いが走った。",
     "targetText": "みだす",
@@ -15862,7 +15862,7 @@
   },
   {
     "id": "J10360",
-    "level": "J1",
+    "level": "J",
     "kanji": "杖",
     "question": "祖父は木の{target}を持ち、一丈ほどの坂道をゆっくり上った。",
     "targetText": "つえ",
@@ -15907,7 +15907,7 @@
   },
   {
     "id": "J10361",
-    "level": "J1",
+    "level": "J",
     "kanji": "穣",
     "question": "稲の香る村で、祝いの衣を着た人々が豊{target}を口々に喜んだ。",
     "targetText": "じょう",
@@ -15977,7 +15977,7 @@
   },
   {
     "id": "J10362",
-    "level": "J1",
+    "level": "J",
     "kanji": "埴",
     "question": "土の香る丘で、まっすぐ立つ{target}わを見つけた。",
     "targetText": "はに",
@@ -16032,7 +16032,7 @@
   },
   {
     "id": "J10363",
-    "level": "J1",
+    "level": "J",
     "kanji": "燭",
     "question": "火のそばで虫の影が揺れ、古い{target}台だけが部屋を照らした。",
     "targetText": "しょく",
@@ -16100,7 +16100,7 @@
   },
   {
     "id": "J10364",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝕",
     "question": "甘い食べ物を残すと、虫に{target}まれた柱のように弱っていく。",
     "targetText": "むしば",
@@ -16258,7 +16258,7 @@
   },
   {
     "id": "J10365",
-    "level": "J1",
+    "level": "J",
     "kanji": "晋",
     "question": "日が昇るころ、並んだ兵が東{target}の都へ向かった。",
     "targetText": "しん",
@@ -16281,7 +16281,7 @@
   },
   {
     "id": "J10366",
-    "level": "J1",
+    "level": "J",
     "kanji": "榛",
     "question": "木陰で、秦の国から来た旅人が{target}の実を拾った。",
     "targetText": "はしばみ",
@@ -16327,7 +16327,7 @@
   },
   {
     "id": "J10367",
-    "level": "J1",
+    "level": "J",
     "kanji": "疹",
     "question": "病のあと、人の腕に細かな発{target}が三すじ見えた。",
     "targetText": "しん",
@@ -16362,7 +16362,7 @@
   },
   {
     "id": "J10368",
-    "level": "J1",
+    "level": "J",
     "kanji": "秦",
     "question": "春の野で稲が揺れ、旅人は{target}の都を思った。",
     "targetText": "しん",
@@ -16529,7 +16529,7 @@
   },
   {
     "id": "X0055",
-    "level": "J1",
+    "level": "J",
     "kanji": "塵",
     "question": "鹿が走った土の道に、細かな{target}が舞った。",
     "targetText": "ちり",
@@ -16540,7 +16540,7 @@
   },
   {
     "id": "J10369",
-    "level": "J1",
+    "level": "J",
     "kanji": "壬",
     "question": "水の気配がする朝、武士は暦の{target}に旅立った。",
     "targetText": "みずのえ",
@@ -16598,7 +16598,7 @@
   },
   {
     "id": "J10370",
-    "level": "J1",
+    "level": "J",
     "kanji": "訊",
     "question": "風のように急ぐ人へ、門番は短い言葉で名を{target}ねた。",
     "targetText": "たず",
@@ -16632,7 +16632,7 @@
   },
   {
     "id": "X0099",
-    "level": "J1",
+    "level": "J",
     "kanji": "靭",
     "question": "革のひものようにしなやかな{target}帯を、医者がそっと押さえた。",
     "targetText": "じん",
@@ -16643,7 +16643,7 @@
   },
   {
     "id": "J10371",
-    "level": "J1",
+    "level": "J",
     "kanji": "笥",
     "question": "竹のかごのそばで、司会者が古い箪{target}から着物を出した。",
     "targetText": "す",
@@ -16654,7 +16654,7 @@
   },
   {
     "id": "J10372",
-    "level": "J1",
+    "level": "J",
     "kanji": "諏",
     "question": "長老たちは言葉を交わし、若者の手を取って行く末を{target}った。",
     "targetText": "はか",
@@ -16699,7 +16699,7 @@
   },
   {
     "id": "J10373",
-    "level": "J1",
+    "level": "J",
     "kanji": "厨",
     "question": "崖下の小屋で豆を寸胴鍋に入れ、寺の{target}は朝から湯気に包まれた。",
     "targetText": "くりや",
@@ -16711,7 +16711,7 @@
   },
   {
     "id": "J10374",
-    "level": "J1",
+    "level": "J",
     "kanji": "逗",
     "question": "豆畑の道で、旅人は村に{target}留して雨を待った。",
     "targetText": "とう",
@@ -16810,7 +16810,7 @@
   },
   {
     "id": "J10375",
-    "level": "J1",
+    "level": "J",
     "kanji": "翠",
     "question": "羽のような葉が卒業の日の空に光り、山の{target}が深くなった。",
     "targetText": "みどり",
@@ -16854,7 +16854,7 @@
   },
   {
     "id": "J10376",
-    "level": "J1",
+    "level": "J",
     "kanji": "錐",
     "question": "金色の鳥が鳴く朝、職人は革に{target}で小さな穴をあけた。",
     "targetText": "きり",
@@ -16865,7 +16865,7 @@
   },
   {
     "id": "J10377",
-    "level": "J1",
+    "level": "J",
     "kanji": "錘",
     "question": "金の糸が垂れる釣り竿に、小さな{target}を結んだ。",
     "targetText": "おもり",
@@ -16888,7 +16888,7 @@
   },
   {
     "id": "J10378",
-    "level": "J1",
+    "level": "J",
     "kanji": "瑞",
     "question": "王様の庭で、山の露を浴びた花が{target}みずしく光った。",
     "targetText": "みず",
@@ -16922,7 +16922,7 @@
   },
   {
     "id": "X0028",
-    "level": "J1",
+    "level": "J",
     "kanji": "嵩",
     "question": "山のように高く積もった本の{target}が、机の上で増えていった。",
     "targetText": "かさ",
@@ -16956,7 +16956,7 @@
   },
   {
     "id": "J10379",
-    "level": "J1",
+    "level": "J",
     "kanji": "趨",
     "question": "走る馬が草原を抜け、若者は都へ{target}いた。",
     "targetText": "おもむ",
@@ -16967,7 +16967,7 @@
   },
   {
     "id": "J10380",
-    "level": "J1",
+    "level": "J",
     "kanji": "雛",
     "question": "草むらで小鳥が鳴き、巣の中の{target}が羽をふるわせた。",
     "targetText": "ひな",
@@ -17000,7 +17000,7 @@
   },
   {
     "id": "J10381",
-    "level": "J1",
+    "level": "J",
     "kanji": "椙",
     "question": "朝日を受けた木立で、{target}の香りがした。",
     "targetText": "すぎ",
@@ -17011,7 +17011,7 @@
   },
   {
     "id": "J10382",
-    "level": "J1",
+    "level": "J",
     "kanji": "菅",
     "question": "官舎の庭の草むらに、{target}が細く揺れた。",
     "targetText": "すげ",
@@ -17022,7 +17022,7 @@
   },
   {
     "id": "J10383",
-    "level": "J1",
+    "level": "J",
     "kanji": "頗",
     "question": "皮の表紙もページも、旅日記は{target}古びていた。",
     "targetText": "すこぶる",
@@ -17033,7 +17033,7 @@
   },
   {
     "id": "J10384",
-    "level": "J1",
+    "level": "J",
     "kanji": "雀",
     "question": "{target}が小さな羽で庭を跳ね、鳥かごをのぞいた。",
     "targetText": "すずめ",
@@ -17066,7 +17066,7 @@
   },
   {
     "id": "J10385",
-    "level": "J1",
+    "level": "J",
     "kanji": "摺",
     "question": "習い事の帰りに、版画を手で押さえて一枚{target}った。",
     "targetText": "す",
@@ -17257,7 +17257,7 @@
   },
   {
     "id": "X0068",
-    "level": "J1",
+    "level": "J",
     "kanji": "棲",
     "question": "木の多い谷で、妻と静かに{target}場所を選んだ。",
     "targetText": "すむ",
@@ -17268,7 +17268,7 @@
   },
   {
     "id": "J10386",
-    "level": "J1",
+    "level": "J",
     "kanji": "栖",
     "question": "西日の当たる木の穴に、鳥の{target}があった。",
     "targetText": "すみか",
@@ -17490,7 +17490,7 @@
   },
   {
     "id": "X0041",
-    "level": "J1",
+    "level": "J",
     "kanji": "脆",
     "question": "月夜の古い橋は、危ないほど{target}い板でできていた。",
     "targetText": "もろ",
@@ -17670,7 +17670,7 @@
   },
   {
     "id": "J10387",
-    "level": "J1",
+    "level": "J",
     "kanji": "蹟",
     "question": "責めを負った旅人の足もとに、砂の{target}が残った。",
     "targetText": "あと",
@@ -17681,7 +17681,7 @@
   },
   {
     "id": "J10388",
-    "level": "J1",
+    "level": "J",
     "kanji": "碩",
     "question": "石畳の庭で、厚いページをめくる{target}学の先生に会った。",
     "targetText": "せき",
@@ -17827,7 +17827,7 @@
   },
   {
     "id": "J10389",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝉",
     "question": "虫取り網のそばで、{target}が単調な声を響かせた。",
     "targetText": "せみ",
@@ -17906,7 +17906,7 @@
   },
   {
     "id": "J10390",
-    "level": "J1",
+    "level": "J",
     "kanji": "尖",
     "question": "小さな鉛筆を大事に削ると、先が{target}った。",
     "targetText": "とが",
@@ -17949,7 +17949,7 @@
   },
   {
     "id": "J10391",
-    "level": "J1",
+    "level": "J",
     "kanji": "撰",
     "question": "手紙の束から、巽の方角へ送る一通を{target}んだ。",
     "targetText": "えら",
@@ -17971,7 +17971,7 @@
   },
   {
     "id": "J10392",
-    "level": "J1",
+    "level": "J",
     "kanji": "栴",
     "question": "丹塗りの門の木陰で、香る{target}檀を見上げた。",
     "targetText": "せん",
@@ -18050,7 +18050,7 @@
   },
   {
     "id": "J10393",
-    "level": "J1",
+    "level": "J",
     "kanji": "煽",
     "question": "火のそばで扇を振り、炭を{target}いだ。",
     "targetText": "あお",
@@ -18073,7 +18073,7 @@
   },
   {
     "id": "J10394",
-    "level": "J1",
+    "level": "J",
     "kanji": "穿",
     "question": "牙のある獣が穴の奥で岩を{target}った。",
     "targetText": "うが",
@@ -18084,7 +18084,7 @@
   },
   {
     "id": "J10395",
-    "level": "J1",
+    "level": "J",
     "kanji": "箭",
     "question": "竹林の前で、まっすぐな{target}を弓につがえた。",
     "targetText": "や",
@@ -18141,7 +18141,7 @@
   },
   {
     "id": "J10396",
-    "level": "J1",
+    "level": "J",
     "kanji": "舛",
     "question": "夕市の列が互い違いに進み、米を一{target}買った。",
     "targetText": "ます",
@@ -18187,7 +18187,7 @@
   },
   {
     "id": "J10397",
-    "level": "J1",
+    "level": "J",
     "kanji": "賎",
     "question": "貝殻の市で、鉾を持つ兵の前を{target}しい服の少年が通った。",
     "targetText": "いや",
@@ -18245,7 +18245,7 @@
   },
   {
     "id": "J10398",
-    "level": "J1",
+    "level": "J",
     "kanji": "銑",
     "question": "金の炉の先で、赤い{target}鉄がゆっくり冷えた。",
     "targetText": "せん",
@@ -18256,7 +18256,7 @@
   },
   {
     "id": "J10399",
-    "level": "J1",
+    "level": "J",
     "kanji": "閃",
     "question": "門の陰から人影が走り、名案が{target}いた。",
     "targetText": "ひらめ",
@@ -18369,7 +18369,7 @@
   },
   {
     "id": "J10400",
-    "level": "J1",
+    "level": "J",
     "kanji": "糎",
     "question": "米粒ほどの差も厘まで測り、リボンを一{target}だけ切った。",
     "targetText": "せんち",
@@ -18380,7 +18380,7 @@
   },
   {
     "id": "J10401",
-    "level": "J1",
+    "level": "J",
     "kanji": "噌",
     "question": "曽祖母は口を細め、朝のみ{target}汁をゆっくりすすった。",
     "targetText": "そ",
@@ -18403,7 +18403,7 @@
   },
   {
     "id": "J10402",
-    "level": "J1",
+    "level": "J",
     "kanji": "岨",
     "question": "かつて通った山の{target}で、旅人は冷たい岩風を聞いた。",
     "targetText": "そば",
@@ -18425,7 +18425,7 @@
   },
   {
     "id": "X0063",
-    "level": "J1",
+    "level": "J",
     "kanji": "曾",
     "question": "{target}八つの田に日が沈む村へ、祖母は歩いて通った。",
     "targetText": "かつて",
@@ -18449,7 +18449,7 @@
   },
   {
     "id": "J10403",
-    "level": "J1",
+    "level": "J",
     "kanji": "楚",
     "question": "林の小道で足音を止めると、白い花が清{target}に揺れていた。",
     "targetText": "そ",
@@ -18471,7 +18471,7 @@
   },
   {
     "id": "J10404",
-    "level": "J1",
+    "level": "J",
     "kanji": "疏",
     "question": "足もとの小川の流れを眺めるうち、彼は都の噂に{target}くなった。",
     "targetText": "うと",
@@ -18560,7 +18560,7 @@
   },
   {
     "id": "X0093",
-    "level": "J1",
+    "level": "J",
     "kanji": "蘇",
     "question": "草の間で魚と稲の香りに包まれ、村の祭りが{target}った。",
     "targetText": "よみがえ",
@@ -18607,7 +18607,7 @@
   },
   {
     "id": "J10405",
-    "level": "J1",
+    "level": "J",
     "kanji": "鼠",
     "question": "臼の陰で、点のような目の{target}がしっぽを震わせた。",
     "targetText": "ねずみ",
@@ -18652,7 +18652,7 @@
   },
   {
     "id": "J10406",
-    "level": "J1",
+    "level": "J",
     "kanji": "叢",
     "question": "授業帰りに草の露を手で取ろうとして、少年は深い{target}へ入った。",
     "targetText": "くさむら",
@@ -18720,7 +18720,7 @@
   },
   {
     "id": "J10407",
-    "level": "J1",
+    "level": "J",
     "kanji": "宋",
     "question": "家の屋根の下、木の机で{target}の詩を読んだ。",
     "targetText": "そう",
@@ -18742,7 +18742,7 @@
   },
   {
     "id": "J10408",
-    "level": "J1",
+    "level": "J",
     "kanji": "匝",
     "question": "布の市を囲む道を、旅人はゆっくり{target}る。",
     "targetText": "めぐ",
@@ -18753,7 +18753,7 @@
   },
   {
     "id": "X0019",
-    "level": "J1",
+    "level": "J",
     "kanji": "惣",
     "question": "買い物帰り、母は家族を思う心で店の{target}ざいを選んだ。",
     "targetText": "そう",
@@ -18811,7 +18811,7 @@
   },
   {
     "id": "X0059",
-    "level": "J1",
+    "level": "J",
     "kanji": "掻",
     "question": "虫に刺された手を、また{target}くと母に叱られた。",
     "targetText": "か",
@@ -18870,7 +18870,7 @@
   },
   {
     "id": "J10409",
-    "level": "J1",
+    "level": "J",
     "kanji": "槍",
     "question": "木の倉で、古い{target}が月明かりに光った。",
     "targetText": "やり",
@@ -18892,7 +18892,7 @@
   },
   {
     "id": "J10410",
-    "level": "J1",
+    "level": "J",
     "kanji": "漕",
     "question": "曹さんは水面に櫂を入れ、朝の舟を{target}いだ。",
     "targetText": "こ",
@@ -18962,7 +18962,7 @@
   },
   {
     "id": "J10411",
-    "level": "J1",
+    "level": "J",
     "kanji": "糟",
     "question": "米蔵で曹さんが酒の{target}を手に取り、甘い香りに笑った。",
     "targetText": "かす",
@@ -18985,7 +18985,7 @@
   },
   {
     "id": "J10412",
-    "level": "J1",
+    "level": "J",
     "kanji": "綜",
     "question": "宗さんは糸の色をたどり、話を{target}合して一枚の地図にした。",
     "targetText": "そう",
@@ -18996,7 +18996,7 @@
   },
   {
     "id": "J10413",
-    "level": "J1",
+    "level": "J",
     "kanji": "聡",
     "question": "耳を澄ますと、公園の小さな声まで心に届く{target}い子だった。",
     "targetText": "さと",
@@ -19042,7 +19042,7 @@
   },
   {
     "id": "J10414",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒼",
     "question": "草の倉の前で、夕暮れの空が{target}く沈んだ。",
     "targetText": "あお",
@@ -19111,7 +19111,7 @@
   },
   {
     "id": "J10415",
-    "level": "J1",
+    "level": "J",
     "kanji": "鎗",
     "question": "金物屋の倉に、古い{target}が静かに立てかけてあった。",
     "targetText": "やり",
@@ -19415,7 +19415,7 @@
   },
   {
     "id": "J10416",
-    "level": "J1",
+    "level": "J",
     "kanji": "其",
     "question": "甘い菓子を八つ分けたあと、{target}皿だけ祖父が大事にしまった。",
     "targetText": "その",
@@ -19426,7 +19426,7 @@
   },
   {
     "id": "J10417",
-    "level": "J1",
+    "level": "J",
     "kanji": "揃",
     "question": "出発の前に、子どもたちは手をつないで靴を{target}えた。",
     "targetText": "そろ",
@@ -19548,7 +19548,7 @@
   },
   {
     "id": "J10418",
-    "level": "J1",
+    "level": "J",
     "kanji": "詑",
     "question": "蛇のようにからんだ言葉を悔い、彼は友に{target}びた。",
     "targetText": "わ",
@@ -19616,7 +19616,7 @@
   },
   {
     "id": "J10419",
-    "level": "J1",
+    "level": "J",
     "kanji": "柁",
     "question": "木の船べりで、蛇の影を見ながら古い{target}を握った。",
     "targetText": "かじ",
@@ -19627,7 +19627,7 @@
   },
   {
     "id": "J10420",
-    "level": "J1",
+    "level": "J",
     "kanji": "舵",
     "question": "舟の上で蛇のような川筋を読み、船頭は{target}を切った。",
     "targetText": "かじ",
@@ -19638,7 +19638,7 @@
   },
   {
     "id": "J10421",
-    "level": "J1",
+    "level": "J",
     "kanji": "楕",
     "question": "木陰の左に、月のような{target}円の池が静かに光った。",
     "targetText": "だ",
@@ -19650,7 +19650,7 @@
   },
   {
     "id": "J10422",
-    "level": "J1",
+    "level": "J",
     "kanji": "陀",
     "question": "丘の寺で、家の奥に小さなさじを供え、阿弥{target}さまに祈った。",
     "targetText": "だ",
@@ -19673,7 +19673,7 @@
   },
   {
     "id": "X0047",
-    "level": "J1",
+    "level": "J",
     "kanji": "騨",
     "question": "山国のひ{target}では、馬が単独で峠を越えた。",
     "targetText": "だ",
@@ -19728,7 +19728,7 @@
   },
   {
     "id": "J10423",
-    "level": "J1",
+    "level": "J",
     "kanji": "岱",
     "question": "代々の旅人が、山の神に会いに{target}山へ登った。",
     "targetText": "たい",
@@ -19843,7 +19843,7 @@
   },
   {
     "id": "J10424",
-    "level": "J1",
+    "level": "J",
     "kanji": "腿",
     "question": "月明かりの坂道を退くとき、石に{target}をぶつけた。",
     "targetText": "もも",
@@ -19854,7 +19854,7 @@
   },
   {
     "id": "J10425",
-    "level": "J1",
+    "level": "J",
     "kanji": "苔",
     "question": "庭の草のそば、古い台石に{target}がしっとり広がった。",
     "targetText": "こけ",
@@ -19922,7 +19922,7 @@
   },
   {
     "id": "J10426",
-    "level": "J1",
+    "level": "J",
     "kanji": "黛",
     "question": "代々使う黒い粉で、姉は{target}をそっと引いた。",
     "targetText": "まゆずみ",
@@ -19933,7 +19933,7 @@
   },
   {
     "id": "J10427",
-    "level": "J1",
+    "level": "J",
     "kanji": "鯛",
     "question": "魚屋の周りに人が集まり、赤い{target}をのぞきこんだ。",
     "targetText": "たい",
@@ -19988,7 +19988,7 @@
   },
   {
     "id": "J10428",
-    "level": "J1",
+    "level": "J",
     "kanji": "醍",
     "question": "酒蔵で日が差すころ、これぞ{target}ごみだと皆が笑った。",
     "targetText": "だい",
@@ -20011,7 +20011,7 @@
   },
   {
     "id": "J10429",
-    "level": "J1",
+    "level": "J",
     "kanji": "鷹",
     "question": "岩屋の下で人影を見つけた{target}が、鳥のように舞い上がった。",
     "targetText": "たか",
@@ -20034,7 +20034,7 @@
   },
   {
     "id": "J10430",
-    "level": "J1",
+    "level": "J",
     "kanji": "瀧",
     "question": "水しぶきの中、龍が昇るように{target}が白く落ちた。",
     "targetText": "たき",
@@ -20057,7 +20057,7 @@
   },
   {
     "id": "J10431",
-    "level": "J1",
+    "level": "J",
     "kanji": "啄",
     "question": "豚小屋のそばで、鳥が口先で米を{target}んだ。",
     "targetText": "ついば",
@@ -20079,7 +20079,7 @@
   },
   {
     "id": "J10432",
-    "level": "J1",
+    "level": "J",
     "kanji": "托",
     "question": "七つの願いをこめた手紙を、旅立つ友に{target}した。",
     "targetText": "たく",
@@ -20135,7 +20135,7 @@
   },
   {
     "id": "J10433",
-    "level": "J1",
+    "level": "J",
     "kanji": "琢",
     "question": "玉の石を、豚の飾りになるまで{target}いた。",
     "targetText": "みが",
@@ -20157,7 +20157,7 @@
   },
   {
     "id": "J10434",
-    "level": "J1",
+    "level": "J",
     "kanji": "鐸",
     "question": "金色の夕日を目印に集まると、幸せを呼ぶ銅{target}が鳴った。",
     "targetText": "たく",
@@ -20191,7 +20191,7 @@
   },
   {
     "id": "J10435",
-    "level": "J1",
+    "level": "J",
     "kanji": "茸",
     "question": "草むらで耳をすますと、雨上がりの{target}が顔を出していた。",
     "targetText": "きのこ",
@@ -20202,7 +20202,7 @@
   },
   {
     "id": "J10436",
-    "level": "J1",
+    "level": "J",
     "kanji": "凧",
     "question": "風を受けた布きれのように、青い空へ{target}が上がった。",
     "targetText": "たこ",
@@ -20213,7 +20213,7 @@
   },
   {
     "id": "J10437",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛸",
     "question": "小さな月が海に沈む夜、虫ではなく赤い{target}が岩に隠れた。",
     "targetText": "たこ",
@@ -20225,7 +20225,7 @@
   },
   {
     "id": "J10438",
-    "level": "J1",
+    "level": "J",
     "kanji": "只",
     "question": "{target}でもらった飴を、口いっぱいにほおばって八つ数えた。",
     "targetText": "ただ",
@@ -20236,7 +20236,7 @@
   },
   {
     "id": "J10439",
-    "level": "J1",
+    "level": "J",
     "kanji": "叩",
     "question": "門の前でひざをつき、口を開いて戸を{target}いた。",
     "targetText": "たた",
@@ -20270,7 +20270,7 @@
   },
   {
     "id": "J10440",
-    "level": "J1",
+    "level": "J",
     "kanji": "辰",
     "question": "崖の下で二枚の衣を干した朝、祖父は今年を{target}年だと言った。",
     "targetText": "たつ",
@@ -20305,7 +20305,7 @@
   },
   {
     "id": "J10441",
-    "level": "J1",
+    "level": "J",
     "kanji": "巽",
     "question": "{target}の空へ、二匹のへびが共に朝日を追った。",
     "targetText": "たつみ",
@@ -20317,7 +20317,7 @@
   },
   {
     "id": "J10442",
-    "level": "J1",
+    "level": "J",
     "kanji": "竪",
     "question": "臣下がまた立ち上がり、{target}の柱を支えた。",
     "targetText": "たて",
@@ -20329,7 +20329,7 @@
   },
   {
     "id": "J10443",
-    "level": "J1",
+    "level": "J",
     "kanji": "辿",
     "question": "夕暮れの山道を、古い足跡だけを頼りに{target}って行く。",
     "targetText": "たど",
@@ -20364,7 +20364,7 @@
   },
   {
     "id": "J10444",
-    "level": "J1",
+    "level": "J",
     "kanji": "狸",
     "question": "里の畑で、けものの{target}が月を見上げた。",
     "targetText": "たぬき",
@@ -20375,7 +20375,7 @@
   },
   {
     "id": "J10445",
-    "level": "J1",
+    "level": "J",
     "kanji": "鱈",
     "question": "雪の降る港で、魚屋が白い{target}を包んだ。",
     "targetText": "たら",
@@ -20386,7 +20386,7 @@
   },
   {
     "id": "J10446",
-    "level": "J1",
+    "level": "J",
     "kanji": "樽",
     "question": "木の蔵で、尊い酒を{target}に眠らせた。",
     "targetText": "たる",
@@ -20443,7 +20443,7 @@
   },
   {
     "id": "J10447",
-    "level": "J1",
+    "level": "J",
     "kanji": "坦",
     "question": "土の広場に朝日がのぼるころ、道は{target}になった。",
     "targetText": "たいら",
@@ -20488,7 +20488,7 @@
   },
   {
     "id": "J10448",
-    "level": "J1",
+    "level": "J",
     "kanji": "歎",
     "question": "難所を越えた夜、欠けた月を見て旅人は別れを{target}いた。",
     "targetText": "なげ",
@@ -20511,7 +20511,7 @@
   },
   {
     "id": "J10449",
-    "level": "J1",
+    "level": "J",
     "kanji": "湛",
     "question": "春の池は、甚だ澄んだ水を{target}え、星を映した。",
     "targetText": "たた",
@@ -20557,7 +20557,7 @@
   },
   {
     "id": "J10450",
-    "level": "J1",
+    "level": "J",
     "kanji": "箪",
     "question": "竹のそばで、単衣をしまう{target}すが静かに開いた。",
     "targetText": "たん",
@@ -20579,7 +20579,7 @@
   },
   {
     "id": "J10451",
-    "level": "J1",
+    "level": "J",
     "kanji": "耽",
     "question": "耳もとで夜の虫が鳴くのに、彼は物語に{target}って眠れない。",
     "targetText": "ふけ",
@@ -20601,7 +20601,7 @@
   },
   {
     "id": "J10452",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛋",
     "question": "理科室で一匹の虫を観察しながら、先生は{target}ぱく質の話をした。",
     "targetText": "たん",
@@ -20691,7 +20691,7 @@
   },
   {
     "id": "J10453",
-    "level": "J1",
+    "level": "J",
     "kanji": "檀",
     "question": "木の箱を開けると、壇の前に白{target}の香りが広がった。",
     "targetText": "だん",
@@ -20769,7 +20769,7 @@
   },
   {
     "id": "J10454",
-    "level": "J1",
+    "level": "J",
     "kanji": "弛",
     "question": "古い弓の糸も、雨の夜には{target}んでしまった。",
     "targetText": "ゆる",
@@ -20791,7 +20791,7 @@
   },
   {
     "id": "J10455",
-    "level": "J1",
+    "level": "J",
     "kanji": "智",
     "question": "日が昇るころ、知恵ある子の{target}が村を救った。",
     "targetText": "ち",
@@ -20857,7 +20857,7 @@
   },
   {
     "id": "J10456",
-    "level": "J1",
+    "level": "J",
     "kanji": "蜘",
     "question": "虫をよく知る少年が、巣の主の{target}をそっと逃がした。",
     "targetText": "くも",
@@ -20880,7 +20880,7 @@
   },
   {
     "id": "J10457",
-    "level": "J1",
+    "level": "J",
     "kanji": "馳",
     "question": "馬が草原を{target}せ、風のように丘を越えた。",
     "targetText": "は",
@@ -20925,7 +20925,7 @@
   },
   {
     "id": "X0088",
-    "level": "J1",
+    "level": "J",
     "kanji": "筑",
     "question": "{target}波の山道で、竹の杖をぎゅっと握って坂を上った。",
     "targetText": "つく",
@@ -21126,7 +21126,7 @@
   },
   {
     "id": "J10458",
-    "level": "J1",
+    "level": "J",
     "kanji": "註",
     "question": "主人の言葉の横に、小さな{target}を添えた。",
     "targetText": "ちゅう",
@@ -21170,7 +21170,7 @@
   },
   {
     "id": "J10459",
-    "level": "J1",
+    "level": "J",
     "kanji": "樗",
     "question": "雨上がりの木陰で、庭師は{target}という木の若葉を見上げた。",
     "targetText": "おうち",
@@ -21182,7 +21182,7 @@
   },
   {
     "id": "J10460",
-    "level": "J1",
+    "level": "J",
     "kanji": "瀦",
     "question": "猪が通ったあと、雨の水は小さな{target}になった。",
     "targetText": "みずたまり",
@@ -21193,7 +21193,7 @@
   },
   {
     "id": "J10461",
-    "level": "J1",
+    "level": "J",
     "kanji": "猪",
     "question": "山犬を追う者も息をのむほど、{target}が藪から飛び出した。",
     "targetText": "いのしし",
@@ -21204,7 +21204,7 @@
   },
   {
     "id": "J10462",
-    "level": "J1",
+    "level": "J",
     "kanji": "苧",
     "question": "草深い家の軒で、丁寧に干した{target}が白く光った。",
     "targetText": "からむし",
@@ -21261,7 +21261,7 @@
   },
   {
     "id": "X0049",
-    "level": "J1",
+    "level": "J",
     "kanji": "凋",
     "question": "冷たい風が庭を周り、花が静かに{target}むころ、窓に灯がともった。",
     "targetText": "しぼ",
@@ -21272,7 +21272,7 @@
   },
   {
     "id": "J10463",
-    "level": "J1",
+    "level": "J",
     "kanji": "喋",
     "question": "木の下で世のうわさを口にして、友だちはよく{target}る。",
     "targetText": "しゃべ",
@@ -21284,7 +21284,7 @@
   },
   {
     "id": "J10464",
-    "level": "J1",
+    "level": "J",
     "kanji": "寵",
     "question": "龍の飾りがある家で、小鳥は王女の{target}愛を受けた。",
     "targetText": "ちょう",
@@ -21295,7 +21295,7 @@
   },
   {
     "id": "J10465",
-    "level": "J1",
+    "level": "J",
     "kanji": "帖",
     "question": "占い師の巾着が置かれた六{target}の部屋は、夜まで静かだった。",
     "targetText": "じょう",
@@ -21399,7 +21399,7 @@
   },
   {
     "id": "J10466",
-    "level": "J1",
+    "level": "J",
     "kanji": "暢",
     "question": "日差しの中、申年の祖父は物語を流{target}に語った。",
     "targetText": "ちょう",
@@ -21434,7 +21434,7 @@
   },
   {
     "id": "J10467",
-    "level": "J1",
+    "level": "J",
     "kanji": "牒",
     "question": "木の机で世の知らせを片手に読み、王は最後通{target}を受け取った。",
     "targetText": "ちょう",
@@ -21480,7 +21480,7 @@
   },
   {
     "id": "J10468",
-    "level": "J1",
+    "level": "J",
     "kanji": "脹",
     "question": "月夜に長く歩いた足が、少し{target}れた。",
     "targetText": "ふく",
@@ -21503,7 +21503,7 @@
   },
   {
     "id": "X0094",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝶",
     "question": "虫が古い木の葉のそばで、色あざやかな{target}になって舞った。",
     "targetText": "ちょう",
@@ -21526,7 +21526,7 @@
   },
   {
     "id": "J10469",
-    "level": "J1",
+    "level": "J",
     "kanji": "諜",
     "question": "木陰で世の秘密を言葉少なに探る間{target}がいた。",
     "targetText": "ちょう",
@@ -21560,7 +21560,7 @@
   },
   {
     "id": "J10470",
-    "level": "J1",
+    "level": "J",
     "kanji": "銚",
     "question": "金の光が兆す朝、父は熱い酒を{target}子に注いだ。",
     "targetText": "ちょう",
@@ -21739,7 +21739,7 @@
   },
   {
     "id": "J10471",
-    "level": "J1",
+    "level": "J",
     "kanji": "槌",
     "question": "木の柄を握り、逃げる音を追うように{target}を振った。",
     "targetText": "つち",
@@ -21761,7 +21761,7 @@
   },
   {
     "id": "X0044",
-    "level": "J1",
+    "level": "J",
     "kanji": "鎚",
     "question": "金の火花を追うように、鍛冶屋が{target}を振った。",
     "targetText": "つち",
@@ -21806,7 +21806,7 @@
   },
   {
     "id": "X0065",
-    "level": "J1",
+    "level": "J",
     "kanji": "栂",
     "question": "母が木陰で、山の{target}の実を拾った。",
     "targetText": "つが",
@@ -21817,7 +21817,7 @@
   },
   {
     "id": "J10472",
-    "level": "J1",
+    "level": "J",
     "kanji": "掴",
     "question": "国旗を見つけた子が、手を伸ばして綱を{target}んだ。",
     "targetText": "つか",
@@ -21828,7 +21828,7 @@
   },
   {
     "id": "X0071",
-    "level": "J1",
+    "level": "J",
     "kanji": "槻",
     "question": "規則正しく並ぶ道で、大きな{target}の木陰が伸びた。",
     "targetText": "つき",
@@ -21839,7 +21839,7 @@
   },
   {
     "id": "J10473",
-    "level": "J1",
+    "level": "J",
     "kanji": "佃",
     "question": "田のそばで人が小魚を煮て、甘い{target}煮を作った。",
     "targetText": "つくだ",
@@ -21861,7 +21861,7 @@
   },
   {
     "id": "J10474",
-    "level": "J1",
+    "level": "J",
     "kanji": "柘",
     "question": "石垣のそばの木陰で、硬い{target}の櫛を拾った。",
     "targetText": "つげ",
@@ -21872,7 +21872,7 @@
   },
   {
     "id": "X0095",
-    "level": "J1",
+    "level": "J",
     "kanji": "辻",
     "question": "十軒の家へ続く道が集まる{target}で、旅人は足を止めた。",
     "targetText": "つじ",
@@ -21883,7 +21883,7 @@
   },
   {
     "id": "J10475",
-    "level": "J1",
+    "level": "J",
     "kanji": "蔦",
     "question": "草むらから鳥小屋へ、{target}が静かにのびていった。",
     "targetText": "つた",
@@ -21894,7 +21894,7 @@
   },
   {
     "id": "J10476",
-    "level": "J1",
+    "level": "J",
     "kanji": "綴",
     "question": "糸でまた一針、また一針と、破れた袖を{target}った。",
     "targetText": "つづ",
@@ -21908,7 +21908,7 @@
   },
   {
     "id": "J10477",
-    "level": "J1",
+    "level": "J",
     "kanji": "鍔",
     "question": "口を結んだ侍が、金色に光る刀の{target}を磨いた。",
     "targetText": "つば",
@@ -21920,7 +21920,7 @@
   },
   {
     "id": "J10478",
-    "level": "J1",
+    "level": "J",
     "kanji": "椿",
     "question": "春の庭の木陰で、赤い{target}がぽとりと落ちた。",
     "targetText": "つばき",
@@ -21953,7 +21953,7 @@
   },
   {
     "id": "J10479",
-    "level": "J1",
+    "level": "J",
     "kanji": "壷",
     "question": "武士の蔵で、亜麻色のふたをした{target}に梅を漬けた。",
     "targetText": "つぼ",
@@ -21965,7 +21965,7 @@
   },
   {
     "id": "J10480",
-    "level": "J1",
+    "level": "J",
     "kanji": "嬬",
     "question": "雨の軒下で、女は旅の夫を待つ{target}として静かに笑った。",
     "targetText": "つま",
@@ -21977,7 +21977,7 @@
   },
   {
     "id": "J10481",
-    "level": "J1",
+    "level": "J",
     "kanji": "紬",
     "question": "古い由来のある糸で、母は{target}の着物を織った。",
     "targetText": "つむぎ",
@@ -22000,7 +22000,7 @@
   },
   {
     "id": "J10482",
-    "level": "J1",
+    "level": "J",
     "kanji": "吊",
     "question": "軒の口もとに小さな巾着を{target}るして、風の音を聞いた。",
     "targetText": "つ",
@@ -22080,7 +22080,7 @@
   },
   {
     "id": "J10483",
-    "level": "J1",
+    "level": "J",
     "kanji": "剃",
     "question": "弟が小さな刀を持ち、父のひげを{target}った。",
     "targetText": "そ",
@@ -22193,7 +22193,7 @@
   },
   {
     "id": "J10484",
-    "level": "J1",
+    "level": "J",
     "kanji": "悌",
     "question": "弟は兄を敬う心を胸に、静かな{target}を抱いた。",
     "targetText": "てい",
@@ -22216,7 +22216,7 @@
   },
   {
     "id": "J10485",
-    "level": "J1",
+    "level": "J",
     "kanji": "挺",
     "question": "庭で手を広げ、兵は王を守るため身を{target}して立った。",
     "targetText": "てい",
@@ -22238,7 +22238,7 @@
   },
   {
     "id": "X0067",
-    "level": "J1",
+    "level": "J",
     "kanji": "梯",
     "question": "弟が木の小屋へ上るため、古い{target}を運んだ。",
     "targetText": "はしご",
@@ -22249,7 +22249,7 @@
   },
   {
     "id": "J10486",
-    "level": "J1",
+    "level": "J",
     "kanji": "汀",
     "question": "川の水が光る{target}で、丁寧に靴をぬいだ。",
     "targetText": "みぎわ",
@@ -22260,7 +22260,7 @@
   },
   {
     "id": "X0084",
-    "level": "J1",
+    "level": "J",
     "kanji": "碇",
     "question": "石の岸で船を定めるように、重い{target}を海へ沈めた。",
     "targetText": "いかり",
@@ -22271,7 +22271,7 @@
   },
   {
     "id": "J10487",
-    "level": "J1",
+    "level": "J",
     "kanji": "禎",
     "question": "神棚の前で、貞さんは家の{target}を願った。",
     "targetText": "さいわい",
@@ -22338,7 +22338,7 @@
   },
   {
     "id": "J10488",
-    "level": "J1",
+    "level": "J",
     "kanji": "蹄",
     "question": "帝の馬が足音を響かせ、黒い{target}で石畳を打った。",
     "targetText": "ひづめ",
@@ -22373,7 +22373,7 @@
   },
   {
     "id": "J10489",
-    "level": "J1",
+    "level": "J",
     "kanji": "鄭",
     "question": "村の祭りで供え物を運ぶ{target}さんが、里の門で笑った。",
     "targetText": "てい",
@@ -22384,7 +22384,7 @@
   },
   {
     "id": "X0023",
-    "level": "J1",
+    "level": "J",
     "kanji": "釘",
     "question": "金づちを持った大工が、丁字路の看板に小さな{target}を打った。",
     "targetText": "くぎ",
@@ -22395,7 +22395,7 @@
   },
   {
     "id": "J10490",
-    "level": "J1",
+    "level": "J",
     "kanji": "鼎",
     "question": "祭りの火のそばで、目をみはるほど大きな{target}が三本足で立っていた。",
     "targetText": "かなえ",
@@ -22429,7 +22429,7 @@
   },
   {
     "id": "J10491",
-    "level": "J1",
+    "level": "J",
     "kanji": "擢",
     "question": "羽のある鳥を手で選ぶように、彼は代表に抜{target}された。",
     "targetText": "てき",
@@ -22497,7 +22497,7 @@
   },
   {
     "id": "J10492",
-    "level": "J1",
+    "level": "J",
     "kanji": "鏑",
     "question": "金の音を鳴らして飛ぶ{target}矢が、商いの町の空を切った。",
     "targetText": "かぶら",
@@ -22554,7 +22554,7 @@
   },
   {
     "id": "J10493",
-    "level": "J1",
+    "level": "J",
     "kanji": "轍",
     "question": "車が育った麦畑の脇で雨に打たれ、道に深い{target}を残した。",
     "targetText": "わだち",
@@ -22656,7 +22656,7 @@
   },
   {
     "id": "J10494",
-    "level": "J1",
+    "level": "J",
     "kanji": "纏",
     "question": "広い屋根の下、里の土の祭りで、踊り子は糸飾りの衣を{target}った。",
     "targetText": "まと",
@@ -22669,7 +22669,7 @@
   },
   {
     "id": "J10495",
-    "level": "J1",
+    "level": "J",
     "kanji": "甜",
     "question": "舌の上で甘い蜜がとけるほど、祖母の煮豆は{target}い。",
     "targetText": "あま",
@@ -22702,7 +22702,7 @@
   },
   {
     "id": "J10496",
-    "level": "J1",
+    "level": "J",
     "kanji": "顛",
     "question": "本のページをめくると、真っ白な山の{target}に朝日が差した。",
     "targetText": "いただき",
@@ -22747,7 +22747,7 @@
   },
   {
     "id": "J10497",
-    "level": "J1",
+    "level": "J",
     "kanji": "澱",
     "question": "水の底に、殿さまの古い杯から落ちたような{target}が沈んだ。",
     "targetText": "おり",
@@ -22780,7 +22780,7 @@
   },
   {
     "id": "J10498",
-    "level": "J1",
+    "level": "J",
     "kanji": "兎",
     "question": "月夜に白い{target}が、口元を動かし小さな尾を揺らして跳ねた。",
     "targetText": "うさぎ",
@@ -22804,7 +22804,7 @@
   },
   {
     "id": "J10499",
-    "level": "J1",
+    "level": "J",
     "kanji": "堵",
     "question": "土を積んだ古い{target}の陰で、旅の者が雨宿りした。",
     "targetText": "かき",
@@ -22838,7 +22838,7 @@
   },
   {
     "id": "J10500",
-    "level": "J1",
+    "level": "J",
     "kanji": "屠",
     "question": "小屋に集まった者たちは、獣を{target}る音に息をのんだ。",
     "targetText": "ほふ",
@@ -22871,7 +22871,7 @@
   },
   {
     "id": "X0033",
-    "level": "J1",
+    "level": "J",
     "kanji": "杜",
     "question": "木々の下の土が雨に香り、神社の{target}は静かだった。",
     "targetText": "もり",
@@ -22904,7 +22904,7 @@
   },
   {
     "id": "J10501",
-    "level": "J1",
+    "level": "J",
     "kanji": "菟",
     "question": "草むらで追手を免れた{target}が、月明かりの中へ跳ねた。",
     "targetText": "うさぎ",
@@ -22949,7 +22949,7 @@
   },
   {
     "id": "J10502",
-    "level": "J1",
+    "level": "J",
     "kanji": "鍍",
     "question": "金の皿に何度も薄い{target}をかけ、祭りの灯りを映した。",
     "targetText": "めっき",
@@ -22960,7 +22960,7 @@
   },
   {
     "id": "J10503",
-    "level": "J1",
+    "level": "J",
     "kanji": "砥",
     "question": "山田氏は、川で拾った石の{target}で包丁を研いだ。",
     "targetText": "といし",
@@ -22972,7 +22972,7 @@
   },
   {
     "id": "X0083",
-    "level": "J1",
+    "level": "J",
     "kanji": "砺",
     "question": "石の崖の下で、父は古い{target}いしを水にぬらした。",
     "targetText": "と",
@@ -23077,8 +23077,8 @@
     "id": "1783",
     "level": "H1",
     "kanji": "凍",
-    "question": "東の空から冷たい風が来て、水たまりは{target}。",
-    "targetText": "こおった",
+    "question": "東の空から冷たい風が来て、水たまりは{target}った。",
+    "targetText": "こお",
     "parts": [
       "氷",
       "東"
@@ -23120,7 +23120,7 @@
   },
   {
     "id": "J10504",
-    "level": "J1",
+    "level": "J",
     "kanji": "塘",
     "question": "唐の旅人は、土でできた{target}の上から池を眺めた。",
     "targetText": "つつみ",
@@ -23131,7 +23131,7 @@
   },
   {
     "id": "J10505",
-    "level": "J1",
+    "level": "J",
     "kanji": "套",
     "question": "大きな長い外{target}を羽織り、少年は雪の町へ出た。",
     "targetText": "とう",
@@ -23142,7 +23142,7 @@
   },
   {
     "id": "J10506",
-    "level": "J1",
+    "level": "J",
     "kanji": "宕",
     "question": "家の裏山で、石に囲まれた{target}に小さな風が通った。",
     "targetText": "ほらあな",
@@ -23164,7 +23164,7 @@
   },
   {
     "id": "J10507",
-    "level": "J1",
+    "level": "J",
     "kanji": "嶋",
     "question": "山の上を鳥が渡り、遠い{target}に夕日が沈んだ。",
     "targetText": "しま",
@@ -23232,7 +23232,7 @@
   },
   {
     "id": "J10508",
-    "level": "J1",
+    "level": "J",
     "kanji": "梼",
     "question": "木陰で寿司を分け合い、古い{target}に腰かけた。",
     "targetText": "きりかぶ",
@@ -23265,7 +23265,7 @@
   },
   {
     "id": "J10509",
-    "level": "J1",
+    "level": "J",
     "kanji": "淘",
     "question": "水で砂を洗い、古い缶の山から使えないものを{target}汰した。",
     "targetText": "とう",
@@ -23289,7 +23289,7 @@
   },
   {
     "id": "J10510",
-    "level": "J1",
+    "level": "J",
     "kanji": "涛",
     "question": "水の上で寿司の舟が揺れ、大きな{target}が岸へ寄せた。",
     "targetText": "なみ",
@@ -23311,7 +23311,7 @@
   },
   {
     "id": "J10511",
-    "level": "J1",
+    "level": "J",
     "kanji": "燈",
     "question": "火が登るように、山小屋の{target}が夜道を照らした。",
     "targetText": "ともしび",
@@ -23344,10 +23344,10 @@
   },
   {
     "id": "J10512",
-    "level": "J1",
+    "level": "J",
     "kanji": "祷",
-    "question": "寿ぎの日の朝、神前で家族の無事を{target}声が響いた。",
-    "targetText": "いのる",
+    "question": "寿ぎの日の朝、神前で家族の無事を{target}る声が響いた。",
+    "targetText": "いの",
     "parts": [
       "示",
       "寿"
@@ -23421,7 +23421,7 @@
   },
   {
     "id": "J10513",
-    "level": "J1",
+    "level": "J",
     "kanji": "董",
     "question": "草の茂る庭で、重い約束の乱れを{target}役目を任された。",
     "targetText": "ただす",
@@ -23432,10 +23432,10 @@
   },
   {
     "id": "J10514",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕩",
-    "question": "草原の湯けむりの中で、心まで{target}ような笛が聞こえた。",
-    "targetText": "とろける",
+    "question": "草原の湯けむりの中で、心まで{target}けるような笛が聞こえた。",
+    "targetText": "とろ",
     "parts": [
       "草",
       "湯"
@@ -23516,8 +23516,8 @@
     "id": "1786",
     "level": "H1",
     "kanji": "透",
-    "question": "道の先で、秀でた泉の水が{target}ほど澄んでいた。",
-    "targetText": "すきとおる",
+    "question": "道の先の秀でた泉は、底まで{target}き通るほど澄んでいた。",
+    "targetText": "す",
     "parts": [
       "道",
       "秀"
@@ -23525,7 +23525,7 @@
   },
   {
     "id": "J10515",
-    "level": "J1",
+    "level": "J",
     "kanji": "鐙",
     "question": "馬に登る前、朝日に光る金具の{target}に足をかけた。",
     "targetText": "あぶみ",
@@ -23560,8 +23560,8 @@
     "id": "1800",
     "level": "H1",
     "kanji": "騰",
-    "question": "月夜の競り場で券を握る人々の声に、馬の値が{target}。",
-    "targetText": "あがった",
+    "question": "月夜の競り場で券を握る人々の声に、馬の値が{target}がった。",
+    "targetText": "あ",
     "parts": [
       "月",
       "券",
@@ -23572,8 +23572,8 @@
     "id": "1799",
     "level": "H1",
     "kanji": "闘",
-    "question": "門の前で豆ほどの勇気を胸に、寸前まで少年は{target}。",
-    "targetText": "たたかった",
+    "question": "門の前で豆ほどの勇気を胸に、寸前まで少年は{target}った。",
+    "targetText": "たたか",
     "parts": [
       "門",
       "豆",
@@ -23649,7 +23649,7 @@
   },
   {
     "id": "J10516",
-    "level": "J1",
+    "level": "J",
     "kanji": "撞",
     "question": "童たちが手を伸ばし、寺の鐘をそっと{target}と夕空が震えた。",
     "targetText": "つく",
@@ -23704,7 +23704,7 @@
   },
   {
     "id": "J10517",
-    "level": "J1",
+    "level": "J",
     "kanji": "萄",
     "question": "草の棚の下で、冷たい缶に入れたぶ{target}を分け合った。",
     "targetText": "どう",
@@ -23750,7 +23750,7 @@
   },
   {
     "id": "J10518",
-    "level": "J1",
+    "level": "J",
     "kanji": "鴇",
     "question": "十羽の鳥が空を渡り、夕焼け色の{target}が田に降りた。",
     "targetText": "とき",
@@ -23798,7 +23798,7 @@
   },
   {
     "id": "J10519",
-    "level": "J1",
+    "level": "J",
     "kanji": "涜",
     "question": "水辺の市で、売り声にまぎれて清い泉を{target}者がいた。",
     "targetText": "けがす",
@@ -23831,7 +23831,7 @@
   },
   {
     "id": "J10520",
-    "level": "J1",
+    "level": "J",
     "kanji": "禿",
     "question": "稲穂の下で児らが笑い、祖父の{target}頭が日に光った。",
     "targetText": "はげ",
@@ -23898,7 +23898,7 @@
   },
   {
     "id": "J10521",
-    "level": "J1",
+    "level": "J",
     "kanji": "橡",
     "question": "{target}の木陰で、子象が丸い実を鼻で転がした。",
     "targetText": "とち",
@@ -23931,7 +23931,7 @@
   },
   {
     "id": "J10522",
-    "level": "J1",
+    "level": "J",
     "kanji": "椴",
     "question": "石段のそばで、{target}松の木が雪を静かに受け止めていた。",
     "targetText": "とど",
@@ -23953,7 +23953,7 @@
   },
   {
     "id": "J10523",
-    "level": "J1",
+    "level": "J",
     "kanji": "鳶",
     "question": "青空で{target}が高く舞い、鳥の影が畑を横切った。",
     "targetText": "とび",
@@ -23964,7 +23964,7 @@
   },
   {
     "id": "J10524",
-    "level": "J1",
+    "level": "J",
     "kanji": "苫",
     "question": "{target}屋の草ぶき屋根で、占い師が雨音を聞いていた。",
     "targetText": "とま",
@@ -23975,7 +23975,7 @@
   },
   {
     "id": "J10525",
-    "level": "J1",
+    "level": "J",
     "kanji": "寅",
     "question": "屋根の下で、八つの灯りに照らされた{target}年の札が揺れた。",
     "targetText": "とら",
@@ -23987,7 +23987,7 @@
   },
   {
     "id": "J10526",
-    "level": "J1",
+    "level": "J",
     "kanji": "酉",
     "question": "西の空が赤くなるころ、祖父は{target}年の祝いに酒をついだ。",
     "targetText": "とり",
@@ -23998,7 +23998,7 @@
   },
   {
     "id": "J10527",
-    "level": "J1",
+    "level": "J",
     "kanji": "瀞",
     "question": "川の水が静まり、{target}の底に白い月が映った。",
     "targetText": "とろ",
@@ -24009,7 +24009,7 @@
   },
   {
     "id": "J10528",
-    "level": "J1",
+    "level": "J",
     "kanji": "噸",
     "question": "港の屯所の前で、男たちは口々に一{target}の荷を数えた。",
     "targetText": "とん",
@@ -24033,7 +24033,7 @@
   },
   {
     "id": "J10529",
-    "level": "J1",
+    "level": "J",
     "kanji": "惇",
     "question": "心のやさしい{target}は、高い台の下で子どもの話を聞いた。",
     "targetText": "あつし",
@@ -24044,7 +24044,7 @@
   },
   {
     "id": "J10530",
-    "level": "J1",
+    "level": "J",
     "kanji": "敦",
     "question": "高い台の下で子どもを教え、{target}は夕日に向かって笑った。",
     "targetText": "あつし",
@@ -24055,7 +24055,7 @@
   },
   {
     "id": "J10531",
-    "level": "J1",
+    "level": "J",
     "kanji": "沌",
     "question": "雨水がたまり、村の屯所の前は混{target}とした朝になった。",
     "targetText": "とん",
@@ -24077,7 +24077,7 @@
   },
   {
     "id": "J10532",
-    "level": "J1",
+    "level": "J",
     "kanji": "遁",
     "question": "兵は盾を抱え、細い道をたどって{target}走した。",
     "targetText": "とん",
@@ -24099,7 +24099,7 @@
   },
   {
     "id": "J10533",
-    "level": "J1",
+    "level": "J",
     "kanji": "呑",
     "question": "青い天の下で、旅人は口を開けて冷たい水を{target}む。",
     "targetText": "の",
@@ -24166,7 +24166,7 @@
   },
   {
     "id": "J10534",
-    "level": "J1",
+    "level": "J",
     "kanji": "乍",
     "question": "雨にぬれ{target}、一人で細い小道を歩いた。",
     "targetText": "ながら",
@@ -24178,7 +24178,7 @@
   },
   {
     "id": "J10535",
-    "level": "J1",
+    "level": "J",
     "kanji": "凪",
     "question": "風が止まり、机の上の貝殻まで{target}の海を映した。",
     "targetText": "なぎ",
@@ -24189,7 +24189,7 @@
   },
   {
     "id": "J10536",
-    "level": "J1",
+    "level": "J",
     "kanji": "薙",
     "question": "草原で矢のように鳥が飛び、武士は{target}なたを構えた。",
     "targetText": "なぎ",
@@ -24212,7 +24212,7 @@
   },
   {
     "id": "J10537",
-    "level": "J1",
+    "level": "J",
     "kanji": "灘",
     "question": "水しぶきが難所の岩に砕け、船は{target}を越えた。",
     "targetText": "なだ",
@@ -24223,7 +24223,7 @@
   },
   {
     "id": "J10538",
-    "level": "J1",
+    "level": "J",
     "kanji": "捺",
     "question": "手にした印を奈良の土産帳へ{target}印した。",
     "targetText": "なつ",
@@ -24245,7 +24245,7 @@
   },
   {
     "id": "X0070",
-    "level": "J1",
+    "level": "J",
     "kanji": "楢",
     "question": "村の長が木陰で、{target}の葉音を聞いた。",
     "targetText": "なら",
@@ -24256,7 +24256,7 @@
   },
   {
     "id": "J10539",
-    "level": "J1",
+    "level": "J",
     "kanji": "馴",
     "question": "川辺の馬は、少年の声に少しずつ{target}ていった。",
     "targetText": "なれ",
@@ -24279,7 +24279,7 @@
   },
   {
     "id": "J10540",
-    "level": "J1",
+    "level": "J",
     "kanji": "畷",
     "question": "田んぼの間の{target}を、またまた子犬が駆けていく。",
     "targetText": "なわて",
@@ -24302,7 +24302,7 @@
   },
   {
     "id": "J10541",
-    "level": "J1",
+    "level": "J",
     "kanji": "楠",
     "question": "南の庭で、大きな{target}の木陰に座った。",
     "targetText": "くすのき",
@@ -24337,7 +24337,7 @@
   },
   {
     "id": "J10542",
-    "level": "J1",
+    "level": "J",
     "kanji": "汝",
     "question": "水辺で女神が、{target}だけに秘密の声をかけた。",
     "targetText": "なんじ",
@@ -24381,7 +24381,7 @@
   },
   {
     "id": "J10543",
-    "level": "J1",
+    "level": "J",
     "kanji": "迩",
     "question": "小さな村へ続く道は、川沿いを行くほど{target}い。",
     "targetText": "ちか",
@@ -24403,7 +24403,7 @@
   },
   {
     "id": "J10544",
-    "level": "J1",
+    "level": "J",
     "kanji": "賑",
     "question": "朝市では、貝を売る店先が辰の刻から{target}わった。",
     "targetText": "にぎ",
@@ -24436,7 +24436,7 @@
   },
   {
     "id": "J10545",
-    "level": "J1",
+    "level": "J",
     "kanji": "廿",
     "question": "十年を二度越え、兄は{target}の春を迎えた。",
     "targetText": "はたち",
@@ -24503,7 +24503,7 @@
   },
   {
     "id": "J10546",
-    "level": "J1",
+    "level": "J",
     "kanji": "韮",
     "question": "草の香りが残る畑で、非番の父が{target}を一束摘んだ。",
     "targetText": "にら",
@@ -24560,7 +24560,7 @@
   },
   {
     "id": "J10547",
-    "level": "J1",
+    "level": "J",
     "kanji": "濡",
     "question": "雨上がりの水たまりで、子犬の足が{target}れた。",
     "targetText": "ぬ",
@@ -24572,7 +24572,7 @@
   },
   {
     "id": "J10548",
-    "level": "J1",
+    "level": "J",
     "kanji": "禰",
     "question": "神社の朝、{target}ぎは小さな鈴を鳴らした。",
     "targetText": "ね",
@@ -24583,7 +24583,7 @@
   },
   {
     "id": "X0086",
-    "level": "J1",
+    "level": "J",
     "kanji": "祢",
     "question": "神社で小さな者まで迎え、若い{target}ぎが鈴を鳴らした。",
     "targetText": "ね",
@@ -24607,7 +24607,7 @@
   },
   {
     "id": "J10549",
-    "level": "J1",
+    "level": "J",
     "kanji": "葱",
     "question": "草色の畑で、急ぎの夕飯に{target}を刻んだ。",
     "targetText": "ねぎ",
@@ -24665,8 +24665,8 @@
     "id": "1829",
     "level": "H1",
     "kanji": "捻",
-    "question": "手の中で念入りに布を{target}と、水がぽたぽた落ちた。",
-    "targetText": "ひねる",
+    "question": "手の中で念入りに布を{target}ると、水がぽたぽた落ちた。",
+    "targetText": "ひね",
     "parts": [
       "手",
       "念"
@@ -24674,7 +24674,7 @@
   },
   {
     "id": "J10550",
-    "level": "J1",
+    "level": "J",
     "kanji": "撚",
     "question": "手の中の糸を、焚き火のそばで細く{target}った。",
     "targetText": "よ",
@@ -24709,7 +24709,7 @@
   },
   {
     "id": "J10551",
-    "level": "J1",
+    "level": "J",
     "kanji": "乃",
     "question": "春{target}歌が、風にふっと乗った。",
     "targetText": "の",
@@ -24720,7 +24720,7 @@
   },
   {
     "id": "J10552",
-    "level": "J1",
+    "level": "J",
     "kanji": "廼",
     "question": "長い道を進み西の門に着いた、{target}ちここが目的地だった。",
     "targetText": "すなわ",
@@ -24731,7 +24731,7 @@
   },
   {
     "id": "X0016",
-    "level": "J1",
+    "level": "J",
     "kanji": "之",
     "question": "旅人は点のような灯を追い、曲がり道{target}先へ進んだ。",
     "targetText": "の",
@@ -24742,7 +24742,7 @@
   },
   {
     "id": "X0054",
-    "level": "J1",
+    "level": "J",
     "kanji": "埜",
     "question": "林と土のにおいが残る武蔵{target}へ、旅人は夕方に着いた。",
     "targetText": "の",
@@ -24753,7 +24753,7 @@
   },
   {
     "id": "J10553",
-    "level": "J1",
+    "level": "J",
     "kanji": "嚢",
     "question": "旅人は口をきゅっと結んだ{target}に、替えの衣をしまった。",
     "targetText": "ふくろ",
@@ -24823,7 +24823,7 @@
   },
   {
     "id": "J10554",
-    "level": "J1",
+    "level": "J",
     "kanji": "膿",
     "question": "月夜の農家で、傷から{target}がにじみ、医者を呼んだ。",
     "targetText": "うみ",
@@ -24845,7 +24845,7 @@
   },
   {
     "id": "J10555",
-    "level": "J1",
+    "level": "J",
     "kanji": "覗",
     "question": "司会者の合図で、子どもは窓から中を{target}いた。",
     "targetText": "のぞ",
@@ -24856,7 +24856,7 @@
   },
   {
     "id": "J10556",
-    "level": "J1",
+    "level": "J",
     "kanji": "蚤",
     "question": "犬の毛の中で、小さな虫のような{target}がまた跳ねた。",
     "targetText": "のみ",
@@ -24868,7 +24868,7 @@
   },
   {
     "id": "J10557",
-    "level": "J1",
+    "level": "J",
     "kanji": "巴",
     "question": "祭りの旗で、蛇が丸く眠るような{target}模様が揺れた。",
     "targetText": "ともえ",
@@ -24889,7 +24889,7 @@
   },
   {
     "id": "X0032",
-    "level": "J1",
+    "level": "J",
     "kanji": "播",
     "question": "手にした種を、番小屋の前の田へ{target}く。",
     "targetText": "ま",
@@ -24912,7 +24912,7 @@
   },
   {
     "id": "J10558",
-    "level": "J1",
+    "level": "J",
     "kanji": "杷",
     "question": "木の皿に、渦のような種を持つび{target}を一つ置いた。",
     "targetText": "わ",
@@ -24946,7 +24946,7 @@
   },
   {
     "id": "X0039",
-    "level": "J1",
+    "level": "J",
     "kanji": "琶",
     "question": "王宮の月夜、巴の模様を抱いた琵{target}が静かに鳴った。",
     "targetText": "わ",
@@ -24991,7 +24991,7 @@
   },
   {
     "id": "J10559",
-    "level": "J1",
+    "level": "J",
     "kanji": "芭",
     "question": "草の茂る庭で、丸い葉の{target}しょうが風に揺れた。",
     "targetText": "ば",
@@ -25079,7 +25079,7 @@
   },
   {
     "id": "J10560",
-    "level": "J1",
+    "level": "J",
     "kanji": "盃",
     "question": "不思議な夜、皿に似た{target}で酒を受けた。",
     "targetText": "さかずき",
@@ -25090,7 +25090,7 @@
   },
   {
     "id": "J10561",
-    "level": "J1",
+    "level": "J",
     "kanji": "牌",
     "question": "片手で拾った{target}には、卑しい旅人の名があった。",
     "targetText": "ふだ",
@@ -25192,7 +25192,7 @@
   },
   {
     "id": "J10562",
-    "level": "J1",
+    "level": "J",
     "kanji": "楳",
     "question": "庭の木から甘い香りが流れ、{target}の花がほころんだ。",
     "targetText": "うめ",
@@ -25204,7 +25204,7 @@
   },
   {
     "id": "J10563",
-    "level": "J1",
+    "level": "J",
     "kanji": "煤",
     "question": "火を囲んだあと、甘い菓子を入れた木箱に黒い{target}がついた。",
     "targetText": "すす",
@@ -25216,7 +25216,7 @@
   },
   {
     "id": "J10564",
-    "level": "J1",
+    "level": "J",
     "kanji": "狽",
     "question": "犬が貝殻を踏み、ろう{target}して浜を走った。",
     "targetText": "ばい",
@@ -25274,7 +25274,7 @@
   },
   {
     "id": "J10565",
-    "level": "J1",
+    "level": "J",
     "kanji": "這",
     "question": "言葉も出ない赤んぼうが、道の上をゆっくり{target}ように進んだ。",
     "targetText": "はう",
@@ -25285,7 +25285,7 @@
   },
   {
     "id": "J10566",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝿",
     "question": "虫が口元に近づき、日なたを{target}が飛び回った。",
     "targetText": "はえ",
@@ -25298,7 +25298,7 @@
   },
   {
     "id": "J10567",
-    "level": "J1",
+    "level": "J",
     "kanji": "秤",
     "question": "稲穂を平らな台にのせると、店の{target}が静かに揺れた。",
     "targetText": "はかり",
@@ -25309,7 +25309,7 @@
   },
   {
     "id": "J10568",
-    "level": "J1",
+    "level": "J",
     "kanji": "矧",
     "question": "矢を引く音のそばで、職人は板の{target}目をなでた。",
     "targetText": "はぎ",
@@ -25320,7 +25320,7 @@
   },
   {
     "id": "X0091",
-    "level": "J1",
+    "level": "J",
     "kanji": "萩",
     "question": "秋の庭で、草の露をまとった{target}が風に揺れた。",
     "targetText": "はぎ",
@@ -25377,7 +25377,7 @@
   },
   {
     "id": "J10569",
-    "level": "J1",
+    "level": "J",
     "kanji": "柏",
     "question": "白い餅を、{target}の木の葉で包んだ。",
     "targetText": "かしわ",
@@ -25410,7 +25410,7 @@
   },
   {
     "id": "J10570",
-    "level": "J1",
+    "level": "J",
     "kanji": "箔",
     "question": "竹の筆で水をのばすと、白く光る金{target}が舞った。",
     "targetText": "ぱく",
@@ -25422,7 +25422,7 @@
   },
   {
     "id": "J10571",
-    "level": "J1",
+    "level": "J",
     "kanji": "粕",
     "question": "米を蒸した白い桶の底に、酒の{target}が残った。",
     "targetText": "かす",
@@ -25468,7 +25468,7 @@
   },
   {
     "id": "X0062",
-    "level": "J1",
+    "level": "J",
     "kanji": "曝",
     "question": "日差しの下で、暴れた波にぬれた布を{target}す。",
     "targetText": "さら",
@@ -25517,7 +25517,7 @@
   },
   {
     "id": "J10572",
-    "level": "J1",
+    "level": "J",
     "kanji": "莫",
     "question": "草原の日が大きく沈み、{target}大な影が村を包んだ。",
     "targetText": "ばく",
@@ -25529,7 +25529,7 @@
   },
   {
     "id": "J10573",
-    "level": "J1",
+    "level": "J",
     "kanji": "駁",
     "question": "馬の背に交じる白黒の{target}模様が、朝日に揺れた。",
     "targetText": "まだら",
@@ -25551,7 +25551,7 @@
   },
   {
     "id": "J10574",
-    "level": "J1",
+    "level": "J",
     "kanji": "函",
     "question": "水辺のくぼみに、小さな{target}をそっと沈めた。",
     "targetText": "はこ",
@@ -25574,7 +25574,7 @@
   },
   {
     "id": "J10575",
-    "level": "J1",
+    "level": "J",
     "kanji": "硲",
     "question": "石の谷あいで、村と村の{target}に風が吹いた。",
     "targetText": "はざま",
@@ -25596,7 +25596,7 @@
   },
   {
     "id": "J10576",
-    "level": "J1",
+    "level": "J",
     "kanji": "肇",
     "question": "戸をたたき、筆を手にした朝、旅の{target}を告げる鐘が鳴った。",
     "targetText": "はじめ",
@@ -25608,7 +25608,7 @@
   },
   {
     "id": "J10577",
-    "level": "J1",
+    "level": "J",
     "kanji": "筈",
     "question": "竹林で舌を出して笑った君は、昼までに来る{target}だった。",
     "targetText": "はず",
@@ -25619,7 +25619,7 @@
   },
   {
     "id": "J10578",
-    "level": "J1",
+    "level": "J",
     "kanji": "櫨",
     "question": "秋の木陰で、とら猫が田んぼ脇の皿をのぞくと、赤い{target}の葉が落ちた。",
     "targetText": "はぜ",
@@ -25632,7 +25632,7 @@
   },
   {
     "id": "J10579",
-    "level": "J1",
+    "level": "J",
     "kanji": "幡",
     "question": "田んぼの番をする小屋で、布の{target}が風にひるがえった。",
     "targetText": "はた",
@@ -25665,7 +25665,7 @@
   },
   {
     "id": "J10580",
-    "level": "J1",
+    "level": "J",
     "kanji": "畠",
     "question": "白い雲の下、田んぼの隣の{target}に朝の光が満ちた。",
     "targetText": "はたけ",
@@ -25698,7 +25698,7 @@
   },
   {
     "id": "J10581",
-    "level": "J1",
+    "level": "J",
     "kanji": "溌",
     "question": "水辺で、{target}らつとした子犬が号令と同時に発走した。",
     "targetText": "はつ",
@@ -25721,7 +25721,7 @@
   },
   {
     "id": "J10582",
-    "level": "J1",
+    "level": "J",
     "kanji": "醗",
     "question": "酒蔵で酉の市の太鼓を聞きながら、甘い香りを発して{target}こうが進んだ。",
     "targetText": "はっ",
@@ -25779,7 +25779,7 @@
   },
   {
     "id": "J10583",
-    "level": "J1",
+    "level": "J",
     "kanji": "筏",
     "question": "竹を伐った山里から、{target}が川をゆっくり下った。",
     "targetText": "いかだ",
@@ -25802,7 +25802,7 @@
   },
   {
     "id": "J10584",
-    "level": "J1",
+    "level": "J",
     "kanji": "鳩",
     "question": "九羽の鳥が神社の屋根に集まり、その一羽の{target}が豆をつついた。",
     "targetText": "はと",
@@ -25813,7 +25813,7 @@
   },
   {
     "id": "J10585",
-    "level": "J1",
+    "level": "J",
     "kanji": "噺",
     "question": "新しい口ぶりで、祖父の{target}は囲炉裏に広がった。",
     "targetText": "はなし",
@@ -25824,7 +25824,7 @@
   },
   {
     "id": "J10586",
-    "level": "J1",
+    "level": "J",
     "kanji": "塙",
     "question": "高い土手の先に、{target}という小さな村が見えた。",
     "targetText": "はなわ",
@@ -25835,7 +25835,7 @@
   },
   {
     "id": "J10587",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛤",
     "question": "浜で虫の声がやむころ、ぴたりと合う殻の{target}を拾った。",
     "targetText": "はまぐり",
@@ -25846,7 +25846,7 @@
   },
   {
     "id": "J10588",
-    "level": "J1",
+    "level": "J",
     "kanji": "隼",
     "question": "十字の風を切って、鳥の王のような{target}が空を走った。",
     "targetText": "はやぶさ",
@@ -25901,7 +25901,7 @@
   },
   {
     "id": "J10589",
-    "level": "J1",
+    "level": "J",
     "kanji": "叛",
     "question": "半分だけ返事を反らし、若者は王に{target}道を選んだ。",
     "targetText": "そむく",
@@ -26083,7 +26083,7 @@
   },
   {
     "id": "J10590",
-    "level": "J1",
+    "level": "J",
     "kanji": "釆",
     "question": "野原で米をついばむ小鳥に、子どもは{target}と名づけた。",
     "targetText": "のごめ",
@@ -26127,7 +26127,7 @@
   },
   {
     "id": "X0031",
-    "level": "J1",
+    "level": "J",
     "kanji": "挽",
     "question": "手元で逃げるうさぎを横目に、祖父は豆を{target}く。",
     "targetText": "ひ",
@@ -26172,7 +26172,7 @@
   },
   {
     "id": "X0085",
-    "level": "J1",
+    "level": "J",
     "kanji": "磐",
     "question": "舟を岸へ寄せ、石のように平たい{target}の上で休んだ。",
     "targetText": "いわ",
@@ -26184,10 +26184,10 @@
   },
   {
     "id": "J10591",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕃",
-    "question": "番小屋のそばで草が{target}ころ、羊の鈴が遠くで鳴った。",
-    "targetText": "しげる",
+    "question": "番小屋のそばで草が{target}るころ、羊の鈴が遠くで鳴った。",
+    "targetText": "しげ",
     "parts": [
       "草",
       "番"
@@ -26206,7 +26206,7 @@
   },
   {
     "id": "J10592",
-    "level": "J1",
+    "level": "J",
     "kanji": "匪",
     "question": "箱馬車を襲う非道な{target}ぞくの噂が、宿場に広がった。",
     "targetText": "ひ",
@@ -26251,7 +26251,7 @@
   },
   {
     "id": "J10593",
-    "level": "J1",
+    "level": "J",
     "kanji": "庇",
     "question": "広い屋根を比べると、古い家の{target}がいちばん長かった。",
     "targetText": "ひさし",
@@ -26317,7 +26317,7 @@
   },
   {
     "id": "J10594",
-    "level": "J1",
+    "level": "J",
     "kanji": "斐",
     "question": "非のないほど美しい文様の{target}が、絹の上で揺れた。",
     "targetText": "あや",
@@ -26394,7 +26394,7 @@
   },
   {
     "id": "J10595",
-    "level": "J1",
+    "level": "J",
     "kanji": "緋",
     "question": "糸で織った、非の打ちどころのない{target}色の帯が夕日に燃えた。",
     "targetText": "ひ",
@@ -26438,10 +26438,10 @@
   },
   {
     "id": "J10596",
-    "level": "J1",
+    "level": "J",
     "kanji": "誹",
-    "question": "非のない友を、冷たい言葉で{target}声が廊下に響いた。",
-    "targetText": "そしる",
+    "question": "非のない友を、冷たい言葉で{target}る声が廊下に響いた。",
+    "targetText": "そし",
     "parts": [
       "言",
       "非"
@@ -26494,7 +26494,7 @@
   },
   {
     "id": "J10597",
-    "level": "J1",
+    "level": "J",
     "kanji": "樋",
     "question": "木の家の屋根から、雨水が{target}を通って庭へ落ちた。",
     "targetText": "とい",
@@ -26505,7 +26505,7 @@
   },
   {
     "id": "J10598",
-    "level": "J1",
+    "level": "J",
     "kanji": "簸",
     "question": "竹の箕で米を{target}と、その皮だけが風へ逃げた。",
     "targetText": "ひる",
@@ -26552,7 +26552,7 @@
   },
   {
     "id": "J10599",
-    "level": "J1",
+    "level": "J",
     "kanji": "枇",
     "question": "木陰で比べたら、{target}わの実は兄の手より丸かった。",
     "targetText": "び",
@@ -26563,7 +26563,7 @@
   },
   {
     "id": "J10600",
-    "level": "J1",
+    "level": "J",
     "kanji": "毘",
     "question": "田んぼの道で背を比べた帰り、{target}しゃもん様の前で祈った。",
     "targetText": "び",
@@ -26574,7 +26574,7 @@
   },
   {
     "id": "X0038",
-    "level": "J1",
+    "level": "J",
     "kanji": "琵",
     "question": "王の前で二人が比べるように、{target}琶の低い音を鳴らした。",
     "targetText": "び",
@@ -26620,7 +26620,7 @@
   },
   {
     "id": "J10601",
-    "level": "J1",
+    "level": "J",
     "kanji": "柊",
     "question": "冬の木陰で、{target}の葉が小さく光った。",
     "targetText": "ひいらぎ",
@@ -26631,7 +26631,7 @@
   },
   {
     "id": "J10602",
-    "level": "J1",
+    "level": "J",
     "kanji": "稗",
     "question": "稲穂の陰で、背の低い{target}がさらさら揺れた。",
     "targetText": "ひえ",
@@ -26653,7 +26653,7 @@
   },
   {
     "id": "J10603",
-    "level": "J1",
+    "level": "J",
     "kanji": "疋",
     "question": "曲がった道で足を止め、一{target}の子犬を見つけた。",
     "targetText": "ひき",
@@ -26665,7 +26665,7 @@
   },
   {
     "id": "J10604",
-    "level": "J1",
+    "level": "J",
     "kanji": "髭",
     "question": "長い髪の老人は、この店で白い{target}を整えた。",
     "targetText": "ひげ",
@@ -26676,7 +26676,7 @@
   },
   {
     "id": "X0029",
-    "level": "J1",
+    "level": "J",
     "kanji": "彦",
     "question": "村の{target}は、立派な崖のそばで三本の髪を風になびかせた。",
     "targetText": "ひこ",
@@ -26701,7 +26701,7 @@
   },
   {
     "id": "X0008",
-    "level": "J1",
+    "level": "J",
     "kanji": "菱",
     "question": "草の茂る池で実を拾い、土間で八つの{target}もちを供えた。",
     "targetText": "ひし",
@@ -26725,7 +26725,7 @@
   },
   {
     "id": "J10605",
-    "level": "J1",
+    "level": "J",
     "kanji": "弼",
     "question": "二つの弓を携えた老臣が若い王を{target}け、百の兵を動かした。",
     "targetText": "たす",
@@ -26748,7 +26748,7 @@
   },
   {
     "id": "J10606",
-    "level": "J1",
+    "level": "J",
     "kanji": "畢",
     "question": "田んぼの仕事は、十人の手で夕方に{target}る。",
     "targetText": "おわ",
@@ -26770,7 +26770,7 @@
   },
   {
     "id": "J10607",
-    "level": "J1",
+    "level": "J",
     "kanji": "逼",
     "question": "一本道の先、入口のある田のあぜまで影が{target}る。",
     "targetText": "せま",
@@ -26783,7 +26783,7 @@
   },
   {
     "id": "J10608",
-    "level": "J1",
+    "level": "J",
     "kanji": "桧",
     "question": "村の会で選ばれた山の木、{target}はまっすぐ空へ伸びた。",
     "targetText": "ひのき",
@@ -26817,7 +26817,7 @@
   },
   {
     "id": "J10609",
-    "level": "J1",
+    "level": "J",
     "kanji": "紐",
     "question": "糸で作った{target}を、丑年の鈴にきゅっと結んだ。",
     "targetText": "ひも",
@@ -26839,7 +26839,7 @@
   },
   {
     "id": "J10610",
-    "level": "J1",
+    "level": "J",
     "kanji": "謬",
     "question": "羽のように軽い言葉の{target}りで、三すじの線を引いた地図が迷路になった。",
     "targetText": "あやま",
@@ -26862,7 +26862,7 @@
   },
   {
     "id": "J10611",
-    "level": "J1",
+    "level": "J",
     "kanji": "彪",
     "question": "虎の背に三すじの影が走り、{target}が月明かりに浮かんだ。",
     "targetText": "あや",
@@ -26906,7 +26906,7 @@
   },
   {
     "id": "J10612",
-    "level": "J1",
+    "level": "J",
     "kanji": "瓢",
     "question": "票をなくした旅人が、瓜の形の{target}に水を入れた。",
     "targetText": "ひさご",
@@ -26950,7 +26950,7 @@
   },
   {
     "id": "J10613",
-    "level": "J1",
+    "level": "J",
     "kanji": "豹",
     "question": "獣の影がひしゃくの丸い水を見つめ、{target}は草原へ走った。",
     "targetText": "ひょう",
@@ -26961,7 +26961,7 @@
   },
   {
     "id": "J10614",
-    "level": "J1",
+    "level": "J",
     "kanji": "廟",
     "question": "朝の光が広いお堂に差し、祖先の{target}へ静かに手を合わせた。",
     "targetText": "みたまや",
@@ -27016,7 +27016,7 @@
   },
   {
     "id": "J10615",
-    "level": "J1",
+    "level": "J",
     "kanji": "錨",
     "question": "金色の船具を、苗の育つ田のそばで磨き、{target}を海へ沈めた。",
     "targetText": "いかり",
@@ -27027,7 +27027,7 @@
   },
   {
     "id": "J10616",
-    "level": "J1",
+    "level": "J",
     "kanji": "鋲",
     "question": "兵隊のおもちゃの横で、金色の{target}が板に光った。",
     "targetText": "びょう",
@@ -27038,7 +27038,7 @@
   },
   {
     "id": "J10617",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒜",
     "question": "草の畑で、神棚に供えるほど香る{target}を二束抜いた。",
     "targetText": "にんにく",
@@ -27050,7 +27050,7 @@
   },
   {
     "id": "J10618",
-    "level": "J1",
+    "level": "J",
     "kanji": "蛭",
     "question": "虫の影が水辺に至るころ、足に{target}がついていた。",
     "targetText": "ひる",
@@ -27061,7 +27061,7 @@
   },
   {
     "id": "J10619",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰭",
     "question": "老いた魚が日差しの池で、銀の{target}をゆらした。",
     "targetText": "ひれ",
@@ -27085,7 +27085,7 @@
   },
   {
     "id": "J10620",
-    "level": "J1",
+    "level": "J",
     "kanji": "彬",
     "question": "林に三すじの朝日が入り、少年{target}は静かに本を開いた。",
     "targetText": "あきら",
@@ -27096,7 +27096,7 @@
   },
   {
     "id": "J10621",
-    "level": "J1",
+    "level": "J",
     "kanji": "斌",
     "question": "文を読み、武道の稽古にも励む少年、{target}は礼儀正しかった。",
     "targetText": "あきら",
@@ -27118,7 +27118,7 @@
   },
   {
     "id": "J10622",
-    "level": "J1",
+    "level": "J",
     "kanji": "瀕",
     "question": "水辺で歩みを止めた魚は、顔を青くして{target}死のようだった。",
     "targetText": "ひん",
@@ -27209,7 +27209,7 @@
   },
   {
     "id": "J10623",
-    "level": "J1",
+    "level": "J",
     "kanji": "埠",
     "question": "土のにおう港で、丘のような{target}頭に船が着いた。",
     "targetText": "ふ",
@@ -27255,7 +27255,7 @@
   },
   {
     "id": "J10624",
-    "level": "J1",
+    "level": "J",
     "kanji": "冨",
     "question": "屋根の下で口いっぱい米を食べ、田んぼの実りを{target}と呼んだ。",
     "targetText": "とみ",
@@ -27324,7 +27324,7 @@
   },
   {
     "id": "J10625",
-    "level": "J1",
+    "level": "J",
     "kanji": "斧",
     "question": "父は一斤のパンを包んでから、山小屋で{target}を手に薪を割った。",
     "targetText": "おの",
@@ -27402,7 +27402,7 @@
   },
   {
     "id": "J10626",
-    "level": "J1",
+    "level": "J",
     "kanji": "芙",
     "question": "草のしげる池のそばで、夫が{target}蓉の花を見上げた。",
     "targetText": "ふ",
@@ -27491,7 +27491,7 @@
   },
   {
     "id": "J10627",
-    "level": "J1",
+    "level": "J",
     "kanji": "撫",
     "question": "手を伸ばし、声も無く眠る猫をそっと{target}でた。",
     "targetText": "な",
@@ -27524,7 +27524,7 @@
   },
   {
     "id": "J10628",
-    "level": "J1",
+    "level": "J",
     "kanji": "葡",
     "question": "草の棚の下で、包むような葉に守られた{target}萄が熟した。",
     "targetText": "ぶ",
@@ -27536,7 +27536,7 @@
   },
   {
     "id": "J10629",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕪",
     "question": "草の畑で、無口な祖父が白い{target}を抜いた。",
     "targetText": "かぶ",
@@ -27571,7 +27571,7 @@
   },
   {
     "id": "J10630",
-    "level": "J1",
+    "level": "J",
     "kanji": "楓",
     "question": "木の下を風が通り、赤い{target}の葉が舞った。",
     "targetText": "かえで",
@@ -27593,7 +27593,7 @@
   },
   {
     "id": "J10631",
-    "level": "J1",
+    "level": "J",
     "kanji": "葺",
     "question": "草の香る屋根で、職人は口笛を吹き、耳を澄ませて板を{target}いた。",
     "targetText": "ふ",
@@ -27605,7 +27605,7 @@
   },
   {
     "id": "J10632",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕗",
     "question": "草の道で足を止め、口いっぱいに春の{target}を味わった。",
     "targetText": "ふき",
@@ -27724,7 +27724,7 @@
   },
   {
     "id": "J10633",
-    "level": "J1",
+    "level": "J",
     "kanji": "淵",
     "question": "水の色が深くなる池の{target}で、少年は静かに石を投げた。",
     "targetText": "ふち",
@@ -27736,7 +27736,7 @@
   },
   {
     "id": "J10634",
-    "level": "J1",
+    "level": "J",
     "kanji": "弗",
     "question": "弓を売った金を、旅先の{target}に替えた。",
     "targetText": "どる",
@@ -27749,8 +27749,8 @@
     "id": "1925",
     "level": "H1",
     "kanji": "払",
-    "question": "ムッとした顔で、手についた砂を{target}。",
-    "targetText": "はらった",
+    "question": "ムッとした顔で、手についた砂を{target}った。",
+    "targetText": "はら",
     "parts": [
       "手",
       "ム"
@@ -27760,8 +27760,8 @@
     "id": "1926",
     "level": "H1",
     "kanji": "沸",
-    "question": "水の入ったやかんが、フツフツと{target}。",
-    "targetText": "わいた",
+    "question": "水の入ったやかんが、フツフツと{target}いた。",
+    "targetText": "わ",
     "parts": [
       "水",
       "弗"
@@ -27791,7 +27791,7 @@
   },
   {
     "id": "J10635",
-    "level": "J1",
+    "level": "J",
     "kanji": "鮒",
     "question": "魚かごを腰に付けた少年が、川で{target}を釣った。",
     "targetText": "ふな",
@@ -27813,7 +27813,7 @@
   },
   {
     "id": "J10636",
-    "level": "J1",
+    "level": "J",
     "kanji": "吻",
     "question": "夕暮れ、彼は口元を近づけ、そっと接{target}をした。",
     "targetText": "ぷん",
@@ -27860,7 +27860,7 @@
   },
   {
     "id": "J10637",
-    "level": "J1",
+    "level": "J",
     "kanji": "扮",
     "question": "手分けして衣装を選び、友だちは海賊に{target}装した。",
     "targetText": "ふん",
@@ -27871,7 +27871,7 @@
   },
   {
     "id": "X0077",
-    "level": "J1",
+    "level": "J",
     "kanji": "焚",
     "question": "林の奥で火を囲み、夜明けまで薪を{target}く。",
     "targetText": "た",
@@ -27905,7 +27905,7 @@
   },
   {
     "id": "J10638",
-    "level": "J1",
+    "level": "J",
     "kanji": "糞",
     "question": "米蔵のすみで、異様なにおいの{target}を見つけた。",
     "targetText": "ふん",
@@ -27918,8 +27918,8 @@
     "id": "1927",
     "level": "H1",
     "kanji": "紛",
-    "question": "色糸を分けていたら、赤い一本が人ごみに{target}。",
-    "targetText": "まぎれた",
+    "question": "色糸を分けていたら、赤い一本が人ごみに{target}れた。",
+    "targetText": "まぎ",
     "parts": [
       "糸",
       "分"
@@ -28107,7 +28107,7 @@
   },
   {
     "id": "J10639",
-    "level": "J1",
+    "level": "J",
     "kanji": "頁",
     "question": "本の{target}をめくると、自分の顔に似た絵が出てきた。",
     "targetText": "ぺーじ",
@@ -28119,7 +28119,7 @@
   },
   {
     "id": "J10640",
-    "level": "J1",
+    "level": "J",
     "kanji": "僻",
     "question": "人の口ぶりを気にして、辛い日ほど彼はすぐ{target}んだ。",
     "targetText": "ひが",
@@ -28155,7 +28155,7 @@
   },
   {
     "id": "J10641",
-    "level": "J1",
+    "level": "J",
     "kanji": "碧",
     "question": "王さまが白い石を池に沈めると、底から{target}い光が広がった。",
     "targetText": "あお",
@@ -28179,7 +28179,7 @@
   },
   {
     "id": "J10642",
-    "level": "J1",
+    "level": "J",
     "kanji": "瞥",
     "question": "ぼろ布を手で払う音に、猫は目だけで一{target}して去った。",
     "targetText": "べつ",
@@ -28202,7 +28202,7 @@
   },
   {
     "id": "J10643",
-    "level": "J1",
+    "level": "J",
     "kanji": "箆",
     "question": "竹のざるを比べていた祖母は、味噌を木の{target}でならした。",
     "targetText": "へら",
@@ -28247,7 +28247,7 @@
   },
   {
     "id": "J10644",
-    "level": "J1",
+    "level": "J",
     "kanji": "篇",
     "question": "竹のしおりを戸口の冊子にはさみ、物語の第一{target}を読み終えた。",
     "targetText": "へん",
@@ -28327,7 +28327,7 @@
   },
   {
     "id": "J10645",
-    "level": "J1",
+    "level": "J",
     "kanji": "娩",
     "question": "痛みを少しでも免れたいと、女は静かに分{target}の時を待った。",
     "targetText": "べん",
@@ -28349,7 +28349,7 @@
   },
   {
     "id": "J10646",
-    "level": "J1",
+    "level": "J",
     "kanji": "鞭",
     "question": "革の手綱を握る旅人は、便りない馬にも{target}を入れず丘を越えた。",
     "targetText": "むち",
@@ -28383,7 +28383,7 @@
   },
   {
     "id": "J10647",
-    "level": "J1",
+    "level": "J",
     "kanji": "鋪",
     "question": "金物屋のてん{target}で、甫さんが古い鐘を磨いていた。",
     "targetText": "ぽ",
@@ -28394,7 +28394,7 @@
   },
   {
     "id": "X0051",
-    "level": "J1",
+    "level": "J",
     "kanji": "圃",
     "question": "囲いの中の{target}で、初めて植えた苗が朝日に伸びた。",
     "targetText": "はたけ",
@@ -28427,7 +28427,7 @@
   },
   {
     "id": "J10648",
-    "level": "J1",
+    "level": "J",
     "kanji": "甫",
     "question": "用水路のほとりで、はじめて{target}という名の少年に会った。",
     "targetText": "ほ",
@@ -28449,7 +28449,7 @@
   },
   {
     "id": "J10649",
-    "level": "J1",
+    "level": "J",
     "kanji": "輔",
     "question": "車がぬかるむと、通りかかった甫さんが旅人を{target}けた。",
     "targetText": "たす",
@@ -28510,7 +28510,7 @@
   },
   {
     "id": "J10650",
-    "level": "J1",
+    "level": "J",
     "kanji": "戊",
     "question": "土の兄が戈を持つ夢を見た年を、祖父は{target}と呼んだ。",
     "targetText": "つちのえ",
@@ -28557,7 +28557,7 @@
   },
   {
     "id": "J10651",
-    "level": "J1",
+    "level": "J",
     "kanji": "菩",
     "question": "草の寺で、立った僧が口にした祈りは{target}さつへのものだった。",
     "targetText": "ぼ",
@@ -28603,7 +28603,7 @@
   },
   {
     "id": "J10652",
-    "level": "J1",
+    "level": "J",
     "kanji": "呆",
     "question": "口を開けたまま木の上の猫を見て、少年は{target}れた。",
     "targetText": "あき",
@@ -28661,7 +28661,7 @@
   },
   {
     "id": "J10653",
-    "level": "J1",
+    "level": "J",
     "kanji": "峯",
     "question": "冬の山で豊かな雲が重なり、白い{target}が朝日に光った。",
     "targetText": "みね",
@@ -28685,7 +28685,7 @@
   },
   {
     "id": "J10654",
-    "level": "J1",
+    "level": "J",
     "kanji": "庖",
     "question": "広い屋根の下で肉を包む料理人は、王の{target}ちょうだった。",
     "targetText": "ほう",
@@ -28707,7 +28707,7 @@
   },
   {
     "id": "J10655",
-    "level": "J1",
+    "level": "J",
     "kanji": "捧",
     "question": "両手で奉るように、少女は花束を神前に{target}げた。",
     "targetText": "ささ",
@@ -28740,7 +28740,7 @@
   },
   {
     "id": "J10656",
-    "level": "J1",
+    "level": "J",
     "kanji": "朋",
     "question": "月明かりが二つの影を並べ、旅の{target}は笑って歩いた。",
     "targetText": "とも",
@@ -28773,7 +28773,7 @@
   },
   {
     "id": "J10657",
-    "level": "J1",
+    "level": "J",
     "kanji": "烹",
     "question": "高い鍋の火で魚をゆっくり{target}て、夕げの香りが広がった。",
     "targetText": "に",
@@ -28828,7 +28828,7 @@
   },
   {
     "id": "J10658",
-    "level": "J1",
+    "level": "J",
     "kanji": "萌",
     "question": "明るい日のあと月夜に雨が上がり、庭の草が{target}えた。",
     "targetText": "も",
@@ -28839,7 +28839,7 @@
   },
   {
     "id": "J10659",
-    "level": "J1",
+    "level": "J",
     "kanji": "蓬",
     "question": "草の道で母に逢い、香りの強い{target}を摘んだ。",
     "targetText": "よもぎ",
@@ -28905,7 +28905,7 @@
   },
   {
     "id": "J10660",
-    "level": "J1",
+    "level": "J",
     "kanji": "鋒",
     "question": "金色の朝、冬草を分ける槍の{target}が光った。",
     "targetText": "ほこさき",
@@ -28919,8 +28919,8 @@
     "id": "1964",
     "level": "K1",
     "kanji": "飽",
-    "question": "夕食の包みを開けても、もう{target}ほど食べていた。",
-    "targetText": "あきる",
+    "question": "夕食の包みを開けても、もう{target}きるほど食べていた。",
+    "targetText": "あ",
     "parts": [
       "食",
       "包"
@@ -28928,7 +28928,7 @@
   },
   {
     "id": "J10661",
-    "level": "J1",
+    "level": "J",
     "kanji": "鳳",
     "question": "平凡な鳥たちの上を、朝日に向かって{target}が舞った。",
     "targetText": "おおとり",
@@ -28939,7 +28939,7 @@
   },
   {
     "id": "J10662",
-    "level": "J1",
+    "level": "J",
     "kanji": "鵬",
     "question": "月が二つ並ぶような夜、鳥たちは巨大な{target}の影を見上げた。",
     "targetText": "おおとり",
@@ -29189,7 +29189,7 @@
   },
   {
     "id": "J10663",
-    "level": "J1",
+    "level": "J",
     "kanji": "鉾",
     "question": "金色の穂先を光らせ、古い{target}が門の前に立っていた。",
     "targetText": "ほこ",
@@ -29211,7 +29211,7 @@
   },
   {
     "id": "J10664",
-    "level": "J1",
+    "level": "J",
     "kanji": "吠",
     "question": "犬が口を大きく開けて、夜空に{target}える。",
     "targetText": "ほ",
@@ -29256,7 +29256,7 @@
   },
   {
     "id": "J10665",
-    "level": "J1",
+    "level": "J",
     "kanji": "卜",
     "question": "小さな点が枝に落ち、村人は{target}で明日の雨を知った。",
     "targetText": "うらない",
@@ -29325,7 +29325,7 @@
   },
   {
     "id": "J10666",
-    "level": "J1",
+    "level": "J",
     "kanji": "穆",
     "question": "白い稲穂が風に揺れ、村の空気が{target}ぐ。",
     "targetText": "やわら",
@@ -29338,7 +29338,7 @@
   },
   {
     "id": "J10667",
-    "level": "J1",
+    "level": "J",
     "kanji": "釦",
     "question": "金色の口みたいに丸い{target}を、上着に留めた。",
     "targetText": "ぼたん",
@@ -29373,7 +29373,7 @@
   },
   {
     "id": "J10668",
-    "level": "J1",
+    "level": "J",
     "kanji": "殆",
     "question": "台風のあと、古い木は死んだように傾き、{target}ど倒れていた。",
     "targetText": "ほとん",
@@ -29395,7 +29395,7 @@
   },
   {
     "id": "X0013",
-    "level": "J1",
+    "level": "J",
     "kanji": "幌",
     "question": "日差しの光をやわらげる布の{target}が、馬車の上で揺れた。",
     "targetText": "ほろ",
@@ -29562,7 +29562,7 @@
   },
   {
     "id": "J10669",
-    "level": "J1",
+    "level": "J",
     "kanji": "哩",
     "question": "口笛を吹きながら里を出て、一{target}先の港へ歩いた。",
     "targetText": "まいる",
@@ -29573,7 +29573,7 @@
   },
   {
     "id": "J10670",
-    "level": "J1",
+    "level": "J",
     "kanji": "槙",
     "question": "真夏の庭で、木陰を作る{target}に水をやった。",
     "targetText": "まき",
@@ -29621,7 +29621,7 @@
   },
   {
     "id": "J10671",
-    "level": "J1",
+    "level": "J",
     "kanji": "鮪",
     "question": "市場で有名な魚屋が、大きな{target}をさばいた。",
     "targetText": "まぐろ",
@@ -29632,7 +29632,7 @@
   },
   {
     "id": "J10672",
-    "level": "J1",
+    "level": "J",
     "kanji": "柾",
     "question": "正月の庭で、木の葉をつけた{target}が青く立っていた。",
     "targetText": "まさき",
@@ -29643,7 +29643,7 @@
   },
   {
     "id": "J10673",
-    "level": "J1",
+    "level": "J",
     "kanji": "鱒",
     "question": "川の魚を尊ぶ村で、春の{target}をそっと放した。",
     "targetText": "ます",
@@ -29654,7 +29654,7 @@
   },
   {
     "id": "J10674",
-    "level": "J1",
+    "level": "J",
     "kanji": "桝",
     "question": "夕方、木の箱で米を量り、祖母は{target}を棚に戻した。",
     "targetText": "ます",
@@ -29665,7 +29665,7 @@
   },
   {
     "id": "J10675",
-    "level": "J1",
+    "level": "J",
     "kanji": "亦",
     "question": "八つの灯がともる町へ、明日も{target}戻ろう。",
     "targetText": "また",
@@ -29677,7 +29677,7 @@
   },
   {
     "id": "X0048",
-    "level": "J1",
+    "level": "J",
     "kanji": "俣",
     "question": "天気のよい日、人々は口々に笑いながら川の{target}へ向かった。",
     "targetText": "また",
@@ -29722,7 +29722,7 @@
   },
   {
     "id": "J10676",
-    "level": "J1",
+    "level": "J",
     "kanji": "沫",
     "question": "水しぶきの末に、小さな{target}が光った。",
     "targetText": "あわ",
@@ -29733,7 +29733,7 @@
   },
   {
     "id": "J10677",
-    "level": "J1",
+    "level": "J",
     "kanji": "迄",
     "question": "旅人は道を進み、雨乞いの村{target}歩いた。",
     "targetText": "まで",
@@ -29744,7 +29744,7 @@
   },
   {
     "id": "J10678",
-    "level": "J1",
+    "level": "J",
     "kanji": "侭",
     "question": "力を尽くしたあと、人はありの{target}の笑顔を見せた。",
     "targetText": "まま",
@@ -29767,7 +29767,7 @@
   },
   {
     "id": "J10679",
-    "level": "J1",
+    "level": "J",
     "kanji": "麿",
     "question": "麻の衣を着た呂律のよい貴族が、{target}と名乗った。",
     "targetText": "まろ",
@@ -29826,7 +29826,7 @@
   },
   {
     "id": "J10680",
-    "level": "J1",
+    "level": "J",
     "kanji": "蔓",
     "question": "草むらで日を浴び、長い{target}がまた石垣へ伸びた。",
     "targetText": "つる",
@@ -29871,7 +29871,7 @@
   },
   {
     "id": "J10681",
-    "level": "J1",
+    "level": "J",
     "kanji": "巳",
     "question": "暦の{target}の刻、蛇がコの字の路地でしっぽを丸めた。",
     "targetText": "み",
@@ -29882,7 +29882,7 @@
   },
   {
     "id": "J10682",
-    "level": "J1",
+    "level": "J",
     "kanji": "箕",
     "question": "竹やぶの下、その{target}で穀物をふわりとあおった。",
     "targetText": "み",
@@ -29928,7 +29928,7 @@
   },
   {
     "id": "J10683",
-    "level": "J1",
+    "level": "J",
     "kanji": "湊",
     "question": "水辺で笛を奏でる船頭を待つ{target}に着いた。",
     "targetText": "みなと",
@@ -29939,7 +29939,7 @@
   },
   {
     "id": "J10684",
-    "level": "J1",
+    "level": "J",
     "kanji": "蓑",
     "question": "草の匂いがする古い{target}を着て、雨に衰えた足で田へ出た。",
     "targetText": "みの",
@@ -29950,7 +29950,7 @@
   },
   {
     "id": "J10685",
-    "level": "J1",
+    "level": "J",
     "kanji": "稔",
     "question": "稲の香る田で、母が念じるほど豊かに{target}る。",
     "targetText": "みの",
@@ -29983,7 +29983,7 @@
   },
   {
     "id": "J10686",
-    "level": "J1",
+    "level": "J",
     "kanji": "粍",
     "question": "米粒の上の細い毛は、ものさしで一{target}しかなかった。",
     "targetText": "みり",
@@ -30052,7 +30052,7 @@
   },
   {
     "id": "J10687",
-    "level": "J1",
+    "level": "J",
     "kanji": "牟",
     "question": "私の牛が、夕方の小屋で{target}うと低く鳴いた。",
     "targetText": "む",
@@ -30085,7 +30085,7 @@
   },
   {
     "id": "J10688",
-    "level": "J1",
+    "level": "J",
     "kanji": "鵡",
     "question": "武士の肩で、色鮮やかな鳥のおう{target}があいさつをまねた。",
     "targetText": "む",
@@ -30096,7 +30096,7 @@
   },
   {
     "id": "J10689",
-    "level": "J1",
+    "level": "J",
     "kanji": "椋",
     "question": "京の町はずれの木に、{target}どりの群れが帰ってきた。",
     "targetText": "むく",
@@ -30219,7 +30219,7 @@
   },
   {
     "id": "J10690",
-    "level": "J1",
+    "level": "J",
     "kanji": "姪",
     "question": "女の子が玄関に至る坂を駆け、私の{target}が遊びに来た。",
     "targetText": "めい",
@@ -30230,7 +30230,7 @@
   },
   {
     "id": "J10691",
-    "level": "J1",
+    "level": "J",
     "kanji": "牝",
     "question": "牛舎のすみで、さじに似た角をした{target}牛が草を食べた。",
     "targetText": "めす",
@@ -30265,7 +30265,7 @@
   },
   {
     "id": "J10692",
-    "level": "J1",
+    "level": "J",
     "kanji": "棉",
     "question": "木の枝に、白い布のような{target}がふわりと開いた。",
     "targetText": "わた",
@@ -30289,7 +30289,7 @@
   },
   {
     "id": "J10693",
-    "level": "J1",
+    "level": "J",
     "kanji": "緬",
     "question": "糸のように長い毛を揺らし、面長の{target}ようが草原を歩く。",
     "targetText": "めん",
@@ -30324,7 +30324,7 @@
   },
   {
     "id": "J10694",
-    "level": "J1",
+    "level": "J",
     "kanji": "摸",
     "question": "草原の夕日が大きく沈むころ、画家は手で古い壁画を{target}した。",
     "targetText": "も",
@@ -30372,7 +30372,7 @@
   },
   {
     "id": "J10695",
-    "level": "J1",
+    "level": "J",
     "kanji": "孟",
     "question": "皿を片づけた子どもたちが、古い本の{target}しの話に耳を傾けた。",
     "targetText": "もう",
@@ -30441,7 +30441,7 @@
   },
   {
     "id": "X0092",
-    "level": "J1",
+    "level": "J",
     "kanji": "蒙",
     "question": "草深い小屋で大雨を{target}る豚を、屋根の下へ入れた。",
     "targetText": "こうむ",
@@ -30453,7 +30453,7 @@
   },
   {
     "id": "J10696",
-    "level": "J1",
+    "level": "J",
     "kanji": "儲",
     "question": "商人は人の言葉に耳をすませ、店の{target}を少し増やした。",
     "targetText": "もうけ",
@@ -30498,7 +30498,7 @@
   },
   {
     "id": "J10697",
-    "level": "J1",
+    "level": "J",
     "kanji": "杢",
     "question": "木の工房で、職人は美しい{target}をなでた。",
     "targetText": "もく",
@@ -30509,7 +30509,7 @@
   },
   {
     "id": "J10698",
-    "level": "J1",
+    "level": "J",
     "kanji": "勿",
     "question": "夕暮れの包みをほどく前に、祖父は「急ぐ{target}」と笑った。",
     "targetText": "なかれ",
@@ -30531,7 +30531,7 @@
   },
   {
     "id": "J10699",
-    "level": "J1",
+    "level": "J",
     "kanji": "尤",
     "question": "{target}な意見だと、先生は大きくうなずき、点を一つ打った。",
     "targetText": "もっとも",
@@ -30553,7 +30553,7 @@
   },
   {
     "id": "J10700",
-    "level": "J1",
+    "level": "J",
     "kanji": "籾",
     "question": "米蔵で小さな刃を研ぎ、父は{target}を袋に入れた。",
     "targetText": "もみ",
@@ -30564,7 +30564,7 @@
   },
   {
     "id": "J10701",
-    "level": "J1",
+    "level": "J",
     "kanji": "貰",
     "question": "世話になった人から、小さな貝を{target}う約束をした。",
     "targetText": "もら",
@@ -30586,7 +30586,7 @@
   },
   {
     "id": "J10702",
-    "level": "J1",
+    "level": "J",
     "kanji": "悶",
     "question": "{target}えるほど心が乱れ、門の外で夜明けを待った。",
     "targetText": "もだ",
@@ -30619,7 +30619,7 @@
   },
   {
     "id": "J10703",
-    "level": "J1",
+    "level": "J",
     "kanji": "匁",
     "question": "包みのそばのメモに、一{target}の砂糖と店主が記した。",
     "targetText": "もんめ",
@@ -30630,7 +30630,7 @@
   },
   {
     "id": "J10704",
-    "level": "J1",
+    "level": "J",
     "kanji": "也",
     "question": "乙な笛の音に合わせ、旅人はわれこそ山の主{target}と名乗った。",
     "targetText": "なり",
@@ -30664,7 +30664,7 @@
   },
   {
     "id": "J10705",
-    "level": "J1",
+    "level": "J",
     "kanji": "爺",
     "question": "父の父である{target}は、耳の遠いふりをして囲炉裏で笑った。",
     "targetText": "じい",
@@ -30676,7 +30676,7 @@
   },
   {
     "id": "J10706",
-    "level": "J1",
+    "level": "J",
     "kanji": "耶",
     "question": "耳もとの声が、あれは本当{target}と村の坂へ消えた。",
     "targetText": "か",
@@ -30787,7 +30787,7 @@
   },
   {
     "id": "J10707",
-    "level": "J1",
+    "level": "J",
     "kanji": "靖",
     "question": "{target}は、立ちのぼる青い旗の下で町の平和を願った。",
     "targetText": "やすし",
@@ -30809,7 +30809,7 @@
   },
   {
     "id": "J10708",
-    "level": "J1",
+    "level": "J",
     "kanji": "薮",
     "question": "草の奥で数えきれない虫が鳴く{target}へ、子ぎつねが入っていった。",
     "targetText": "やぶ",
@@ -30820,7 +30820,7 @@
   },
   {
     "id": "J10709",
-    "level": "J1",
+    "level": "J",
     "kanji": "鑓",
     "question": "金色のよろいを着た使者が、古い{target}を手に坂を上った。",
     "targetText": "やり",
@@ -30843,7 +30843,7 @@
   },
   {
     "id": "J10710",
-    "level": "J1",
+    "level": "J",
     "kanji": "愈",
     "question": "月明かりの下で心が決まり、人は{target}遠い港へ歩き出した。",
     "targetText": "いよいよ",
@@ -30912,7 +30912,7 @@
   },
   {
     "id": "J10711",
-    "level": "J1",
+    "level": "J",
     "kanji": "佑",
     "question": "右手を差し出した人が、転んだ子を{target}けた。",
     "targetText": "たす",
@@ -30959,7 +30959,7 @@
   },
   {
     "id": "J10712",
-    "level": "J1",
+    "level": "J",
     "kanji": "宥",
     "question": "家の中で有り余る怒りを、母が静かな声で{target}めた。",
     "targetText": "なだ",
@@ -31005,7 +31005,7 @@
   },
   {
     "id": "J10713",
-    "level": "J1",
+    "level": "J",
     "kanji": "揖",
     "question": "手を胸に当て、口を閉じて耳を澄まし、客へ深い{target}を返した。",
     "targetText": "ゆう",
@@ -31028,7 +31028,7 @@
   },
   {
     "id": "J10714",
-    "level": "J1",
+    "level": "J",
     "kanji": "柚",
     "question": "木の下で、由美が香りのよい{target}をかごに入れた。",
     "targetText": "ゆず",
@@ -31051,7 +31051,7 @@
   },
   {
     "id": "J10715",
-    "level": "J1",
+    "level": "J",
     "kanji": "涌",
     "question": "水が地面から{target}くと、通り道に小さな池ができた。",
     "targetText": "わ",
@@ -31073,7 +31073,7 @@
   },
   {
     "id": "J10716",
-    "level": "J1",
+    "level": "J",
     "kanji": "猷",
     "question": "酋長の犬だけが、夜の会議で練られた{target}を知っていた。",
     "targetText": "はかりごと",
@@ -31095,7 +31095,7 @@
   },
   {
     "id": "J10717",
-    "level": "J1",
+    "level": "J",
     "kanji": "祐",
     "question": "右の社で祈ると、旅人を{target}ける光が差した。",
     "targetText": "たす",
@@ -31140,7 +31140,7 @@
   },
   {
     "id": "X0043",
-    "level": "J1",
+    "level": "J",
     "kanji": "邑",
     "question": "渦巻く川のそばの{target}で、人々が口々に祭りを語った。",
     "targetText": "むら",
@@ -31241,7 +31241,7 @@
   },
   {
     "id": "J10718",
-    "level": "J1",
+    "level": "J",
     "kanji": "輿",
     "question": "車よりゆっくり、人々が手でかつぐ{target}が祭りの道を進んだ。",
     "targetText": "こし",
@@ -31263,7 +31263,7 @@
   },
   {
     "id": "J10719",
-    "level": "J1",
+    "level": "J",
     "kanji": "傭",
     "question": "店の人手が足りず、平凡だがまじめな若者を{target}うことにした。",
     "targetText": "やと",
@@ -31366,7 +31366,7 @@
   },
   {
     "id": "J10720",
-    "level": "J1",
+    "level": "J",
     "kanji": "楊",
     "question": "木のそばで日差しが長く伸び、風に{target}の枝が揺れた。",
     "targetText": "やなぎ",
@@ -31413,7 +31413,7 @@
   },
   {
     "id": "J10721",
-    "level": "J1",
+    "level": "J",
     "kanji": "熔",
     "question": "谷から運んだ鉱石が、火のそばの容器で赤く{target}けた。",
     "targetText": "と",
@@ -31459,7 +31459,7 @@
   },
   {
     "id": "J10722",
-    "level": "J1",
+    "level": "J",
     "kanji": "耀",
     "question": "羽を広げた鳥が光を浴び、朝空で{target}いた。",
     "targetText": "かがや",
@@ -31483,7 +31483,7 @@
   },
   {
     "id": "J10723",
-    "level": "J1",
+    "level": "J",
     "kanji": "蓉",
     "question": "草の庭で、丸い容器の水に芙{target}が映った。",
     "targetText": "よう",
@@ -31528,7 +31528,7 @@
   },
   {
     "id": "J10724",
-    "level": "J1",
+    "level": "J",
     "kanji": "遥",
     "question": "爪で缶を鳴らしながら、旅人は{target}かな道を歩いた。",
     "targetText": "はる",
@@ -31563,7 +31563,7 @@
   },
   {
     "id": "J10725",
-    "level": "J1",
+    "level": "J",
     "kanji": "慾",
     "question": "谷で水を欠かした旅人の心に、強い{target}がわいた。",
     "targetText": "よく",
@@ -31621,8 +31621,8 @@
     "id": "1018",
     "level": "S6",
     "kanji": "翌",
-    "question": "羽を休めた鳥は、立ちのぼる日を待ち、{target}朝また飛んだ。",
-    "targetText": "あくる",
+    "question": "羽を休めた鳥は、立ちのぼる日を待ち、{target}る朝また飛んだ。",
+    "targetText": "あく",
     "parts": [
       "羽",
       "立"
@@ -31642,7 +31642,7 @@
   },
   {
     "id": "J10726",
-    "level": "J1",
+    "level": "J",
     "kanji": "淀",
     "question": "水の流れが定まらず、岸辺で{target}んだ。",
     "targetText": "よど",
@@ -31665,7 +31665,7 @@
   },
   {
     "id": "J10727",
-    "level": "J1",
+    "level": "J",
     "kanji": "螺",
     "question": "虫めがねで貝をのぞくと、田の畔に糸を巻いたような{target}旋が見えた。",
     "targetText": "ら",
@@ -31699,7 +31699,7 @@
   },
   {
     "id": "J10728",
-    "level": "J1",
+    "level": "J",
     "kanji": "莱",
     "question": "草の香る島へ来た旅人は、蓬{target}の夢を語った。",
     "targetText": "らい",
@@ -31732,7 +31732,7 @@
   },
   {
     "id": "J10729",
-    "level": "J1",
+    "level": "J",
     "kanji": "洛",
     "question": "水辺の都へ各地の商人が集まり、上{target}の旅が始まった。",
     "targetText": "らく",
@@ -31844,7 +31844,7 @@
   },
   {
     "id": "J10730",
-    "level": "J1",
+    "level": "J",
     "kanji": "蘭",
     "question": "草の香りが門をくぐり、東の庭で{target}が咲いた。",
     "targetText": "らん",
@@ -31902,7 +31902,7 @@
   },
   {
     "id": "J10731",
-    "level": "J1",
+    "level": "J",
     "kanji": "李",
     "question": "木陰で子どもが、甘酸っぱい{target}をかじった。",
     "targetText": "すもも",
@@ -31968,7 +31968,7 @@
   },
   {
     "id": "J10732",
-    "level": "J1",
+    "level": "J",
     "kanji": "裡",
     "question": "衣をまとった旅人は、里を恋う胸の{target}でそっと祈った。",
     "targetText": "うち",
@@ -32047,7 +32047,7 @@
   },
   {
     "id": "J10733",
-    "level": "J1",
+    "level": "J",
     "kanji": "葎",
     "question": "草むらの小道に筆のような茎が絡み、{target}が広がった。",
     "targetText": "むぐら",
@@ -32059,7 +32059,7 @@
   },
   {
     "id": "J10734",
-    "level": "J1",
+    "level": "J",
     "kanji": "掠",
     "question": "京の町角で、冷たい風が手を{target}めていった。",
     "targetText": "かす",
@@ -32081,7 +32081,7 @@
   },
   {
     "id": "J10735",
-    "level": "J1",
+    "level": "J",
     "kanji": "劉",
     "question": "卯の刻、金の刀を腰に下げた{target}さんは門を出た。",
     "targetText": "りゅう",
@@ -32105,7 +32105,7 @@
   },
   {
     "id": "X0075",
-    "level": "J1",
+    "level": "J",
     "kanji": "溜",
     "question": "雨水が留守の庭に、静かに{target}る。",
     "targetText": "たま",
@@ -32116,7 +32116,7 @@
   },
   {
     "id": "X0080",
-    "level": "J1",
+    "level": "J",
     "kanji": "琉",
     "question": "王の玉座から流れる歌を聞き、船は{target}きゅうの島へ向かった。",
     "targetText": "りゅう",
@@ -32182,7 +32182,7 @@
   },
   {
     "id": "J10736",
-    "level": "J1",
+    "level": "J",
     "kanji": "龍",
     "question": "月夜に立つ雲の上で、{target}が長い尾を光らせた。",
     "targetText": "りゅう",
@@ -32252,7 +32252,7 @@
   },
   {
     "id": "J10737",
-    "level": "J1",
+    "level": "J",
     "kanji": "亮",
     "question": "高い屋根の下で口笛を吹く{target}さんは、明るい声で笑った。",
     "targetText": "りょう",
@@ -32288,7 +32288,7 @@
   },
   {
     "id": "J10738",
-    "level": "J1",
+    "level": "J",
     "kanji": "凌",
     "question": "氷の土手を足で越え、旅人は寒さを{target}いだ。",
     "targetText": "しの",
@@ -32324,7 +32324,7 @@
   },
   {
     "id": "X0003",
-    "level": "J1",
+    "level": "J",
     "kanji": "梁",
     "question": "川の水が引いた朝、刃物をしまい、木の{target}を小屋に渡した。",
     "targetText": "はり",
@@ -32384,7 +32384,7 @@
   },
   {
     "id": "J10739",
-    "level": "J1",
+    "level": "J",
     "kanji": "稜",
     "question": "稲の穂を越える山の{target}線に、土色の足跡が続いた。",
     "targetText": "りょう",
@@ -32420,7 +32420,7 @@
   },
   {
     "id": "J10740",
-    "level": "J1",
+    "level": "J",
     "kanji": "諒",
     "question": "京の友の言葉を聞いて、ようやく{target}解した。",
     "targetText": "りょう",
@@ -32431,7 +32431,7 @@
   },
   {
     "id": "J10741",
-    "level": "J1",
+    "level": "J",
     "kanji": "遼",
     "question": "道の向こうで、大きな日が小さく沈む{target}な草原を見た。",
     "targetText": "はるか",
@@ -32535,7 +32535,7 @@
   },
   {
     "id": "J10742",
-    "level": "J1",
+    "level": "J",
     "kanji": "淋",
     "question": "雨の水たまりのそば、林の奥で{target}しい笛が鳴った。",
     "targetText": "さび",
@@ -32546,7 +32546,7 @@
   },
   {
     "id": "J10743",
-    "level": "J1",
+    "level": "J",
     "kanji": "燐",
     "question": "火の粉が米粒のように夕闇へ散り、青い{target}光がゆれた。",
     "targetText": "りん",
@@ -32559,7 +32559,7 @@
   },
   {
     "id": "J10744",
-    "level": "J1",
+    "level": "J",
     "kanji": "琳",
     "question": "林のそばで、玉の首飾りをつけた{target}子が王さまに会った。",
     "targetText": "りん",
@@ -32606,7 +32606,7 @@
   },
   {
     "id": "J10745",
-    "level": "J1",
+    "level": "J",
     "kanji": "鱗",
     "question": "魚が夕日の水面で身をひねり、米粒みたいに光る{target}を見せた。",
     "targetText": "うろこ",
@@ -32619,7 +32619,7 @@
   },
   {
     "id": "J10746",
-    "level": "J1",
+    "level": "J",
     "kanji": "麟",
     "question": "鹿に似た麒{target}が、夕方の草地で米粒みたいな光を浴びていた。",
     "targetText": "りん",
@@ -32701,7 +32701,7 @@
   },
   {
     "id": "J10747",
-    "level": "J1",
+    "level": "J",
     "kanji": "伶",
     "question": "人々の前で、令の合図を聞いた{target}人が笛を静かに吹いた。",
     "targetText": "れい",
@@ -32746,7 +32746,7 @@
   },
   {
     "id": "X0056",
-    "level": "J1",
+    "level": "J",
     "kanji": "嶺",
     "question": "山に号令が響き、一頁の日記に白い{target}の雪を描いた。",
     "targetText": "みね",
@@ -32758,7 +32758,7 @@
   },
   {
     "id": "J10748",
-    "level": "J1",
+    "level": "J",
     "kanji": "怜",
     "question": "心やさしい{target}子は、令和の春に迷子の手を引いた。",
     "targetText": "れい",
@@ -32769,7 +32769,7 @@
   },
   {
     "id": "J10749",
-    "level": "J1",
+    "level": "J",
     "kanji": "玲",
     "question": "玉の鈴が、令和の朝に{target}ろうと澄んで鳴った。",
     "targetText": "れい",
@@ -32791,7 +32791,7 @@
   },
   {
     "id": "J10750",
-    "level": "J1",
+    "level": "J",
     "kanji": "苓",
     "question": "草の香る薬屋で、令和生まれの店主が茯{target}を包んだ。",
     "targetText": "りょう",
@@ -32959,7 +32959,7 @@
   },
   {
     "id": "J10751",
-    "level": "J1",
+    "level": "J",
     "kanji": "憐",
     "question": "夕方、米をこぼした子犬を見て、心から{target}れむ気持ちになった。",
     "targetText": "あわ",
@@ -32972,7 +32972,7 @@
   },
   {
     "id": "J10752",
-    "level": "J1",
+    "level": "J",
     "kanji": "漣",
     "question": "水辺の道を車が通るたび、湖に小さな{target}が広がった。",
     "targetText": "さざなみ",
@@ -32984,7 +32984,7 @@
   },
   {
     "id": "J10753",
-    "level": "J1",
+    "level": "J",
     "kanji": "煉",
     "question": "東の鍛冶屋が、火のそばで鉄をじっくり{target}った。",
     "targetText": "ね",
@@ -32995,7 +32995,7 @@
   },
   {
     "id": "J10754",
-    "level": "J1",
+    "level": "J",
     "kanji": "簾",
     "question": "竹の{target}越しに、店の軒で兼業の父が風鈴を聞いた。",
     "targetText": "すだれ",
@@ -33018,7 +33018,7 @@
   },
   {
     "id": "J10755",
-    "level": "J1",
+    "level": "J",
     "kanji": "聯",
     "question": "耳に当てた糸電話から、遠い友だちとの関{target}が始まった。",
     "targetText": "れん",
@@ -33030,7 +33030,7 @@
   },
   {
     "id": "J10756",
-    "level": "J1",
+    "level": "J",
     "kanji": "蓮",
     "question": "草の池で、車道の向こうから来た風に{target}の花が揺れた。",
     "targetText": "はす",
@@ -33075,7 +33075,7 @@
   },
   {
     "id": "J10757",
-    "level": "J1",
+    "level": "J",
     "kanji": "魯",
     "question": "魚市場の休みの日、先生が昔の{target}国の話をしてくれた。",
     "targetText": "ろ",
@@ -33086,7 +33086,7 @@
   },
   {
     "id": "J10758",
-    "level": "J1",
+    "level": "J",
     "kanji": "櫓",
     "question": "木の高台に登ると、魚市場の明かりと夕日が見える{target}だった。",
     "targetText": "やぐら",
@@ -33155,7 +33155,7 @@
   },
   {
     "id": "J10759",
-    "level": "J1",
+    "level": "J",
     "kanji": "婁",
     "question": "中庭で女の子が口ずさむ歌に、星の{target}宿の名が出てきた。",
     "targetText": "ろう",
@@ -33213,7 +33213,7 @@
   },
   {
     "id": "J10760",
-    "level": "J1",
+    "level": "J",
     "kanji": "榔",
     "question": "南の木陰で、太郎が良い香りの檳{target}をかごに入れた。",
     "targetText": "ろう",
@@ -33248,7 +33248,7 @@
   },
   {
     "id": "J10761",
-    "level": "J1",
+    "level": "J",
     "kanji": "牢",
     "question": "屋根の低い牛小屋の奥で、{target}の戸だけが夜にきしんだ。",
     "targetText": "ろう",
@@ -33259,7 +33259,7 @@
   },
   {
     "id": "J10762",
-    "level": "J1",
+    "level": "J",
     "kanji": "狼",
     "question": "犬に似た影が、良い月夜の山道で{target}の遠ぼえを響かせた。",
     "targetText": "おおかみ",
@@ -33270,7 +33270,7 @@
   },
   {
     "id": "J10763",
-    "level": "J1",
+    "level": "J",
     "kanji": "篭",
     "question": "竹やぶのそばで、竜の飾りを付けた{target}を祖母が編んだ。",
     "targetText": "かご",
@@ -33292,7 +33292,7 @@
   },
   {
     "id": "J10764",
-    "level": "J1",
+    "level": "J",
     "kanji": "聾",
     "question": "耳の不自由な子が通う{target}学校の門に、竜の絵が飾られていた。",
     "targetText": "ろう",
@@ -33303,7 +33303,7 @@
   },
   {
     "id": "J10765",
-    "level": "J1",
+    "level": "J",
     "kanji": "蝋",
     "question": "虫の声が小さくなる夜、用心して{target}そくの火を守った。",
     "targetText": "ろう",
@@ -33348,7 +33348,7 @@
   },
   {
     "id": "J10766",
-    "level": "J1",
+    "level": "J",
     "kanji": "禄",
     "question": "神社の井戸で水をくんだあと、家臣は少ない{target}を受け取った。",
     "targetText": "ろく",
@@ -33360,7 +33360,7 @@
   },
   {
     "id": "J10767",
-    "level": "J1",
+    "level": "J",
     "kanji": "肋",
     "question": "力仕事のあと、月明かりの下で胸の横の{target}がきしんだ。",
     "targetText": "あばら",
@@ -33394,7 +33394,7 @@
   },
   {
     "id": "J10768",
-    "level": "J1",
+    "level": "J",
     "kanji": "倭",
     "question": "旅人は、稲を刈る女たちの国を昔「{target}」と呼んだ。",
     "targetText": "わ",
@@ -33428,7 +33428,7 @@
   },
   {
     "id": "J10769",
-    "level": "J1",
+    "level": "J",
     "kanji": "歪",
     "question": "不思議な鏡には、正しい丸ではない小さな{target}が映った。",
     "targetText": "ゆがみ",
@@ -33484,7 +33484,7 @@
   },
   {
     "id": "J10770",
-    "level": "J1",
+    "level": "J",
     "kanji": "鷲",
     "question": "京の城で王が位に就く朝、鳥より鋭い目の{target}が空を舞った。",
     "targetText": "わし",
@@ -33495,7 +33495,7 @@
   },
   {
     "id": "J10771",
-    "level": "J1",
+    "level": "J",
     "kanji": "亙",
     "question": "二つの岸の間を、月明かりが静かに{target}る。",
     "targetText": "わた",
@@ -33506,7 +33506,7 @@
   },
   {
     "id": "J10772",
-    "level": "J1",
+    "level": "J",
     "kanji": "亘",
     "question": "二つの雲の間を、朝日がゆっくり{target}る。",
     "targetText": "わた",
@@ -33517,7 +33517,7 @@
   },
   {
     "id": "J10773",
-    "level": "J1",
+    "level": "J",
     "kanji": "鰐",
     "question": "魚が跳ねる川辺で、水面に映った口まで二つに見える{target}が現れた。",
     "targetText": "わに",
@@ -33528,7 +33528,7 @@
   },
   {
     "id": "J10774",
-    "level": "J1",
+    "level": "J",
     "kanji": "詫",
     "question": "宅配の遅れに、言葉を選んで母に{target}を入れた。",
     "targetText": "わび",
@@ -33539,7 +33539,7 @@
   },
   {
     "id": "J10775",
-    "level": "J1",
+    "level": "J",
     "kanji": "藁",
     "question": "草のにおいがする高い木のそばで、牛の寝床に{target}を敷いた。",
     "targetText": "わら",
@@ -33551,7 +33551,7 @@
   },
   {
     "id": "J10776",
-    "level": "J1",
+    "level": "J",
     "kanji": "蕨",
     "question": "草むらの崖で、逆さにした籠の欠け目を気にしながら春の{target}を摘んだ。",
     "targetText": "わらび",
@@ -33564,7 +33564,7 @@
   },
   {
     "id": "J10777",
-    "level": "J1",
+    "level": "J",
     "kanji": "椀",
     "question": "母宛ての手紙を読みながら、木の{target}に味噌汁をよそった。",
     "targetText": "わん",
@@ -33586,7 +33586,7 @@
   },
   {
     "id": "J10778",
-    "level": "J1",
+    "level": "J",
     "kanji": "碗",
     "question": "父宛ての手紙の横で、石のように硬い白い{target}に茶を注いだ。",
     "targetText": "わん",
@@ -33610,7 +33610,7 @@
   },
   {
     "id": "X0001",
-    "level": "J1",
+    "level": "J",
     "kanji": "涵",
     "question": "水辺の箱に雨水がたまり、布を{target}ほどになった。",
     "targetText": "ひたす",
@@ -33621,7 +33621,7 @@
   },
   {
     "id": "X0002",
-    "level": "J1",
+    "level": "J",
     "kanji": "靱",
     "question": "革の靴で走った少年は、刃のような痛みに足首の{target}たいを押さえた。",
     "targetText": "じん",
@@ -33632,7 +33632,7 @@
   },
   {
     "id": "X0007",
-    "level": "J1",
+    "level": "J",
     "kanji": "拵",
     "question": "手元に存分に残った木切れで、父は小さな棚を{target}た。",
     "targetText": "こしらえ",
@@ -33643,7 +33643,7 @@
   },
   {
     "id": "X0009",
-    "level": "J1",
+    "level": "J",
     "kanji": "攪",
     "question": "手で鍋を回すと、目を覚ました弟が{target}はんの音を聞いた。",
     "targetText": "かく",
@@ -33654,7 +33654,7 @@
   },
   {
     "id": "X0012",
-    "level": "J1",
+    "level": "J",
     "kanji": "驒",
     "question": "馬の群れの中で、単衣のような斑点をまとった{target}が走った。",
     "targetText": "まだらうま",
@@ -33665,7 +33665,7 @@
   },
   {
     "id": "X0014",
-    "level": "J1",
+    "level": "J",
     "kanji": "檜",
     "question": "木の香りが会堂に満ち、日暮れまで{target}の柱が光った。",
     "targetText": "ひのき",
@@ -33677,7 +33677,7 @@
   },
   {
     "id": "X0020",
-    "level": "J1",
+    "level": "J",
     "kanji": "渣",
     "question": "一日干した木の桶に、お茶の{target}と水の跡が残った。",
     "targetText": "かす",
@@ -33690,7 +33690,7 @@
   },
   {
     "id": "X0024",
-    "level": "J1",
+    "level": "J",
     "kanji": "鑽",
     "question": "金の工房で先輩が先のとがった貝に穴をあける{target}を回した。",
     "targetText": "きり",
@@ -33703,7 +33703,7 @@
   },
   {
     "id": "X0036",
-    "level": "J1",
+    "level": "J",
     "kanji": "條",
     "question": "人の声が消え、木の間から一{target}の光が差した。",
     "targetText": "すじ",
@@ -33715,7 +33715,7 @@
   },
   {
     "id": "X0046",
-    "level": "J1",
+    "level": "J",
     "kanji": "飫",
     "question": "祭りの食卓で、菓子を食べすぎて{target}きるほどだった。",
     "targetText": "あ",
@@ -33726,7 +33726,7 @@
   },
   {
     "id": "X0053",
-    "level": "J1",
+    "level": "J",
     "kanji": "埃",
     "question": "土間のすみで、矢のような朝の光に{target}が舞った。",
     "targetText": "ほこり",
@@ -33738,7 +33738,7 @@
   },
   {
     "id": "X0061",
-    "level": "J1",
+    "level": "J",
     "kanji": "暉",
     "question": "朝日を浴びて、軍の旗の先に{target}が広がった。",
     "targetText": "ひかり",
@@ -33749,7 +33749,7 @@
   },
   {
     "id": "X0069",
-    "level": "J1",
+    "level": "J",
     "kanji": "椪",
     "question": "木の箱に並んだ{target}かんは、冬の台所を甘くした。",
     "targetText": "ぽん",
@@ -33760,7 +33760,7 @@
   },
   {
     "id": "X0074",
-    "level": "J1",
+    "level": "J",
     "kanji": "淺",
     "question": "水たまりの底が見えるほど、川は{target}い。",
     "targetText": "あさ",
@@ -33771,7 +33771,7 @@
   },
   {
     "id": "X0076",
-    "level": "J1",
+    "level": "J",
     "kanji": "澤",
     "question": "水音のする草地で、{target}には幸せそうな鳥の目が映った。",
     "targetText": "さわ",
@@ -33783,7 +33783,7 @@
   },
   {
     "id": "X0078",
-    "level": "J1",
+    "level": "J",
     "kanji": "燧",
     "question": "火が欲しくて、旅人はついに{target}石を鳴らした。",
     "targetText": "ひうち",
@@ -33794,7 +33794,7 @@
   },
   {
     "id": "X0081",
-    "level": "J1",
+    "level": "J",
     "kanji": "疇",
     "question": "田のあぜで長寿の村人が、同じ{target}の種を分けてくれた。",
     "targetText": "たぐい",
@@ -33805,7 +33805,7 @@
   },
   {
     "id": "X0082",
-    "level": "J1",
+    "level": "J",
     "kanji": "瞑",
     "question": "目を閉じ、夕暮れの暗い部屋で静かに{target}想にふけった。",
     "targetText": "めい",
@@ -33816,7 +33816,7 @@
   },
   {
     "id": "X0089",
-    "level": "J1",
+    "level": "J",
     "kanji": "聘",
     "question": "耳をすませた使者が、遠国の先生を{target}する知らせを運んだ。",
     "targetText": "へい",
@@ -34168,6 +34168,1485 @@
     "parts": [
       "竹",
       "竜"
+    ]
+  },
+  {
+    "id": "㔾",
+    "level": "J",
+    "kanji": "㔾",
+    "question": "竹の節目で割った札を、関所の役人は{target}として月明かりで確かめた。",
+    "targetText": "わりふ",
+    "parts": [
+      "竹",
+      "節目",
+      "札"
+    ]
+  },
+  {
+    "id": "丂",
+    "level": "J",
+    "kanji": "丂",
+    "question": "少年はのどで曲がった息を一つ吐き、{target}と短く咳をした。",
+    "targetText": "こう",
+    "parts": [
+      "一",
+      "息",
+      "曲がる",
+      "咳"
+    ]
+  },
+  {
+    "id": "丨",
+    "level": "J",
+    "kanji": "丨",
+    "question": "夕日の校庭で、細い{target}の影がまっすぐ伸びた。",
+    "targetText": "たてぼう",
+    "parts": [
+      "縦",
+      "棒"
+    ]
+  },
+  {
+    "id": "丩",
+    "level": "J",
+    "kanji": "丩",
+    "question": "古い縄が、門の柱に絡むように{target}る。",
+    "targetText": "まつわ",
+    "parts": [
+      "縄",
+      "柱",
+      "絡む"
+    ]
+  },
+  {
+    "id": "丬",
+    "level": "J",
+    "kanji": "丬",
+    "question": "将棋の駒箱に、{target}の小札がそっと入っていた。",
+    "targetText": "しょう",
+    "parts": [
+      "将",
+      "爿"
+    ]
+  },
+  {
+    "id": "丰",
+    "level": "J",
+    "kanji": "丰",
+    "question": "村祭りでは、三本の稲穂を束ねた{target}の飾りが門に揺れた。",
+    "targetText": "ほう",
+    "parts": [
+      "三",
+      "十",
+      "稲穂"
+    ]
+  },
+  {
+    "id": "丶",
+    "level": "J",
+    "kanji": "丶",
+    "question": "白い皿のふちに、墨の{target}がひとつ落ちた。",
+    "targetText": "てん",
+    "parts": [
+      "点",
+      "しずく"
+    ]
+  },
+  {
+    "id": "丷",
+    "level": "J",
+    "kanji": "丷",
+    "question": "朝の門で、二つの角が上を向く{target}の飾りが光った。",
+    "targetText": "はち",
+    "parts": [
+      "八",
+      "上向き"
+    ]
+  },
+  {
+    "id": "丽",
+    "level": "J",
+    "kanji": "丽",
+    "question": "朝日に照らされ、二つの窓が{target}しく並んで光った。",
+    "targetText": "うるわ",
+    "parts": [
+      "一",
+      "二つの窓"
+    ]
+  },
+  {
+    "id": "丿",
+    "level": "J",
+    "kanji": "丿",
+    "question": "筆先が左へすっと流れ、紙に{target}の跡が残った。",
+    "targetText": "はらい",
+    "parts": [
+      "払い",
+      "左"
+    ]
+  },
+  {
+    "id": "乀",
+    "level": "J",
+    "kanji": "乀",
+    "question": "夕立のあと、軒先から細い{target}のように水がすっと落ちた。",
+    "targetText": "みぎはらい",
+    "parts": [
+      "右",
+      "払う",
+      "雨だれ"
+    ]
+  },
+  {
+    "id": "乂",
+    "level": "J",
+    "kanji": "乂",
+    "question": "二本の道が交わる土手で、祖父は伸びた草を{target}った。",
+    "targetText": "か",
+    "parts": [
+      "交わる",
+      "草を刈る"
+    ]
+  },
+  {
+    "id": "乇",
+    "level": "J",
+    "kanji": "乇",
+    "question": "旅人は七つの荷に斜めの札を付け、宿の主人に{target}した。",
+    "targetText": "たく",
+    "parts": [
+      "七",
+      "斜め",
+      "荷",
+      "札"
+    ]
+  },
+  {
+    "id": "乚",
+    "level": "J",
+    "kanji": "乚",
+    "question": "夕方の子猫は、棚のすみにそっと{target}れた。",
+    "targetText": "かく",
+    "parts": [
+      "隠れる",
+      "曲がる",
+      "すみ"
+    ]
+  },
+  {
+    "id": "亅",
+    "level": "J",
+    "kanji": "亅",
+    "question": "池のほとりで、釣り針に似た細い{target}が水面に揺れた。",
+    "targetText": "はねぼう",
+    "parts": [
+      "はね",
+      "棒",
+      "釣り針"
+    ]
+  },
+  {
+    "id": "于",
+    "level": "J",
+    "kanji": "于",
+    "question": "二本の横木を一本の柱が支える庵で、僧は{target}に小さな灯をともした。",
+    "targetText": "ここ",
+    "parts": [
+      "二本の横木",
+      "一本の柱",
+      "灯"
+    ]
+  },
+  {
+    "id": "亏",
+    "level": "J",
+    "kanji": "亏",
+    "question": "月が少し{target}けた夜、二すじの雲が曲がって空に並んだ。",
+    "targetText": "か",
+    "parts": [
+      "月",
+      "二すじの雲",
+      "曲がる"
+    ]
+  },
+  {
+    "id": "亠",
+    "level": "J",
+    "kanji": "亠",
+    "question": "夕飯の鍋で、丸いふたの取っ手を持ち、{target}を少しずらして湯気を逃がした。",
+    "targetText": "なべぶた",
+    "parts": [
+      "鍋",
+      "ふた",
+      "湯気"
+    ]
+  },
+  {
+    "id": "亢",
+    "level": "J",
+    "kanji": "亢",
+    "question": "机の前で大きな拍手を浴び、少年の胸は{target}った。",
+    "targetText": "たかぶ",
+    "parts": [
+      "なべぶた",
+      "几",
+      "高ぶる"
+    ]
+  },
+  {
+    "id": "亶",
+    "level": "J",
+    "kanji": "亶",
+    "question": "丸い窓から朝日が一筋差し、彼の{target}は静かな行いににじんだ。",
+    "targetText": "まこと",
+    "parts": [
+      "なべぶた",
+      "回",
+      "日",
+      "一"
+    ]
+  },
+  {
+    "id": "侖",
+    "level": "J",
+    "kanji": "侖",
+    "question": "人の集まりの中で、一冊の名簿を抱えた{target}が順番を呼んだ。",
+    "targetText": "りん",
+    "parts": [
+      "人",
+      "一",
+      "冊"
+    ]
+  },
+  {
+    "id": "僉",
+    "level": "J",
+    "kanji": "僉",
+    "question": "屋根の下で人々が口をそろえ、{target}で山道へ向かった。",
+    "targetText": "みな",
+    "parts": [
+      "人",
+      "口",
+      "人"
+    ]
+  },
+  {
+    "id": "儿",
+    "level": "J",
+    "kanji": "儿",
+    "question": "門の外へ、少年は{target}だけ先に踏み出した。",
+    "targetText": "ひとあし",
+    "parts": [
+      "人",
+      "足"
+    ]
+  },
+  {
+    "id": "兑",
+    "level": "J",
+    "kanji": "兑",
+    "question": "兄が口もとをゆるめ、弟と一緒に{target}ぶ声をあげた。",
+    "targetText": "よろこ",
+    "parts": [
+      "八",
+      "兄",
+      "口"
+    ]
+  },
+  {
+    "id": "兪",
+    "level": "J",
+    "kanji": "兪",
+    "question": "病の人が月明かりの下で、{target}っくり息を整えた。",
+    "targetText": "ゆ",
+    "parts": [
+      "人",
+      "月",
+      "刂"
+    ]
+  },
+  {
+    "id": "冂",
+    "level": "J",
+    "kanji": "冂",
+    "question": "野原の境で、{target}が広い門の前に立っていた。",
+    "targetText": "けい",
+    "parts": [
+      "門",
+      "囲い"
+    ]
+  },
+  {
+    "id": "冋",
+    "level": "J",
+    "kanji": "冋",
+    "question": "広い囲いの中で、{target}が口笛を吹くと声が響いた。",
+    "targetText": "けい",
+    "parts": [
+      "囲い",
+      "口"
+    ]
+  },
+  {
+    "id": "冎",
+    "level": "J",
+    "kanji": "冎",
+    "question": "暗い台所で、ほねが{target}らんと乾いた音を立てた。",
+    "targetText": "か",
+    "parts": [
+      "骨",
+      "肉なし"
+    ]
+  },
+  {
+    "id": "冖",
+    "level": "J",
+    "kanji": "冖",
+    "question": "大事な皿には布をかぶせる{target}だと母は言った。",
+    "targetText": "べき",
+    "parts": [
+      "布",
+      "覆い"
+    ]
+  },
+  {
+    "id": "冘",
+    "level": "J",
+    "kanji": "冘",
+    "question": "{target}う旅人が、灯の下で片足を止めた。",
+    "targetText": "ためら",
+    "parts": [
+      "覆い",
+      "人",
+      "ためらう"
+    ]
+  },
+  {
+    "id": "冢",
+    "level": "J",
+    "kanji": "冢",
+    "question": "草に覆われた丘の下で、古い{target}が静かに眠っていた。",
+    "targetText": "つか",
+    "parts": [
+      "覆い",
+      "豕",
+      "墓"
+    ]
+  },
+  {
+    "id": "几",
+    "level": "J",
+    "kanji": "几",
+    "question": "風の通る縁側で、小さな{target}に湯のみをのせた。",
+    "targetText": "つくえ",
+    "parts": [
+      "小机",
+      "風",
+      "足つき台"
+    ]
+  },
+  {
+    "id": "凵",
+    "level": "J",
+    "kanji": "凵",
+    "question": "花壇の隅で、雨を受ける{target}に水がたまった。",
+    "targetText": "うけばこ",
+    "parts": [
+      "受け箱",
+      "上に開く",
+      "入れ物"
+    ]
+  },
+  {
+    "id": "勹",
+    "level": "J",
+    "kanji": "勹",
+    "question": "紙で包んだ菓子の丸みが、{target}みたいに見えた。",
+    "targetText": "つつみがまえ",
+    "parts": [
+      "包む",
+      "丸み",
+      "勺"
+    ]
+  },
+  {
+    "id": "匆",
+    "level": "J",
+    "kanji": "匆",
+    "question": "包みかけの荷に斜めのひもを三本かけ、弟は朝から{target}しく走り回った。",
+    "targetText": "いそが",
+    "parts": [
+      "包み",
+      "斜めのひも",
+      "三本",
+      "走る"
+    ]
+  },
+  {
+    "id": "匕",
+    "level": "J",
+    "kanji": "匕",
+    "question": "色が化ける薬草を、小刀のように細い{target}ですくい、湯に落とした。",
+    "targetText": "さじ",
+    "parts": [
+      "化ける",
+      "薬草",
+      "小刀",
+      "すくう"
+    ]
+  },
+  {
+    "id": "匚",
+    "level": "J",
+    "kanji": "匚",
+    "question": "木の店先で、横に開いた{target}に古い道具を並べた。",
+    "targetText": "はこ",
+    "parts": [
+      "箱",
+      "横に開く",
+      "医"
+    ]
+  },
+  {
+    "id": "卂",
+    "level": "J",
+    "kanji": "卂",
+    "question": "十字路で曲がる風に乗り、鳥は雷の音から逃げて{target}く飛び去った。",
+    "targetText": "はや",
+    "parts": [
+      "十字路",
+      "曲がる風",
+      "鳥",
+      "雷"
+    ]
+  },
+  {
+    "id": "卩",
+    "level": "J",
+    "kanji": "卩",
+    "question": "関所で、旅人は半分の{target}を役人に見せた。",
+    "targetText": "わりふ",
+    "parts": [
+      "節",
+      "印",
+      "ひざまずく人"
+    ]
+  },
+  {
+    "id": "卬",
+    "level": "J",
+    "kanji": "卬",
+    "question": "少年は山頂で夜空を{target}ぎ、星に願った。",
+    "targetText": "あお",
+    "parts": [
+      "上を見る",
+      "人",
+      "卩"
+    ]
+  },
+  {
+    "id": "厂",
+    "level": "J",
+    "kanji": "厂",
+    "question": "雨宿りのがけ下で、祖父はそのひさしを{target}と呼んだ。",
+    "targetText": "がんだれ",
+    "parts": [
+      "がけ",
+      "垂れる",
+      "ひさし"
+    ]
+  },
+  {
+    "id": "厶",
+    "level": "J",
+    "kanji": "厶",
+    "question": "わたしだけの小さな三角の札を、弟は{target}と読んだ。",
+    "targetText": "む",
+    "parts": [
+      "わたし",
+      "小さな三角"
+    ]
+  },
+  {
+    "id": "厷",
+    "level": "J",
+    "kanji": "厷",
+    "question": "右手を大きく広げた青年に、長老は{target}という名を授けた。",
+    "targetText": "こう",
+    "parts": [
+      "ナ",
+      "む",
+      "広い"
+    ]
+  },
+  {
+    "id": "叚",
+    "level": "J",
+    "kanji": "叚",
+    "question": "祭りの門前で、口を開けた二段の小屋に、旅人が手荷物だけ持って一夜だけ{target}に泊まった。",
+    "targetText": "かり",
+    "parts": [
+      "口",
+      "二段",
+      "手荷物",
+      "一夜だけ"
+    ]
+  },
+  {
+    "id": "咼",
+    "level": "J",
+    "kanji": "咼",
+    "question": "ゆがんだ口を見た医者は、骨の模型を手に「{target}」とつぶやいた。",
+    "targetText": "か",
+    "parts": [
+      "口",
+      "骨",
+      "ゆがむ"
+    ]
+  },
+  {
+    "id": "啇",
+    "level": "J",
+    "kanji": "啇",
+    "question": "市の店先で、古い口上を聞いた旅人は「{target}」とうなずいた。",
+    "targetText": "てき",
+    "parts": [
+      "立",
+      "古",
+      "口",
+      "店"
+    ]
+  },
+  {
+    "id": "囗",
+    "level": "J",
+    "kanji": "囗",
+    "question": "四方を垣で囲まれた小さな国を見て、祖母は{target}と呼んだ。",
+    "targetText": "くにがまえ",
+    "parts": [
+      "囲い",
+      "国"
+    ]
+  },
+  {
+    "id": "囷",
+    "level": "J",
+    "kanji": "囷",
+    "question": "丸い囲いの中へ稲を運び、村人は古い{target}にしまった。",
+    "targetText": "くら",
+    "parts": [
+      "囲い",
+      "禾",
+      "稲"
+    ]
+  },
+  {
+    "id": "壴",
+    "level": "J",
+    "kanji": "壴",
+    "question": "祭りの台に豆を供え、太鼓のそばで神主が「{target}」と唱えた。",
+    "targetText": "しゅ",
+    "parts": [
+      "十",
+      "豆",
+      "太鼓"
+    ]
+  },
+  {
+    "id": "夂",
+    "level": "J",
+    "kanji": "夂",
+    "question": "雪の朝、下へ向かう足あとを見て、子どもは{target}と呼んだ。",
+    "targetText": "ふゆがしら",
+    "parts": [
+      "冬",
+      "下る足"
+    ]
+  },
+  {
+    "id": "夆",
+    "level": "J",
+    "kanji": "夆",
+    "question": "冬の坂で三本の枝を拾った子が、『{target}』と息をもらした。",
+    "targetText": "ほう",
+    "parts": [
+      "冬の足あと",
+      "三本の枝"
+    ]
+  },
+  {
+    "id": "夋",
+    "level": "J",
+    "kanji": "夋",
+    "question": "むすんだ袋を八人で抱えた帰り道、犬は{target}としょげた。",
+    "targetText": "しゅん",
+    "parts": [
+      "むすぶ",
+      "八",
+      "冬の足あと"
+    ]
+  },
+  {
+    "id": "复",
+    "level": "J",
+    "kanji": "复",
+    "question": "白い帽子をかぶり、夕日を背に犬の{target}が坂を戻った。",
+    "targetText": "ふく",
+    "parts": [
+      "ノ",
+      "日",
+      "冬の足あと"
+    ]
+  },
+  {
+    "id": "夬",
+    "level": "J",
+    "kanji": "夬",
+    "question": "弓を引く前、祖父は親指の{target}をそっと締めた。",
+    "targetText": "ゆがけ",
+    "parts": [
+      "弓",
+      "親指",
+      "かぎ"
+    ]
+  },
+  {
+    "id": "夭",
+    "level": "J",
+    "kanji": "夭",
+    "question": "春の野で、大きくのびる{target}い草が首をかしげた。",
+    "targetText": "わか",
+    "parts": [
+      "ノ",
+      "大",
+      "若い草"
+    ]
+  },
+  {
+    "id": "夸",
+    "level": "J",
+    "kanji": "夸",
+    "question": "大きな声で二度も、兄は自分の速さを{target}った。",
+    "targetText": "ほこ",
+    "parts": [
+      "大",
+      "二",
+      "曲がる息"
+    ]
+  },
+  {
+    "id": "夹",
+    "level": "J",
+    "kanji": "夹",
+    "question": "夫の両わきで小さな灯がゆれ、母は紙をそっと{target}む。",
+    "targetText": "はさ",
+    "parts": [
+      "夫",
+      "小さな灯",
+      "左右"
+    ]
+  },
+  {
+    "id": "夾",
+    "level": "J",
+    "kanji": "夾",
+    "question": "大きな門の内側で二人が並び、落ちた葉をそっと{target}む。",
+    "targetText": "はさ",
+    "parts": [
+      "大",
+      "人",
+      "人"
+    ]
+  },
+  {
+    "id": "奐",
+    "level": "J",
+    "kanji": "奐",
+    "question": "夕暮れの広場で大きな鐘が、{target}と高く響いた。",
+    "targetText": "かん",
+    "parts": [
+      "夕",
+      "大",
+      "両足"
+    ]
+  },
+  {
+    "id": "奠",
+    "level": "J",
+    "kanji": "奠",
+    "question": "酒つぼを大きな台にのせ、村の長が祭りの日を{target}める。",
+    "targetText": "さだ",
+    "parts": [
+      "酒",
+      "大",
+      "祭り"
+    ]
+  },
+  {
+    "id": "宀",
+    "level": "J",
+    "kanji": "宀",
+    "question": "小さな家の{target}の下で、子どもが雨宿りした。",
+    "targetText": "やね",
+    "parts": [
+      "家",
+      "屋根"
+    ]
+  },
+  {
+    "id": "它",
+    "level": "J",
+    "kanji": "它",
+    "question": "穴の奥で、{target}がしずかに身を丸めていた。",
+    "targetText": "へび",
+    "parts": [
+      "宀",
+      "匕",
+      "へび"
+    ]
+  },
+  {
+    "id": "尓",
+    "level": "J",
+    "kanji": "尓",
+    "question": "小さな光の前で、{target}はそっと目を細めた。",
+    "targetText": "きみ",
+    "parts": [
+      "ノ",
+      "小",
+      "光"
+    ]
+  },
+  {
+    "id": "尸",
+    "level": "J",
+    "kanji": "尸",
+    "question": "暗い小屋の戸口に、{target}が静かに横たわっていた。",
+    "targetText": "しかばね",
+    "parts": [
+      "戸",
+      "横たわる"
+    ]
+  },
+  {
+    "id": "尹",
+    "level": "J",
+    "kanji": "尹",
+    "question": "杖を手にした{target}が、庭で人々を案内した。",
+    "targetText": "つかさ",
+    "parts": [
+      "手",
+      "杖"
+    ]
+  },
+  {
+    "id": "屮",
+    "level": "J",
+    "kanji": "屮",
+    "question": "土の割れ目から、{target}が一本だけ顔を出した。",
+    "targetText": "め",
+    "parts": [
+      "草",
+      "芽"
+    ]
+  },
+  {
+    "id": "屰",
+    "level": "J",
+    "kanji": "屰",
+    "question": "大雨のあと、庭の桶が{target}に転がっていた。",
+    "targetText": "さかさま",
+    "parts": [
+      "逆",
+      "大"
+    ]
+  },
+  {
+    "id": "巫",
+    "level": "J",
+    "kanji": "巫",
+    "question": "工房の火のそばで、二人を見守る{target}が祈った。",
+    "targetText": "みこ",
+    "parts": [
+      "工",
+      "人",
+      "人"
+    ]
+  },
+  {
+    "id": "帚",
+    "level": "J",
+    "kanji": "帚",
+    "question": "布を巻いた柄を握り、{target}で土間をきれいにした。",
+    "targetText": "ほうき",
+    "parts": [
+      "ヨ",
+      "冖",
+      "巾"
+    ]
+  },
+  {
+    "id": "帛",
+    "level": "J",
+    "kanji": "帛",
+    "question": "白く光る{target}の布が、市場の風に揺れた。",
+    "targetText": "きぬ",
+    "parts": [
+      "白",
+      "巾"
+    ]
+  },
+  {
+    "id": "并",
+    "level": "J",
+    "kanji": "并",
+    "question": "二つの杯を{target}せて、家族で静かに乾杯した。",
+    "targetText": "あわ",
+    "parts": [
+      "二つ",
+      "そろえる"
+    ]
+  },
+  {
+    "id": "幺",
+    "level": "J",
+    "kanji": "幺",
+    "question": "細い糸の結び目ほど{target}さい光が、夜の庭でまたたいた。",
+    "targetText": "ちい",
+    "parts": [
+      "細い糸",
+      "小さい"
+    ]
+  },
+  {
+    "id": "广",
+    "level": "J",
+    "kanji": "广",
+    "question": "崖の下にある{target}で、旅人が雨の音を聞いた。",
+    "targetText": "いえ",
+    "parts": [
+      "崖",
+      "屋根"
+    ]
+  },
+  {
+    "id": "廴",
+    "level": "J",
+    "kanji": "廴",
+    "question": "町はずれの長い道を、{target}はゆっくり進んでいった。",
+    "targetText": "えんにょう",
+    "parts": [
+      "長い道",
+      "進む"
+    ]
+  },
+  {
+    "id": "廾",
+    "level": "J",
+    "kanji": "廾",
+    "question": "両手で祭りの皿を{target}げると、朝日が金色に当たった。",
+    "targetText": "ささ",
+    "parts": [
+      "両手",
+      "持ち上げる"
+    ]
+  },
+  {
+    "id": "开",
+    "level": "J",
+    "kanji": "开",
+    "question": "朝の門が{target}くと、井戸ばたまで光が差した。",
+    "targetText": "ひら",
+    "parts": [
+      "門",
+      "井",
+      "ひらく"
+    ]
+  },
+  {
+    "id": "弋",
+    "level": "J",
+    "kanji": "弋",
+    "question": "鳥をねらって、糸をつけた{target}が夕空へ放たれた。",
+    "targetText": "いぐるみ",
+    "parts": [
+      "くい",
+      "糸つきの矢"
+    ]
+  },
+  {
+    "id": "彑",
+    "level": "J",
+    "kanji": "彑",
+    "question": "横向きのぶたの鼻先みたいに、{target}が雪の上に残った。",
+    "targetText": "けいがしら",
+    "parts": [
+      "ぶた",
+      "横線"
+    ]
+  },
+  {
+    "id": "彗",
+    "level": "J",
+    "kanji": "彗",
+    "question": "雪の朝、竹の枝を束ねた{target}で門前を清めた。",
+    "targetText": "ほうき",
+    "parts": [
+      "竹の枝",
+      "手"
+    ]
+  },
+  {
+    "id": "彡",
+    "level": "J",
+    "kanji": "彡",
+    "question": "三すじの髪が風になびき、{target}が肩の上で光った。",
+    "targetText": "けかざり",
+    "parts": [
+      "三すじ",
+      "髪"
+    ]
+  },
+  {
+    "id": "彳",
+    "level": "J",
+    "kanji": "彳",
+    "question": "道の左がわで、行く人が少しだけ歩みを止めて{target}む。",
+    "targetText": "たたず",
+    "parts": [
+      "道",
+      "左がわ",
+      "行く人",
+      "少し歩く"
+    ]
+  },
+  {
+    "id": "戈",
+    "level": "J",
+    "kanji": "戈",
+    "question": "戦場の隅で、一本の柄に小さな刃と点の傷がついた古い{target}が鈍く光った。",
+    "targetText": "ほこ",
+    "parts": [
+      "武器",
+      "一本の柄",
+      "刃",
+      "点"
+    ]
+  },
+  {
+    "id": "戉",
+    "level": "J",
+    "kanji": "戉",
+    "question": "山仕事の小屋で、一本の柄に大きな刃をつけた重い{target}が立てかけてあった。",
+    "targetText": "まさかり",
+    "parts": [
+      "山仕事",
+      "一本の柄",
+      "大きな刃",
+      "重い武器"
+    ]
+  },
+  {
+    "id": "戌",
+    "level": "J",
+    "kanji": "戌",
+    "question": "神社の売り場で、一枚の絵馬に、ほこのような武器を持つ十二支の{target}が描かれていた。",
+    "targetText": "いぬ",
+    "parts": [
+      "十二支",
+      "一枚",
+      "ほこ",
+      "武器"
+    ]
+  },
+  {
+    "id": "戍",
+    "level": "J",
+    "kanji": "戍",
+    "question": "夜の門で、点る灯の下、ほこを持つ門番が町を{target}る。",
+    "targetText": "まも",
+    "parts": [
+      "門番",
+      "ほこ",
+      "点る灯",
+      "夜の門"
+    ]
+  },
+  {
+    "id": "戔",
+    "level": "J",
+    "kanji": "戔",
+    "question": "二本のほこが古い布をかすめ、小さな傷をいくつも残して{target}う。",
+    "targetText": "そこな",
+    "parts": [
+      "ほこ",
+      "ほこ",
+      "小さな傷",
+      "古い布"
+    ]
+  },
+  {
+    "id": "攵",
+    "level": "J",
+    "kanji": "攵",
+    "question": "文のそばで、斜めのノ、一本の枝、交わる足あとを連れた{target}が机をこつんとたたいた。",
+    "targetText": "のぶん",
+    "parts": [
+      "ノ",
+      "一本の枝",
+      "交わる足あと",
+      "たたく"
+    ]
+  },
+  {
+    "id": "敝",
+    "level": "J",
+    "kanji": "敝",
+    "question": "幅の広い布を手でこつこつたたくと、ぼろい端から{target}れる。",
+    "targetText": "やぶ",
+    "parts": [
+      "布",
+      "幅",
+      "たたく手",
+      "ぼろ"
+    ]
+  },
+  {
+    "id": "旡",
+    "level": "J",
+    "kanji": "旡",
+    "question": "一つの杯を前に、曲がった足の旅人が首を振り、もう水は{target}いと言った。",
+    "targetText": "な",
+    "parts": [
+      "なし",
+      "一つ",
+      "曲がった足",
+      "人"
+    ]
+  },
+  {
+    "id": "曷",
+    "level": "J",
+    "kanji": "曷",
+    "question": "日が沈む道ばたで、人は身をかがめ、「{target}ここまで来たのか」と問うた。",
+    "targetText": "なんぞ",
+    "parts": [
+      "日",
+      "人",
+      "かがむ",
+      "問い"
+    ]
+  },
+  {
+    "id": "朿",
+    "level": "J",
+    "kanji": "朿",
+    "question": "木の柵に小さな{target}が出て、指先がちくりと痛んだ。",
+    "targetText": "とげ",
+    "parts": [
+      "木",
+      "冂",
+      "とげ"
+    ]
+  },
+  {
+    "id": "柬",
+    "level": "J",
+    "kanji": "柬",
+    "question": "束ねた札の中から、父は良い種だけを{target}ぶ。",
+    "targetText": "えら",
+    "parts": [
+      "束",
+      "八",
+      "より分ける"
+    ]
+  },
+  {
+    "id": "歹",
+    "level": "J",
+    "kanji": "歹",
+    "question": "夕べの骨を見て、旅人は道中の運が{target}いと感じた。",
+    "targetText": "わる",
+    "parts": [
+      "夕",
+      "骨",
+      "よくない"
+    ]
+  },
+  {
+    "id": "殳",
+    "level": "J",
+    "kanji": "殳",
+    "question": "右手に持った短い{target}で、兵は門を強く打った。",
+    "targetText": "ほこ",
+    "parts": [
+      "又",
+      "武器",
+      "打つ"
+    ]
+  },
+  {
+    "id": "毋",
+    "level": "J",
+    "kanji": "毋",
+    "question": "門の前で番人は、旅人に「ここを越す{target}れ」と告げた。",
+    "targetText": "なか",
+    "parts": [
+      "母",
+      "禁止",
+      "止める"
+    ]
+  },
+  {
+    "id": "气",
+    "level": "J",
+    "kanji": "气",
+    "question": "寒い朝、湯気のような白い{target}が口から出て、空気の中で小さな雲になった。",
+    "targetText": "いき",
+    "parts": [
+      "湯気",
+      "空気",
+      "雲"
+    ]
+  },
+  {
+    "id": "灬",
+    "level": "J",
+    "kanji": "灬",
+    "question": "火鉢の底で、{target}は四つの赤い点のように並び、炭を静かに燃やした。",
+    "targetText": "れっか",
+    "parts": [
+      "火",
+      "四つの点",
+      "燃える"
+    ]
+  },
+  {
+    "id": "爻",
+    "level": "J",
+    "kanji": "爻",
+    "question": "二本の枝が何度も{target}わり、影が網のようになった。",
+    "targetText": "まじ",
+    "parts": [
+      "交差",
+      "×",
+      "重なる"
+    ]
+  },
+  {
+    "id": "甬",
+    "level": "J",
+    "kanji": "甬",
+    "question": "田の間をまっすぐ走る{target}を、子どもたちが歌いながら進んだ。",
+    "targetText": "みち",
+    "parts": [
+      "用",
+      "田",
+      "通り道"
+    ]
+  },
+  {
+    "id": "甹",
+    "level": "J",
+    "kanji": "甹",
+    "question": "田の畔で、若い騎士は仲間から{target}と呼ばれていた。",
+    "targetText": "へい",
+    "parts": [
+      "田",
+      "丂",
+      "勇ましい"
+    ]
+  },
+  {
+    "id": "疒",
+    "level": "J",
+    "kanji": "疒",
+    "question": "病の床で汗ばむ子の枕もとに、{target}の札が静かに揺れた。",
+    "targetText": "やまいだれ",
+    "parts": [
+      "病",
+      "床",
+      "点"
+    ]
+  },
+  {
+    "id": "癶",
+    "level": "J",
+    "kanji": "癶",
+    "question": "左右に開いた足あとをたどる登り坂で、{target}の小さな札が揺れた。",
+    "targetText": "はつがしら",
+    "parts": [
+      "発",
+      "登",
+      "左右の足"
+    ]
+  },
+  {
+    "id": "矣",
+    "level": "J",
+    "kanji": "矣",
+    "question": "ムの下に矢を抱えた旅人が、夕暮れに{target}とうなずいた。",
+    "targetText": "い",
+    "parts": [
+      "ム",
+      "矢"
+    ]
+  },
+  {
+    "id": "禸",
+    "level": "J",
+    "kanji": "禸",
+    "question": "獣の足あとが残るぬかるみに、{target}の小さな札が刺さっていた。",
+    "targetText": "ぐうのあし",
+    "parts": [
+      "獣",
+      "足あと",
+      "ム"
+    ]
+  },
+  {
+    "id": "禺",
+    "level": "J",
+    "kanji": "禺",
+    "question": "田のそばで尾の長い猿が跳ね、村の子は{target}と呼んだ。",
+    "targetText": "ぐう",
+    "parts": [
+      "田",
+      "尾",
+      "猿"
+    ]
+  },
+  {
+    "id": "离",
+    "level": "J",
+    "kanji": "离",
+    "question": "山かげの鳥が網を離れ、旅人は古い名の{target}を口にした。",
+    "targetText": "ち",
+    "parts": [
+      "山",
+      "凶",
+      "禸"
+    ]
+  },
+  {
+    "id": "罒",
+    "level": "J",
+    "kanji": "罒",
+    "question": "夕方の川で、{target}のような網が水面に広がり、魚の目だけがきらりと光った。",
+    "targetText": "あみがしら",
+    "parts": [
+      "網",
+      "目"
+    ]
+  },
+  {
+    "id": "耑",
+    "level": "J",
+    "kanji": "耑",
+    "question": "山の端にひげの長い客が立ち、門番へ{target}と短く名乗った。",
+    "targetText": "たん",
+    "parts": [
+      "山",
+      "而",
+      "端"
+    ]
+  },
+  {
+    "id": "耒",
+    "level": "J",
+    "kanji": "耒",
+    "question": "春の畑で古い鋤が土を返し、祖父は{target}と呼びながら笑った。",
+    "targetText": "らいすき",
+    "parts": [
+      "鋤",
+      "木",
+      "畑"
+    ]
+  },
+  {
+    "id": "聿",
+    "level": "J",
+    "kanji": "聿",
+    "question": "墨を含んだ筆を手に、若者は{target}の札を机で眺めた。",
+    "targetText": "ふでづくり",
+    "parts": [
+      "筆",
+      "手",
+      "墨"
+    ]
+  },
+  {
+    "id": "艹",
+    "level": "J",
+    "kanji": "艹",
+    "question": "春祭りで、{target}をかぶった子どもが野原を走った。",
+    "targetText": "くさかんむり",
+    "parts": [
+      "草",
+      "冠"
+    ]
+  },
+  {
+    "id": "菫",
+    "level": "J",
+    "kanji": "菫",
+    "question": "草むらの土のそばで、紫の{target}が小さく咲いた。",
+    "targetText": "すみれ",
+    "parts": [
+      "草",
+      "土",
+      "紫"
+    ]
+  },
+  {
+    "id": "虍",
+    "level": "J",
+    "kanji": "虍",
+    "question": "夜の山道で、{target}の影が岩の上にちらりと動いた。",
+    "targetText": "とらがしら",
+    "parts": [
+      "虎",
+      "頭"
+    ]
+  },
+  {
+    "id": "蜀",
+    "level": "J",
+    "kanji": "蜀",
+    "question": "昔の地図で、{target}の山道を行く旅人が網にかかった虫を見つけた。",
+    "targetText": "しょく",
+    "parts": [
+      "網",
+      "包む",
+      "虫"
+    ]
+  },
+  {
+    "id": "豕",
+    "level": "J",
+    "kanji": "豕",
+    "question": "雨上がりの小屋で、{target}が鼻を鳴らしてえさを待った。",
+    "targetText": "いのこ",
+    "parts": [
+      "豚",
+      "鼻"
+    ]
+  },
+  {
+    "id": "豸",
+    "level": "J",
+    "kanji": "豸",
+    "question": "月夜の藪から、{target}が細い尾を揺らして顔を出した。",
+    "targetText": "むじな",
+    "parts": [
+      "獣",
+      "尾"
+    ]
+  },
+  {
+    "id": "辶",
+    "level": "J",
+    "kanji": "辶",
+    "question": "夕暮れの道で、{target}という旅人が点々と足あとを残した。",
+    "targetText": "しんにょう",
+    "parts": [
+      "道",
+      "点",
+      "進む"
+    ]
+  },
+  {
+    "id": "阝",
+    "level": "J",
+    "kanji": "阝",
+    "question": "丘のそばの小さな里で、{target}の祭りが朝から始まった。",
+    "targetText": "こざと",
+    "parts": [
+      "丘",
+      "里"
+    ]
+  },
+  {
+    "id": "隶",
+    "level": "J",
+    "kanji": "隶",
+    "question": "手を水で洗ったあと、古い役所の{target}が庭を掃いた。",
+    "targetText": "れい",
+    "parts": [
+      "手",
+      "水",
+      "役所"
+    ]
+  },
+  {
+    "id": "隹",
+    "level": "J",
+    "kanji": "隹",
+    "question": "秋の森で、{target}は短い尾の小鳥のように枝へ止まり、細く鳴いた。",
+    "targetText": "ふるとり",
+    "parts": [
+      "鳥",
+      "短い尾"
+    ]
+  },
+  {
+    "id": "韋",
+    "level": "J",
+    "kanji": "韋",
+    "question": "口を囲む足あと模様の{target}が、古い太鼓に張られていた。",
+    "targetText": "なめしがわ",
+    "parts": [
+      "口",
+      "足",
+      "囲む"
+    ]
+  },
+  {
+    "id": "鬯",
+    "level": "J",
+    "kanji": "鬯",
+    "question": "くぼんだ器に米を入れ、さじでくんだ{target}が祭りの夜に香った。",
+    "targetText": "においざけ",
+    "parts": [
+      "器",
+      "米",
+      "さじ"
+    ]
+  },
+  {
+    "id": "鬲",
+    "level": "J",
+    "kanji": "鬲",
+    "question": "ふたの下で、三本足の{target}が火にかけられ、白い湯気を上げた。",
+    "targetText": "かなえ",
+    "parts": [
+      "ふた",
+      "口",
+      "三本足"
+    ]
+  },
+  {
+    "id": "鹵",
+    "level": "J",
+    "kanji": "鹵",
+    "question": "占いの旗の下、囲いの中の白い粒のような{target}が浜風に光った。",
+    "targetText": "しお",
+    "parts": [
+      "占",
+      "囲い",
+      "米粒"
+    ]
+  },
+  {
+    "id": "龶",
+    "level": "J",
+    "kanji": "龶",
+    "question": "春の札で、三段の畑を一本の幹が貫く{target}が若葉の色に光った。",
+    "targetText": "あおがしら",
+    "parts": [
+      "三",
+      "縦棒",
+      "青の上"
     ]
   }
 ]
