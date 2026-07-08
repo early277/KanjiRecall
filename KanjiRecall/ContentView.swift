@@ -119,6 +119,21 @@ struct FilterView: View {
                     }
                 }
 
+
+                Section("並び順") {
+                    Picker("並び順", selection: $store.sortOrder) {
+                        ForEach(KanjiSortOrder.allCases) { order in
+                            Text(order.title).tag(order)
+                        }
+                    }
+
+                    Toggle("回答済みを先に表示", isOn: $store.prioritizeAnswered)
+
+                    Text("初期順はJSONに入っている順です。タグ頻度順はPDFタグ作成時の出現回数順を使います。漢字コード順は読み順ではなく文字コード順です。回答済みを先に表示すると、書ける・書けないを選んだ漢字を未出題より前に出します。")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+
                 Section("状態") {
                     Toggle("未出題を出す", isOn: $store.includeUntried)
                     Toggle("書けない問題を出す", isOn: $store.includeReview)

@@ -22,6 +22,7 @@ enum AppTab: Hashable {
 final class KanjiStore: ObservableObject {
     @Published var cards: [KanjiCard] = []
     @Published var currentIndex: Int = 0
+    @Published var currentCardID: String? = nil
     @Published var reviewIDs: Set<String> = []
     @Published var masteredIDs: Set<String> = []
     @Published var masteredUntil: [String: TimeInterval] = [:]
@@ -41,6 +42,20 @@ final class KanjiStore: ObservableObject {
     }
     @Published var includeMastered: Bool = false {
         didSet { saveFilterSettings() }
+    }
+
+    @Published var sortOrder: KanjiSortOrder = .original {
+        didSet {
+            saveSortOrder()
+            lockCurrentCardIfNeeded()
+        }
+    }
+
+    @Published var prioritizeAnswered: Bool = true {
+        didSet {
+            savePrioritizeAnswered()
+            lockCurrentCardIfNeeded()
+        }
     }
 
     @Published var lastMessage: String = ""
@@ -64,6 +79,8 @@ final class KanjiStore: ObservableObject {
     private let filterReviewKey = "kanji_filter_review_v1"
     private let filterMasteredKey = "kanji_filter_mastered_v1"
     private let filterSettingsFileName = "kanji_filter_settings_v2.json"
+    private let sortOrderKey = "kanji_sort_order_v1"
+    private let prioritizeAnsweredKey = "kanji_prioritize_answered_v1"
 
     init() {
         loadCards()
@@ -72,6 +89,9 @@ final class KanjiStore: ObservableObject {
         loadMasteredUntil()
         loadTags()
         loadFilterSettings()
+        loadSortOrder()
+        loadPrioritizeAnswered()
+        lockCurrentCardIfNeeded()
     }
 
     var levelFilterOptions: [KanjiLevelFilter] {
@@ -93,6 +113,9 @@ final class KanjiStore: ObservableObject {
             }
             if filter.id == "X1" {
                 return existingLevels.contains { $0.hasPrefix("X") }
+            }
+            if filter.id == "J" {
+                return existingLevels.contains { $0.hasPrefix("J") }
             }
             if filter.id == "none" {
                 return existingLevels.contains("")
@@ -125,7 +148,7 @@ final class KanjiStore: ObservableObject {
         // ここで1回だけ作って使い回す。
         let selectedFilters = useAllLevels ? [] : selectedLevelFilters
 
-        return cards.filter { card in
+        let filtered = cards.filter { card in
             if !useAllLevels && !selectedFilters.contains(where: { $0.matches(card.level) }) {
                 return false
             }
@@ -143,6 +166,8 @@ final class KanjiStore: ObservableObject {
                 return includeMastered || isMasteredDue(card)
             }
         }
+
+        return sortedActiveCards(filtered)
     }
 
     var filterSummary: String {
@@ -165,6 +190,12 @@ final class KanjiStore: ObservableObject {
         if includeReview { statusItems.append("書けない") }
         if includeMastered { statusItems.append("書ける") }
         items.append("状態: \(statusItems.isEmpty ? "なし" : statusItems.joined(separator: "・"))")
+        if sortOrder != .original {
+            items.append("並び順: \(sortOrder.title)")
+        }
+        if prioritizeAnswered {
+            items.append("回答済み優先")
+        }
 
         return items.joined(separator: " / ")
     }
@@ -177,6 +208,12 @@ final class KanjiStore: ObservableObject {
 
         let list = activeCards
         guard !list.isEmpty else { return nil }
+
+        if let currentCardID,
+           let card = list.first(where: { $0.id == currentCardID }) {
+            return card
+        }
+
         let index = min(currentIndex, list.count - 1)
         return list[index]
     }
@@ -190,6 +227,12 @@ final class KanjiStore: ObservableObject {
 
         let list = activeCards
         guard !list.isEmpty else { return "0 / 0" }
+
+        if let currentCardID,
+           let index = list.firstIndex(where: { $0.id == currentCardID }) {
+            return "\(index + 1) / \(list.count)"
+        }
+
         return "\(min(currentIndex + 1, list.count)) / \(list.count)"
     }
 
@@ -250,6 +293,7 @@ final class KanjiStore: ObservableObject {
 
         cards = decoded
         currentIndex = 0
+        currentCardID = nil
         linkedCardID = nil
         selectedLevelFilterIDs = ["all"]
         selectedTagFilterID = "all"
@@ -264,6 +308,7 @@ final class KanjiStore: ObservableObject {
     func resetCardsToBundle() {
         UserDefaults.standard.removeObject(forKey: cardsKey)
         currentIndex = 0
+        currentCardID = nil
         linkedCardID = nil
         selectedLevelFilterIDs = ["all"]
         selectedTagFilterID = "all"
@@ -395,6 +440,12 @@ final class KanjiStore: ObservableObject {
             }
         }
 
+        let oldJISLevelIDs = Set(["J1", "J2", "J3", "J4"])
+        if !selectedLevelFilterIDs.isDisjoint(with: oldJISLevelIDs) {
+            selectedLevelFilterIDs.subtract(oldJISLevelIDs)
+            selectedLevelFilterIDs.insert("J")
+        }
+
         let validLevelIDs = Set(levelFilterOptions.map { $0.id })
         selectedLevelFilterIDs = selectedLevelFilterIDs.filter { validLevelIDs.contains($0) }
         if selectedLevelFilterIDs.isEmpty {
@@ -475,7 +526,9 @@ final class KanjiStore: ObservableObject {
 
         selectedLevelFilterIDs = cleaned
         currentIndex = 0
+        currentCardID = nil
         saveFilterSettings()
+        lockCurrentCardIfNeeded()
     }
 
     func toggleLevelFilter(_ option: KanjiLevelFilter) {
@@ -484,7 +537,9 @@ final class KanjiStore: ObservableObject {
         if option.id == "all" {
             selectedLevelFilterIDs = ["all"]
             currentIndex = 0
+            currentCardID = nil
             saveFilterSettings()
+            lockCurrentCardIfNeeded()
             return
         }
 
@@ -503,7 +558,9 @@ final class KanjiStore: ObservableObject {
 
         selectedLevelFilterIDs = ids
         currentIndex = 0
+        currentCardID = nil
         saveFilterSettings()
+        lockCurrentCardIfNeeded()
     }
 
     private func matchesSelectedLevelFilters(_ level: String?) -> Bool {
@@ -528,6 +585,7 @@ final class KanjiStore: ObservableObject {
             selectedTagFilterID = tag.id
         }
         currentIndex = 0
+        currentCardID = nil
         saveTags()
         saveFilterSettings()
         lastMessage = "タグ「\(name)」に \(uniqueIDs.count) 件を登録しました。"
@@ -550,7 +608,9 @@ final class KanjiStore: ObservableObject {
         includeReview = true
         includeMastered = false
         currentIndex = 0
+        currentCardID = nil
         saveFilterSettings()
+        lockCurrentCardIfNeeded()
     }
 
     func clearLinkedCard() {
@@ -559,20 +619,24 @@ final class KanjiStore: ObservableObject {
 
     func filterDidChange() {
         linkedCardID = nil
+        currentCardID = nil
         currentIndex = 0
         saveFilterSettings()
+        lockCurrentCardIfNeeded()
     }
 
     func markCorrect(_ card: KanjiCard, retention: MasteryRetention) {
         let oldID = card.id
+        let preferredNextID = nextCandidateID(after: oldID)
         setMastered(card, retention: retention)
-        advanceAfterStateChange(oldID: oldID)
+        advanceAfterStateChange(oldID: oldID, preferredNextID: preferredNextID)
     }
 
     func markWrong(_ card: KanjiCard) {
         let oldID = card.id
+        let preferredNextID = nextCandidateID(after: oldID)
         setStatus(.review, for: card)
-        advanceAfterStateChange(oldID: oldID)
+        advanceAfterStateChange(oldID: oldID, preferredNextID: preferredNextID)
     }
 
     func setStatus(_ status: CardStudyStatus, for card: KanjiCard) {
@@ -654,22 +718,32 @@ final class KanjiStore: ObservableObject {
 
     func next() {
         linkedCardID = nil
-        let count = activeCards.count
-        guard count > 0 else {
+        let list = activeCards
+        guard !list.isEmpty else {
             currentIndex = 0
+            currentCardID = nil
             return
         }
-        currentIndex = (currentIndex + 1) % count
+
+        let baseIndex = currentActiveIndex(in: list) ?? min(currentIndex, list.count - 1)
+        let newIndex = (baseIndex + 1) % list.count
+        currentIndex = newIndex
+        currentCardID = list[newIndex].id
     }
 
     func previous() {
         linkedCardID = nil
-        let count = activeCards.count
-        guard count > 0 else {
+        let list = activeCards
+        guard !list.isEmpty else {
             currentIndex = 0
+            currentCardID = nil
             return
         }
-        currentIndex = (currentIndex - 1 + count) % count
+
+        let baseIndex = currentActiveIndex(in: list) ?? min(currentIndex, list.count - 1)
+        let newIndex = (baseIndex - 1 + list.count) % list.count
+        currentIndex = newIndex
+        currentCardID = list[newIndex].id
     }
 
     func jump(to card: KanjiCard) {
@@ -681,8 +755,10 @@ final class KanjiStore: ObservableObject {
         if let index = list.firstIndex(where: { $0.id == card.id }) {
             linkedCardID = nil
             currentIndex = index
+            currentCardID = card.id
         } else {
             linkedCardID = card.id
+            currentCardID = nil
         }
 
         selectedTab = .practice
@@ -716,7 +792,7 @@ final class KanjiStore: ObservableObject {
         case "JH": return "中"
         case "HS": return "高"
         case "GEN": return "般"
-        case "J1": return "J1"
+        case "J", "J1", "J2", "J3", "J4": return "他"
         default:
             let name = levelDisplayName(level)
             return name
@@ -725,7 +801,7 @@ final class KanjiStore: ObservableObject {
                 .replacingOccurrences(of: "中学生", with: "中")
                 .replacingOccurrences(of: "高校", with: "高")
                 .replacingOccurrences(of: "一般", with: "般")
-                .replacingOccurrences(of: "JIS第1水準", with: "J1")
+                .replacingOccurrences(of: "その他", with: "他")
         }
     }
 
@@ -802,20 +878,161 @@ final class KanjiStore: ObservableObject {
         return "書ける：\(days)日後"
     }
 
-    private func advanceAfterStateChange(oldID: String) {
+    func lockCurrentCardIfNeeded() {
+        guard linkedCardID == nil else { return }
+        let list = activeCards
+        guard !list.isEmpty else {
+            currentIndex = 0
+            currentCardID = nil
+            return
+        }
+
+        if let currentCardID,
+           let index = list.firstIndex(where: { $0.id == currentCardID }) {
+            currentIndex = index
+            return
+        }
+
+        let index = min(currentIndex, list.count - 1)
+        currentIndex = index
+        currentCardID = list[index].id
+    }
+
+    private func currentActiveIndex(in list: [KanjiCard]? = nil) -> Int? {
+        let list = list ?? activeCards
+        if let currentCardID,
+           let index = list.firstIndex(where: { $0.id == currentCardID }) {
+            return index
+        }
+        if currentIndex >= 0 && currentIndex < list.count {
+            return currentIndex
+        }
+        return nil
+    }
+
+    private func nextCandidateID(after oldID: String) -> String? {
+        let list = activeCards
+        guard !list.isEmpty else { return nil }
+        guard let oldIndex = list.firstIndex(where: { $0.id == oldID }) else {
+            return currentCardID
+        }
+        if list.count == 1 { return nil }
+        return list[(oldIndex + 1) % list.count].id
+    }
+
+    private func advanceAfterStateChange(oldID: String, preferredNextID: String?) {
         linkedCardID = nil
         let list = activeCards
 
         guard !list.isEmpty else {
             currentIndex = 0
+            currentCardID = nil
             return
         }
 
-        if let oldIndex = list.firstIndex(where: { $0.id == oldID }) {
-            currentIndex = (oldIndex + 1) % list.count
-        } else if currentIndex >= list.count {
-            currentIndex = 0
+        if let preferredNextID,
+           let index = list.firstIndex(where: { $0.id == preferredNextID }) {
+            currentIndex = index
+            currentCardID = preferredNextID
+            return
         }
+
+        if let index = list.firstIndex(where: { $0.id == oldID }) {
+            currentIndex = index
+            currentCardID = oldID
+            return
+        }
+
+        let index = min(currentIndex, list.count - 1)
+        currentIndex = index
+        currentCardID = list[index].id
+    }
+
+    private func sortedActiveCards(_ input: [KanjiCard]) -> [KanjiCard] {
+        var originalIndex: [String: Int] = [:]
+        for (offset, card) in cards.enumerated() where originalIndex[card.id] == nil {
+            originalIndex[card.id] = offset
+        }
+
+        let originalOrder: (KanjiCard, KanjiCard) -> Bool = { lhs, rhs in
+            (originalIndex[lhs.id] ?? Int.max) < (originalIndex[rhs.id] ?? Int.max)
+        }
+
+        let sorted: [KanjiCard]
+        switch sortOrder {
+        case .original:
+            sorted = input.sorted(by: originalOrder)
+        case .tagFrequency:
+            if let selectedTag {
+                var tagIndex: [String: Int] = [:]
+                for (offset, id) in selectedTag.kanjiIDs.enumerated() where tagIndex[id] == nil {
+                    tagIndex[id] = offset
+                }
+                sorted = input.sorted { lhs, rhs in
+                    let li = tagIndex[lhs.id] ?? Int.max
+                    let ri = tagIndex[rhs.id] ?? Int.max
+                    if li != ri { return li < ri }
+                    return originalOrder(lhs, rhs)
+                }
+            } else {
+                sorted = input.sorted(by: originalOrder)
+            }
+        case .level:
+            sorted = input.sorted { lhs, rhs in
+                let lr = kanjiLevelSortRank(lhs.level)
+                let rr = kanjiLevelSortRank(rhs.level)
+                if lr != rr { return lr < rr }
+                return originalOrder(lhs, rhs)
+            }
+        case .kanji:
+            sorted = input.sorted { lhs, rhs in
+                if lhs.kanji != rhs.kanji { return lhs.kanji < rhs.kanji }
+                return originalOrder(lhs, rhs)
+            }
+        }
+
+        guard prioritizeAnswered else {
+            return sorted
+        }
+
+        return sorted.enumerated()
+            .sorted { lhs, rhs in
+                let lp = answeredPriorityRank(for: lhs.element)
+                let rp = answeredPriorityRank(for: rhs.element)
+                if lp != rp { return lp < rp }
+                return lhs.offset < rhs.offset
+            }
+            .map { $0.element }
+    }
+
+    private func answeredPriorityRank(for card: KanjiCard) -> Int {
+        switch status(for: card) {
+        case .review, .mastered:
+            return 0
+        case .untried:
+            return 1
+        }
+    }
+
+    private func loadSortOrder() {
+        let raw = UserDefaults.standard.string(forKey: sortOrderKey) ?? KanjiSortOrder.original.rawValue
+        sortOrder = KanjiSortOrder(rawValue: raw) ?? .original
+    }
+
+    private func saveSortOrder() {
+        UserDefaults.standard.set(sortOrder.rawValue, forKey: sortOrderKey)
+    }
+
+    private func loadPrioritizeAnswered() {
+        if UserDefaults.standard.object(forKey: prioritizeAnsweredKey) == nil {
+            prioritizeAnswered = true
+        } else {
+            prioritizeAnswered = UserDefaults.standard.bool(forKey: prioritizeAnsweredKey)
+        }
+    }
+
+    private func savePrioritizeAnswered() {
+        UserDefaults.standard.set(prioritizeAnswered, forKey: prioritizeAnsweredKey)
     }
 
     private func validateImportedCards(_ importedCards: [KanjiCard]) throws {

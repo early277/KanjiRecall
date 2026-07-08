@@ -6,6 +6,8 @@ struct QuestionTextView: View {
     var body: some View {
         composedText
             .lineSpacing(6)
+            .lineLimit(nil)
+            .fixedSize(horizontal: false, vertical: true)
             .textSelection(.enabled)
     }
 
